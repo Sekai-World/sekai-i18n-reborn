@@ -1,0 +1,7 @@
+{
+  "homeEventDataUnavailable": "이벤트 데이터를 일시적으로 사용할 수 없습니다.",
+  "homeEventDataRequestFailed": "이벤트 데이터 요청에 실패했습니다.",
+  "invalidEventId": "유효하지 않은 이벤트 ID입니다.",
+  "eventUnavailableInCurrentRegion": "이 이벤트는 현재 지역에서 사용할 수 없습니다. 배지를 사용해 지역을 전환하세요.",
+  "failedToLoadEventData": "이벤트 데이터를 불러오지 못했습니다."
+}

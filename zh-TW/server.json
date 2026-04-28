@@ -1,0 +1,7 @@
+{
+  "homeEventDataUnavailable": "活動資料暫時不可用",
+  "homeEventDataRequestFailed": "活動資料請求失敗",
+  "invalidEventId": "無效的活動 ID。",
+  "eventUnavailableInCurrentRegion": "此活動在目前地區不可用，請使用角標切換地區。",
+  "failedToLoadEventData": "活動資料載入失敗。"
+}
