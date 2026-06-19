@@ -87,5 +87,12 @@
   "versionInfo.appLabel": "APP",
   "versionInfo.dataLabel": "DATA",
   "versionInfo.assetLabel": "ASSET",
-  "bannerCharacterLabel": "封面角色"
+  "bannerCharacterLabel": "封面角色",
+  "cardListFilterCharacterLabel": "角色",
+  "cardListFilterUnitLabel": "团体",
+  "cardListLoadMoreHintDesktop": "继续向下滚动加载更多。",
+  "cardListLoadMoreHintMobile": "继续上拉加载更多。",
+  "cardListRetry": "重试",
+  "eventListFilterBannerUnitLabel": "封面角色团体",
+  "eventListFilterEventTypeLabel": "活动类型"
 }
