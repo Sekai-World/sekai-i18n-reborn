@@ -1,0 +1,22 @@
+{
+  "cardImageAltSuffix": "卡片圖片",
+  "cardListCharacterFallback": "未知角色",
+  "cardListEmpty": "找不到卡牌。",
+  "cardListEnd": "沒有更多卡片。",
+  "cardListFilter3dmvCutInLabel": "3DMV 特寫",
+  "cardListFilterAttrLabel": "屬性",
+  "cardListFilterCharacterLabel": "角色",
+  "cardListFilterNameLabel": "卡片名稱",
+  "cardListFilterNamePlaceholder": "依卡片名稱進行模糊搜尋",
+  "cardListFilterRarityLabel": "稀有度",
+  "cardListFilterSkillLabel": "技能",
+  "cardListFilterSupportUnitLabel": "支援隊伍",
+  "cardListFilterTypeLabel": "類型",
+  "cardListFilterUnitLabel": "團體",
+  "cardListLoadFailed": "卡片載入失敗。",
+  "cardListLoading": "正在載入卡片……",
+  "cardListLoadingMore": "正在載入更多卡片……",
+  "cardListReleaseLabel": "發布",
+  "cardListTitle": "卡片列表",
+  "cardListViewComfy": "舒適檢視"
+}
