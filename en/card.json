@@ -1,0 +1,22 @@
+{
+  "cardImageAltSuffix": "card image",
+  "cardListCharacterFallback": "Unknown Character",
+  "cardListEmpty": "No cards found.",
+  "cardListEnd": "No more cards.",
+  "cardListFilter3dmvCutInLabel": "3DMV Cut-In",
+  "cardListFilterAttrLabel": "Attribute",
+  "cardListFilterCharacterLabel": "Character",
+  "cardListFilterNameLabel": "Card Name",
+  "cardListFilterNamePlaceholder": "Fuzzy search by card name",
+  "cardListFilterRarityLabel": "Rarity",
+  "cardListFilterSkillLabel": "Skill",
+  "cardListFilterSupportUnitLabel": "Support Unit",
+  "cardListFilterTypeLabel": "Type",
+  "cardListFilterUnitLabel": "Unit",
+  "cardListLoadFailed": "Failed to load cards.",
+  "cardListLoading": "Loading cards...",
+  "cardListLoadingMore": "Loading more cards...",
+  "cardListReleaseLabel": "Release",
+  "cardListTitle": "Card List",
+  "cardListViewComfy": "Comfy View"
+}
