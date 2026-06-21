@@ -1,1 +1,7 @@
-{}
+{
+  "cardImageAltSuffix": "카드 이미지",
+  "cardListCharacterFallback": "알 수 없는 캐릭터",
+  "cardListEmpty": "카드를 찾을 수 없습니다.",
+  "cardListEnd": "더 이상 카드가 없습니다.",
+  "cardListFilter3dmvCutInLabel": "3DMV 컷인"
+}
