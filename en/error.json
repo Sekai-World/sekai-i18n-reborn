@@ -1,0 +1,11 @@
+{
+  "errorPage.description": "Something got in the way while loading this page.",
+  "errorPage.homeAction": "Go Home",
+  "errorPage.kicker": "Page unavailable",
+  "errorPage.nextStep": "You can head back to the home page or try loading this page again.",
+  "errorPage.notFoundDescription": "The link may be outdated, or this database entry may not exist in the selected region.",
+  "errorPage.notFoundTitle": "We couldn't find that page.",
+  "errorPage.retryAction": "Retry",
+  "errorPage.title": "This page couldn't load.",
+  "errorPage.tryLater": "If this keeps happening, please try again later."
+}
