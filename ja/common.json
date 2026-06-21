@@ -86,5 +86,8 @@
   "versionInfo.title": "バージョン情報",
   "versionInfo.appLabel": "APP",
   "versionInfo.dataLabel": "DATA",
-  "versionInfo.assetLabel": "ASSET"
+  "versionInfo.assetLabel": "ASSET",
+  "cardListFilterCharacterLabel": "キャラクター",
+  "cardListFilterUnitLabel": "ユニット",
+  "cardListLoadMoreHintDesktop": "さらに下へスクロールすると読み込みます。"
 }

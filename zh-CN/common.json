@@ -94,5 +94,13 @@
   "cardListLoadMoreHintMobile": "继续上拉加载更多。",
   "cardListRetry": "重试",
   "eventListFilterBannerUnitLabel": "封面角色团体",
-  "eventListFilterEventTypeLabel": "活动类型"
+  "eventListFilterEventTypeLabel": "活动类型",
+  "musicListLoadMoreHintMobile": "继续上拉加载更多。",
+  "settings.showSpoilerContent": "显示剧透内容",
+  "eventListFilterUnitLabel": "活动团体",
+  "eventListLoading": "正在载入活动...",
+  "mixed": "混合",
+  "musicListLoadFailed": "载入歌曲失败 .",
+  "musicListLoadingMore": "正在载入更多歌曲...",
+  "musicListLoadMoreHintDesktop": "继续向下滚动加载更多。"
 }
