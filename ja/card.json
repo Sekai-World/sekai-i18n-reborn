@@ -1,1 +1,22 @@
-{}
+{
+  "cardImageAltSuffix": "カード画像",
+  "cardListCharacterFallback": "不明なキャラクター",
+  "cardListEmpty": "カードが見つかりません。",
+  "cardListEnd": "これ以上のカードはありません.",
+  "cardListFilter3dmvCutInLabel": "3DMVカットイン",
+  "cardListFilterAttrLabel": "属性",
+  "cardListFilterCharacterLabel": "キャラクター",
+  "cardListFilterNameLabel": "カード名",
+  "cardListFilterNamePlaceholder": "カード名であいまい検索",
+  "cardListFilterRarityLabel": "レアリティ",
+  "cardListFilterSkillLabel": "スキル",
+  "cardListFilterSupportUnitLabel": "サポートユニット",
+  "cardListFilterTypeLabel": "タイプ",
+  "cardListFilterUnitLabel": "ユニット",
+  "cardListLoadFailed": "カードの読み込みに失敗しました。",
+  "cardListLoading": "カードを読み込み中...",
+  "cardListLoadingMore": "さらにカードを読み込み中...",
+  "cardListReleaseLabel": "リリース",
+  "cardListTitle": "カード一覧",
+  "cardListViewComfy": "快適ビュー"
+}

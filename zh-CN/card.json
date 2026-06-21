@@ -1,0 +1,22 @@
+{
+  "cardImageAltSuffix": "卡面",
+  "cardListCharacterFallback": "未知角色",
+  "cardListEmpty": "未找到卡牌。",
+  "cardListEnd": "没有更多卡牌了。",
+  "cardListFilter3dmvCutInLabel": "3DMV特写",
+  "cardListFilterAttrLabel": "属性",
+  "cardListFilterCharacterLabel": "角色",
+  "cardListFilterNameLabel": "卡牌名称",
+  "cardListFilterNamePlaceholder": "卡名模糊搜索",
+  "cardListFilterRarityLabel": "稀有度",
+  "cardListFilterSkillLabel": "技能",
+  "cardListFilterSupportUnitLabel": "辅助团体",
+  "cardListFilterTypeLabel": "类型",
+  "cardListFilterUnitLabel": "团体",
+  "cardListLoadFailed": "载入卡牌失败。",
+  "cardListLoading": "载入卡牌中……",
+  "cardListLoadingMore": "载入更多卡牌……",
+  "cardListReleaseLabel": "发布",
+  "cardListTitle": "卡牌列表",
+  "cardListViewComfy": "舒适视图"
+}
