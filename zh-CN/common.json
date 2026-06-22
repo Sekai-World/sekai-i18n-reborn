@@ -51,5 +51,21 @@
   "clearLabel": "清除",
   "cool": "酷",
   "cute": "可爱",
-  "happy": "快乐"
+  "happy": "快乐",
+  "listFilterApply": "应用筛选",
+  "listFilterReset": "重置",
+  "listFiltersTitle": "筛选",
+  "listLoadMoreHintDesktop": "继续向下滚动加载更多。",
+  "listLoadMoreHintMobile": "继续上拉加载更多。",
+  "listOpenFilters": "打开筛选器",
+  "listRetry": "重试",
+  "listSortById": "按 ID 排序",
+  "listSortByReleaseAt": "按发布时间排序",
+  "listViewAgenda": "议程视图",
+  "listViewGrid": "网格视图",
+  "mysterious": "神秘",
+  "pure": "纯真",
+  "settings.contentDisplay": "内容显示",
+  "settings.lowMotionMode": "低动态模式",
+  "settings.mosaickedSpoilerContent": "已打码的剧透内容"
 }
