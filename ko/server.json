@@ -1,7 +1,13 @@
 {
-  "homeEventDataUnavailable": "이벤트 데이터를 일시적으로 사용할 수 없습니다.",
-  "homeEventDataRequestFailed": "이벤트 데이터 요청에 실패했습니다.",
-  "invalidEventId": "유효하지 않은 이벤트 ID입니다.",
+  "cardUnavailableInCurrentRegion": "이 카드는 현재 지역에서 사용할 수 없습니다. 배지를 사용해 지역을 전환하세요.",
   "eventUnavailableInCurrentRegion": "이 이벤트는 현재 지역에서 사용할 수 없습니다. 배지를 사용해 지역을 전환하세요.",
-  "failedToLoadEventData": "이벤트 데이터를 불러오지 못했습니다."
+  "failedToLoadCardData": "카드 데이터를 불러오지 못했습니다.",
+  "failedToLoadEventData": "이벤트 데이터를 불러오지 못했습니다.",
+  "failedToLoadGachaData": "가챠 데이터를 불러오지 못했습니다.",
+  "gachaUnavailableInCurrentRegion": "이 가챠는 현재 지역에서 사용할 수 없습니다. 배지를 사용해 지역을 전환하세요.",
+  "homeEventDataRequestFailed": "이벤트 데이터 요청에 실패했습니다.",
+  "homeEventDataUnavailable": "이벤트 데이터를 일시적으로 사용할 수 없습니다.",
+  "invalidCardId": "유효하지 않은 카드 ID입니다.",
+  "invalidEventId": "유효하지 않은 이벤트 ID입니다.",
+  "invalidGachaId": "유효하지 않은 가챠 ID입니다."
 }
