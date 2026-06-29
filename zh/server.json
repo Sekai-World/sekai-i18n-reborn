@@ -1,0 +1,13 @@
+{
+  "cardUnavailableInCurrentRegion": "此卡片在当前地区不可用，请使用角标切换地区。",
+  "eventUnavailableInCurrentRegion": "此活动在当前地区不可用，请使用角标切换地区。",
+  "failedToLoadCardData": "卡片数据加载失败。",
+  "failedToLoadEventData": "活动数据加载失败。",
+  "failedToLoadGachaData": "扭蛋数据加载失败。",
+  "gachaUnavailableInCurrentRegion": "此扭蛋在当前地区不可用，请使用角标切换地区。",
+  "homeEventDataRequestFailed": "活动数据请求失败。",
+  "homeEventDataUnavailable": "活动数据暂时不可用。",
+  "invalidCardId": "无效的卡片 ID。",
+  "invalidEventId": "无效的活动 ID。",
+  "invalidGachaId": "无效的扭蛋 ID。"
+}
