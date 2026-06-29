@@ -1,7 +1,13 @@
 {
-  "homeEventDataUnavailable": "活動資料暫時不可用",
-  "homeEventDataRequestFailed": "活動資料請求失敗",
-  "invalidEventId": "無效的活動 ID。",
+  "cardUnavailableInCurrentRegion": "此卡片在目前地區不可用，請使用角標切換地區。",
   "eventUnavailableInCurrentRegion": "此活動在目前地區不可用，請使用角標切換地區。",
-  "failedToLoadEventData": "活動資料載入失敗。"
+  "failedToLoadCardData": "卡片資料載入失敗。",
+  "failedToLoadEventData": "活動資料載入失敗。",
+  "failedToLoadGachaData": "轉蛋資料載入失敗。",
+  "gachaUnavailableInCurrentRegion": "此轉蛋在目前地區不可用，請使用角標切換地區。",
+  "homeEventDataRequestFailed": "活動資料請求失敗。",
+  "homeEventDataUnavailable": "活動資料暫時不可用。",
+  "invalidCardId": "無效的卡片 ID。",
+  "invalidEventId": "無效的活動 ID。",
+  "invalidGachaId": "無效的轉蛋 ID。"
 }
