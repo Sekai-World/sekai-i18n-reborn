@@ -1,0 +1,11 @@
+{
+  "errorPage.description": "페이지를 불러오는 중 문제가 발생했습니다.",
+  "errorPage.homeAction": "홈으로 이동",
+  "errorPage.kicker": "페이지를 사용할 수 없음",
+  "errorPage.nextStep": "홈으로 돌아가거나 페이지를 다시 불러와 보세요.",
+  "errorPage.notFoundDescription": "링크가 만료되었거나, 선택한 리전에 해당 데이터가 존재하지 않습니다.",
+  "errorPage.notFoundTitle": "페이지를 찾을 수 없습니다.",
+  "errorPage.retryAction": "다시 시도",
+  "errorPage.title": "페이지를 불러올 수 없습니다.",
+  "errorPage.tryLater": "계속 발생한다면 나중에 다시 시도해 주세요."
+}
