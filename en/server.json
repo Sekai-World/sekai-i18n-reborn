@@ -4,10 +4,13 @@
   "failedToLoadCardData": "Failed to load card data.",
   "failedToLoadEventData": "Failed to load event data.",
   "failedToLoadGachaData": "Failed to load gacha data.",
+  "failedToLoadMusicData": "Failed to load music data.",
   "gachaUnavailableInCurrentRegion": "This gacha is not available in the current region. Switch region using the badges.",
   "homeEventDataRequestFailed": "Failed to request event data.",
   "homeEventDataUnavailable": "Event data is temporarily unavailable.",
   "invalidCardId": "Invalid card id.",
   "invalidEventId": "Invalid event id.",
-  "invalidGachaId": "Invalid gacha id."
+  "invalidGachaId": "Invalid gacha id.",
+  "invalidMusicId": "Invalid music id.",
+  "musicUnavailableInCurrentRegion": "This music is not available in the current region. Switch region using the badges."
 }
