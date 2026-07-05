@@ -47,6 +47,7 @@
   "gachaType.normal": "Normal Gacha",
   "gachaTypeLabel": "Gacha Type",
   "imageUnavailable": "Image unavailable",
+  "internalResourceCodeLabel": "Internal Resource Code",
   "lotteryType.categorized_wish": "Wish",
   "lotteryType.normal": "Normal",
   "noGachaData": "No gacha data.",

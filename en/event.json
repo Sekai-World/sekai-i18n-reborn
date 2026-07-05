@@ -46,6 +46,7 @@
   "eventTypeValues.cheerfulCarnival": "Cheerful Carnival",
   "eventTypeValues.marathon": "Marathon",
   "eventTypeValues.worldLink": "World Link",
+  "internalResourceCodeLabel": "Internal Resource Code",
   "pageTitle.eventPrefix": "Event",
   "startAt": "Start"
 }
