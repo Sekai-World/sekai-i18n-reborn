@@ -76,5 +76,7 @@
   "eventVirtualLiveTypeLabel": "Virtual Live Type",
   "internalResourceCodeLabel": "Internal Resource Code",
   "pageTitle.eventPrefix": "Event",
+  "rankingRewardsLoadErrorLabel": "Failed to load all rewards. Try again.",
+  "rankingRewardsLoadingLabel": "Loading rewards...",
   "startAt": "Start"
 }
