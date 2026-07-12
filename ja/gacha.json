@@ -47,6 +47,7 @@
   "gachaType.normal": "通常ガチャ",
   "gachaTypeLabel": "ガチャタイプ",
   "imageUnavailable": "利用可能な画像がありません",
+  "internalResourceCodeLabel": "内部リソースコード",
   "lotteryType.categorized_wish": "指名",
   "lotteryType.normal": "通常",
   "noGachaData": "ガチャデータがありません。",

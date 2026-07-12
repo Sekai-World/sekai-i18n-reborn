@@ -58,6 +58,7 @@
   "settings.interfaceLanguage": "表示言語",
   "settings.lowMotionMode": "モーション軽減モード",
   "settings.mosaickedSpoilerContent": "ネタバレをモザイク表示",
+  "settings.ongoingFirst": "開催中を優先",
   "settings.showSpoilerContent": "ネタバレを表示",
   "settings.theme": "テーマ",
   "settings.title": "設定",
