@@ -47,6 +47,7 @@
   "gachaType.normal": "일반 가챠",
   "gachaTypeLabel": "가챠 유형",
   "imageUnavailable": "사용 가능한 이미지가 없습니다",
+  "internalResourceCodeLabel": "내부 리소스 코드",
   "lotteryType.categorized_wish": "지명",
   "lotteryType.normal": "일반",
   "noGachaData": "가챠 데이터가 없습니다.",

@@ -58,6 +58,7 @@
   "settings.interfaceLanguage": "인터페이스 언어",
   "settings.lowMotionMode": "모션 축소 모드",
   "settings.mosaickedSpoilerContent": "스포일러 모자이크 처리",
+  "settings.ongoingFirst": "진행 중 우선",
   "settings.showSpoilerContent": "스포일러 표시",
   "settings.theme": "테마",
   "settings.title": "설정",
