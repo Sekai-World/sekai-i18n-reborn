@@ -78,5 +78,6 @@
   "pageTitle.eventPrefix": "Event",
   "rankingRewardsLoadErrorLabel": "Failed to load all rewards. Try again.",
   "rankingRewardsLoadingLabel": "Loading rewards...",
-  "startAt": "Start"
+  "startAt": "Start",
+  "world_bloom": "World Link"
 }
