@@ -14,6 +14,6 @@
   "invalidGachaId": "無効なガチャIDです。",
   "invalidMusicId": "楽曲 ID が無効です。",
   "invalidVirtualLiveId": "無効なバーチャルライブIDです。",
-  "musicUnavailableInCurrentRegion": "この楽曲は現在のリージョンでは利用できません。バッジでリージョンを切り替えてください。",
-  "virtualLiveUnavailableInCurrentRegion": "このバーチャルライブは現在のリージョンでは利用できません。バッジでリージョンを切り替えてください。"
+  "musicUnavailableInCurrentRegion": "この楽曲は現在の地域では利用できません。バッジから地域を切り替えてください。",
+  "virtualLiveUnavailableInCurrentRegion": "このバーチャルライブは現在の地域では利用できません。バッジから地域を切り替えてください。"
 }
