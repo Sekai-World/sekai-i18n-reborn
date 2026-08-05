@@ -69,5 +69,6 @@
   "themeName.default": "기본",
   "themeName.mint": "민트",
   "themeName.sakura": "사쿠라",
-  "unitLabel": "유닛"
+  "unitLabel": "유닛",
+  "navigation.characters": "캐릭터"
 }

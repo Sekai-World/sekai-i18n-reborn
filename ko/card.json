@@ -66,5 +66,16 @@
   "supportUnitLabel": "서포트 유닛",
   "techniqueLabel": "테크닉",
   "totalLabel": "합계",
-  "typeLabel": "유형"
+  "typeLabel": "유형",
+  "cardGallery.asset.cutout": "멤버 컷아웃",
+  "cardGallery.asset.cutoutTrimmed": "멤버 컷아웃 (트리밍)",
+  "cardGallery.asset.full": "멤버 (전체)",
+  "cardGallery.asset.gacha": "멤버 가챠",
+  "cardGallery.asset.small": "멤버 소형",
+  "cardGallery.asset.thumbnail": "썸네일",
+  "cardGallery.button": "카드 갤러리",
+  "cardGallery.description": "이 카드에서 이용 가능한 일러스트를 확인합니다.",
+  "cardGallery.loading": "일러스트를 불러오는 중...",
+  "cardGallery.title": "카드 갤러리",
+  "cardGallery.unavailable": "이용 불가"
 }

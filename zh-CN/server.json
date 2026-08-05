@@ -1,16 +1,19 @@
 {
-  "cardUnavailableInCurrentRegion": "此卡片在当前地区不可用，请使用角标切换地区。",
+  "cardUnavailableInCurrentRegion": "此卡牌在当前地区不可用，请使用角标切换地区。",
   "eventUnavailableInCurrentRegion": "此活动在当前地区不可用，请使用角标切换地区。",
-  "failedToLoadCardData": "卡片数据加载失败。",
+  "failedToLoadCardData": "卡牌数据加载失败。",
   "failedToLoadEventData": "活动数据加载失败。",
   "failedToLoadGachaData": "扭蛋数据加载失败。",
   "failedToLoadMusicData": "无法加载歌曲数据。",
   "gachaUnavailableInCurrentRegion": "此扭蛋在当前地区不可用，请使用角标切换地区。",
   "homeEventDataRequestFailed": "活动数据请求失败。",
   "homeEventDataUnavailable": "活动数据暂时不可用。",
-  "invalidCardId": "无效的卡片 ID。",
+  "invalidCardId": "无效的卡牌 ID。",
   "invalidEventId": "无效的活动 ID。",
   "invalidGachaId": "无效的扭蛋 ID。",
   "invalidMusicId": "歌曲 ID 无效。",
-  "musicUnavailableInCurrentRegion": "该歌曲在当前区域不可用。请使用徽章切换区域。"
+  "musicUnavailableInCurrentRegion": "该歌曲在当前区域不可用。请使用徽章切换区域。",
+  "failedToLoadVirtualLiveData": "虚拟演唱会数据加载失败。",
+  "invalidVirtualLiveId": "无效的虚拟演唱会 ID。",
+  "virtualLiveUnavailableInCurrentRegion": "此虚拟演唱会在当前地区不可用，请使用角标切换地区。"
 }
