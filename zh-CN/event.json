@@ -28,7 +28,7 @@
   "eventBonusRateLabel": "加成率",
   "eventCardAttrAnyLabel": "任意属性",
   "eventCardIdLabel": "卡牌 ID",
-  "eventCardImageAltSuffix": "卡牌图像",
+  "eventCardImageAltSuffix": "卡牌插图",
   "eventCountdownTitle": "活动倒计时",
   "eventDataTitle": "活动数据",
   "eventFeaturedCardBonusLabel": "卡牌加成",
@@ -78,5 +78,6 @@
   "pageTitle.eventPrefix": "活动",
   "rankingRewardsLoadErrorLabel": "无法加载全部奖励。请重试。",
   "rankingRewardsLoadingLabel": "正在加载奖励...",
-  "startAt": "开始"
+  "startAt": "开始",
+  "world_bloom": "世界链接"
 }

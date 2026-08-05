@@ -5,6 +5,7 @@
   "failedToLoadEventData": "イベントデータの読み込みに失敗しました。",
   "failedToLoadGachaData": "ガチャデータの読み込みに失敗しました。",
   "failedToLoadMusicData": "楽曲データの読み込みに失敗しました。",
+  "failedToLoadVirtualLiveData": "バーチャルライブデータの読み込みに失敗しました。",
   "gachaUnavailableInCurrentRegion": "このガチャは現在の地域では利用できません。バッジから地域を切り替えてください。",
   "homeEventDataRequestFailed": "イベントデータの取得に失敗しました。",
   "homeEventDataUnavailable": "イベントデータは一時的に利用できません。",
@@ -12,5 +13,7 @@
   "invalidEventId": "無効なイベントIDです。",
   "invalidGachaId": "無効なガチャIDです。",
   "invalidMusicId": "楽曲 ID が無効です。",
-  "musicUnavailableInCurrentRegion": "この楽曲は現在のリージョンでは利用できません。バッジでリージョンを切り替えてください。"
+  "invalidVirtualLiveId": "無効なバーチャルライブIDです。",
+  "musicUnavailableInCurrentRegion": "この楽曲は現在の地域では利用できません。バッジから地域を切り替えてください。",
+  "virtualLiveUnavailableInCurrentRegion": "このバーチャルライブは現在の地域では利用できません。バッジから地域を切り替えてください。"
 }

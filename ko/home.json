@@ -13,5 +13,19 @@
   "versionInfo.appLabel": "앱",
   "versionInfo.assetLabel": "에셋",
   "versionInfo.dataLabel": "데이터",
-  "versionInfo.title": "버전 정보"
+  "versionInfo.title": "버전 정보",
+  "directory.cards.description": "카드 일러스트, 스테이터스, 스킬, 스토리를 확인합니다.",
+  "directory.cards.title": "카드",
+  "directory.characters.description": "캐릭터 프로필, 유닛, 관련 카드를 확인합니다.",
+  "directory.characters.title": "캐릭터",
+  "directory.description": "선택한 지역의 게임 카탈로그를 확인합니다.",
+  "directory.events.description": "이벤트 일정, 보너스, 보상 및 관련 콘텐츠를 확인합니다.",
+  "directory.events.title": "이벤트",
+  "directory.gachas.description": "배너, 픽업 카드, 확률 및 개최 정보를 확인합니다.",
+  "directory.gachas.title": "가챠",
+  "directory.musics.description": "곡, 난이도, 보컬 및 채보를 확인합니다.",
+  "directory.musics.title": "곡",
+  "directory.title": "데이터베이스 탐색",
+  "directory.virtualLives.description": "라이브 일정, 세트리스트, 캐릭터 및 보상을 확인합니다.",
+  "directory.virtualLives.title": "버추얼 라이브"
 }

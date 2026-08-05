@@ -78,5 +78,6 @@
   "pageTitle.eventPrefix": "イベント",
   "rankingRewardsLoadErrorLabel": "すべての報酬を読み込めませんでした。もう一度お試しください。",
   "rankingRewardsLoadingLabel": "報酬を読み込み中...",
-  "startAt": "開始"
+  "startAt": "開始",
+  "world_bloom": "ワールドリンク"
 }

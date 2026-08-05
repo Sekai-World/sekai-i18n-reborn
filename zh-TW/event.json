@@ -78,5 +78,6 @@
   "pageTitle.eventPrefix": "活動",
   "rankingRewardsLoadErrorLabel": "無法載入全部獎勵。請再試一次。",
   "rankingRewardsLoadingLabel": "正在載入獎勵...",
-  "startAt": "開始"
+  "startAt": "開始",
+  "world_bloom": "世界連結"
 }

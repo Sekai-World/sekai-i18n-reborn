@@ -12,5 +12,8 @@
   "invalidEventId": "유효하지 않은 이벤트 ID입니다.",
   "invalidGachaId": "유효하지 않은 가챠 ID입니다.",
   "invalidMusicId": "곡 ID가 올바르지 않습니다.",
-  "musicUnavailableInCurrentRegion": "이 곡은 현재 지역에서 사용할 수 없습니다. 배지로 지역을 전환하세요."
+  "musicUnavailableInCurrentRegion": "이 곡은 현재 지역에서 사용할 수 없습니다. 배지로 지역을 전환하세요.",
+  "failedToLoadVirtualLiveData": "버추얼 라이브 데이터를 불러오지 못했습니다.",
+  "invalidVirtualLiveId": "잘못된 버추얼 라이브 ID입니다.",
+  "virtualLiveUnavailableInCurrentRegion": "현재 지역에서는 이 버추얼 라이브를 이용할 수 없습니다. 배지를 사용해 지역을 전환하세요."
 }
