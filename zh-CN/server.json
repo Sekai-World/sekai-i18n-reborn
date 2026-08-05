@@ -12,7 +12,7 @@
   "invalidEventId": "无效的活动 ID。",
   "invalidGachaId": "无效的扭蛋 ID。",
   "invalidMusicId": "歌曲 ID 无效。",
-  "musicUnavailableInCurrentRegion": "该歌曲在当前区域不可用。请使用徽章切换区域。",
+  "musicUnavailableInCurrentRegion": "该歌曲在当前地区不可用。请使用角标切换地区。",
   "failedToLoadVirtualLiveData": "虚拟演唱会数据加载失败。",
   "invalidVirtualLiveId": "无效的虚拟演唱会 ID。",
   "virtualLiveUnavailableInCurrentRegion": "此虚拟演唱会在当前地区不可用，请使用角标切换地区。"
