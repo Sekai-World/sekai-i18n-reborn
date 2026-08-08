@@ -19,6 +19,7 @@
   "latestData.events": "Events",
   "latestData.gachas": "Gachas",
   "latestData.loadFailed": "Failed to load latest data.",
+  "latestData.loadingEvents": "Loading events...",
   "latestData.musics": "Songs",
   "latestData.noData": "No data available.",
   "latestData.title": "Latest Data",
