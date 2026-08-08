@@ -1,6 +1,7 @@
 {
   "aria.closeSidebar": "Close navigation",
   "aria.openSidebar": "Open navigation",
+  "aria.skipToMainContent": "Skip to main content",
   "aria.switchTheme": "Switch theme mode",
   "aria.switchUiLanguageCurrent": "Switch UI language. Current language",
   "backToTopLabel": "Back to top",
@@ -55,7 +56,9 @@
   "settings.appearance": "Appearance",
   "settings.contentDisplay": "Content Display",
   "settings.currentLanguage": "Current",
+  "settings.currentSelection": "Current",
   "settings.gameContentRegion": "Preferred Content Region",
+  "settings.gameContentRegionDescription": "Sets the default region for home and database links.",
   "settings.interfaceLanguage": "Interface Language",
   "settings.lowMotionMode": "Low Motion Mode",
   "settings.mosaickedSpoilerContent": "Mosaicked Spoiler Content",
