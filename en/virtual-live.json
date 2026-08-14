@@ -14,7 +14,7 @@
   "virtualLiveDebugJsonTitle": "Virtual Live JSON",
   "virtualLiveDetailLoadFailed": "Failed to load virtual live.",
   "virtualLiveDetailLoading": "Loading virtual live...",
-  "virtualLiveDetailTitle": "Virtual Live Info",
+  "virtualLiveDetailTitle": "Virtual Live",
   "virtualLiveEndAtLabel": "End",
   "virtualLiveGroupPeriod": "{start} – {end}",
   "virtualLiveGroupTitle": "Live Group",
