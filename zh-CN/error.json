@@ -5,7 +5,6 @@
   "errorPage.nextStep": "您可以返回首页或重新尝试加载此页面。",
   "errorPage.notFoundDescription": "链接可能已过期，或该条目在所选区域中不存在。",
   "errorPage.notFoundTitle": "找不到该页面。",
-  "errorPage.retryAction": "重试",
   "errorPage.title": "页面加载失败。",
   "errorPage.tryLater": "如果持续出现此问题，请稍后重试。"
 }
