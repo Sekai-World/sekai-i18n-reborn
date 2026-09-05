@@ -26,6 +26,6 @@
   "directory.musics.description": "곡, 난이도, 보컬 및 채보를 확인합니다.",
   "directory.musics.title": "곡",
   "directory.title": "데이터베이스 탐색",
-  "directory.virtualLives.description": "라이브 일정, 세트리스트, 캐릭터 및 보상을 확인합니다.",
+  "directory.virtualLives.description": "라이브 일정, 공연 구성, 캐릭터 및 보상을 확인합니다.",
   "directory.virtualLives.title": "버추얼 라이브"
 }
