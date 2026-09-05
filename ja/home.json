@@ -6,7 +6,7 @@
   "directory.gachas.description": "ガチャバナー、ピックアップカード、提供割合、開催状況を確認できます。",
   "directory.musics.description": "楽曲、難易度、ボーカル、譜面を閲覧できます。",
   "directory.title": "データベースを探索",
-  "directory.virtualLives.description": "ライブ日程、セットリスト、キャラクター、報酬を確認できます。",
+  "directory.virtualLives.description": "ライブ日程、演出プログラム、キャラクター、報酬を確認できます。",
   "footer.brand": "Sekai Viewer Reborn",
   "footer.description": "独立したファンメイドの研究データベースです。",
   "latestData.loadFailed": "最新データの読み込みに失敗しました。",

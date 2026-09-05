@@ -16,5 +16,5 @@
   "directory.gachas.description": "배너, 픽업 카드, 확률 및 개최 정보를 확인합니다.",
   "directory.musics.description": "곡, 난이도, 보컬 및 채보를 확인합니다.",
   "directory.title": "데이터베이스 탐색",
-  "directory.virtualLives.description": "라이브 일정, 세트리스트, 캐릭터 및 보상을 확인합니다."
+  "directory.virtualLives.description": "라이브 일정, 공연 구성, 캐릭터 및 보상을 확인합니다."
 }
