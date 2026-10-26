@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "Unit",
+  "unitProfileTitle": "Profil",
+  "unitRosterTitle": "Anggota",
+  "unitSupportMembersTitle": "Anggota pendukung",
+  "unitLoadFailed": "Data unit tidak dapat dimuat.",
+  "unitUnavailable": "Unit ini tidak tersedia di region yang dipilih.",
+  "unitMembersEmpty": "Tidak ada anggota untuk unit ini.",
+  "unitMemberFallbackName": "Anggota #{id}"
+}

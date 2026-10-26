@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "组合",
+  "unitProfileTitle": "简介",
+  "unitRosterTitle": "成员",
+  "unitSupportMembersTitle": "支援成员",
+  "unitLoadFailed": "无法加载组合数据。",
+  "unitUnavailable": "所选地区不提供该组合。",
+  "unitMembersEmpty": "该组合暂无成员。",
+  "unitMemberFallbackName": "成员 #{id}"
+}

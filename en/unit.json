@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "Unit",
+  "unitProfileTitle": "Profile",
+  "unitRosterTitle": "Members",
+  "unitSupportMembersTitle": "Support members",
+  "unitLoadFailed": "Unit data could not be loaded.",
+  "unitUnavailable": "This unit is not available in the selected region.",
+  "unitMembersEmpty": "No members are available for this unit.",
+  "unitMemberFallbackName": "Member #{id}"
+}

@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "유닛",
+  "unitProfileTitle": "프로필",
+  "unitRosterTitle": "멤버",
+  "unitSupportMembersTitle": "서포트 멤버",
+  "unitLoadFailed": "유닛 데이터를 불러오지 못했습니다.",
+  "unitUnavailable": "선택한 지역에서는 이 유닛을 이용할 수 없습니다.",
+  "unitMembersEmpty": "이 유닛에는 멤버가 없습니다.",
+  "unitMemberFallbackName": "멤버 #{id}"
+}

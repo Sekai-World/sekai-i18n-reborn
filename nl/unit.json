@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "Eenheid",
+  "unitProfileTitle": "Profiel",
+  "unitRosterTitle": "Leden",
+  "unitSupportMembersTitle": "Ondersteunende leden",
+  "unitLoadFailed": "De eenheidsgegevens konden niet worden geladen.",
+  "unitUnavailable": "Deze eenheid is niet beschikbaar in de geselecteerde regio.",
+  "unitMembersEmpty": "Er zijn geen leden beschikbaar voor deze eenheid.",
+  "unitMemberFallbackName": "Lid nr. {id}"
+}

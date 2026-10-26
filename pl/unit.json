@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "Jednostka",
+  "unitProfileTitle": "Profil",
+  "unitRosterTitle": "Członkowie",
+  "unitSupportMembersTitle": "Członkowie wspierający",
+  "unitLoadFailed": "Nie udało się wczytać danych jednostki.",
+  "unitUnavailable": "Ta jednostka nie jest dostępna w wybranym regionie.",
+  "unitMembersEmpty": "Ta jednostka nie ma dostępnych członków.",
+  "unitMemberFallbackName": "Członek #{id}"
+}

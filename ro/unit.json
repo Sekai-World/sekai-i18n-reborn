@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "Grup",
+  "unitProfileTitle": "Profil",
+  "unitRosterTitle": "Membri",
+  "unitSupportMembersTitle": "Membri de suport",
+  "unitLoadFailed": "Nu s-au putut încărca datele grupului.",
+  "unitUnavailable": "Acest grup nu este disponibil în regiunea selectată.",
+  "unitMembersEmpty": "Nu sunt disponibili membri pentru acest grup.",
+  "unitMemberFallbackName": "Membru #{id}"
+}

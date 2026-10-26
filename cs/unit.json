@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "Jednotka",
+  "unitProfileTitle": "Profil",
+  "unitRosterTitle": "Členové",
+  "unitSupportMembersTitle": "Podpůrní členové",
+  "unitLoadFailed": "Data jednotky se nepodařilo načíst.",
+  "unitUnavailable": "Tato jednotka není ve vybraném regionu k dispozici.",
+  "unitMembersEmpty": "Pro tuto jednotku nejsou k dispozici žádní členové.",
+  "unitMemberFallbackName": "Člen #{id}"
+}

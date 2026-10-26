@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "A apărut o problemă la încărcarea acestei pagini.",
+  "errorPage.homeAction": "Înapoi la pagina principală",
+  "errorPage.kicker": "Pagina nu este disponibilă",
+  "errorPage.nextStep": "Puteți reveni la pagina principală sau puteți încerca să reîncărcați pagina.",
+  "errorPage.notFoundDescription": "Este posibil ca linkul să nu mai fie actual sau ca această înregistrare să nu existe în regiunea selectată.",
+  "errorPage.notFoundTitle": "Nu am găsit această pagină.",
+  "errorPage.title": "Pagina nu s-a putut încărca.",
+  "errorPage.tryLater": "Dacă problema persistă, încercați din nou mai târziu."
+}

@@ -47,5 +47,10 @@
   "pageTitle.eventPrefix": "活動",
   "rankingRewardsLoadErrorLabel": "無法載入全部獎勵。請再試一次。",
   "rankingRewardsLoadingLabel": "正在載入獎勵...",
-  "world_bloom": "世界連結"
+  "world_bloom": "世界連結",
+  "eventHonorBonusesTitle": "稱號加成規則",
+  "eventHonorBonusesUnavailable": "稱號加成無法使用。請重新載入頁面再試一次。",
+  "eventHonorBonusHonorLabel": "稱號",
+  "eventHonorRewardLabel": "稱號排名獎勵",
+  "eventBondsHonorRewardLabel": "羈絆稱號排名獎勵"
 }

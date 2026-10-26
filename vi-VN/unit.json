@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "Nhóm",
+  "unitProfileTitle": "Hồ sơ",
+  "unitRosterTitle": "Thành viên",
+  "unitSupportMembersTitle": "Thành viên hỗ trợ",
+  "unitLoadFailed": "Không thể tải dữ liệu nhóm.",
+  "unitUnavailable": "Nhóm này không có ở khu vực đã chọn.",
+  "unitMembersEmpty": "Nhóm này hiện chưa có thành viên.",
+  "unitMemberFallbackName": "Thành viên #{id}"
+}

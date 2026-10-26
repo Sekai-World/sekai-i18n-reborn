@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "Skupina",
+  "unitProfileTitle": "Profil",
+  "unitRosterTitle": "Členovia",
+  "unitSupportMembersTitle": "Podporní členovia",
+  "unitLoadFailed": "Nepodarilo sa načítať údaje o skupine.",
+  "unitUnavailable": "Táto skupina nie je vo vybranom regióne dostupná.",
+  "unitMembersEmpty": "Pre túto skupinu nie sú dostupní žiadni členovia.",
+  "unitMemberFallbackName": "Člen č. {id}"
+}

@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Beim Laden dieser Seite ist ein Problem aufgetreten.",
+  "errorPage.homeAction": "Zur Startseite",
+  "errorPage.kicker": "Seite nicht verfügbar",
+  "errorPage.nextStep": "Du kannst zur Startseite zurückkehren oder versuchen, diese Seite erneut zu laden.",
+  "errorPage.notFoundDescription": "Der Link ist möglicherweise veraltet oder dieser Datenbankeintrag ist in der ausgewählten Region nicht vorhanden.",
+  "errorPage.notFoundTitle": "Diese Seite wurde nicht gefunden.",
+  "errorPage.title": "Diese Seite konnte nicht geladen werden.",
+  "errorPage.tryLater": "Wenn das Problem weiterhin besteht, versuche es später erneut."
+}

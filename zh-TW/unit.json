@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "團體",
+  "unitProfileTitle": "簡介",
+  "unitRosterTitle": "成員",
+  "unitSupportMembersTitle": "支援成員",
+  "unitLoadFailed": "無法載入團體資料。",
+  "unitUnavailable": "所選地區無法使用此團體資料。",
+  "unitMembersEmpty": "此團體目前沒有成員資料。",
+  "unitMemberFallbackName": "成員 #{id}"
+}

@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "الوحدة",
+  "unitProfileTitle": "الملف التعريفي",
+  "unitRosterTitle": "الأعضاء",
+  "unitSupportMembersTitle": "الأعضاء المساندون",
+  "unitLoadFailed": "تعذّر تحميل بيانات الوحدة.",
+  "unitUnavailable": "هذه الوحدة غير متاحة في المنطقة المحددة.",
+  "unitMembersEmpty": "لا يتوفر أعضاء لهذه الوحدة.",
+  "unitMemberFallbackName": "العضو رقم {id}"
+}

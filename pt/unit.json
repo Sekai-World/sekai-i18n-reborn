@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "Grupo",
+  "unitProfileTitle": "Perfil",
+  "unitRosterTitle": "Membros",
+  "unitSupportMembersTitle": "Membros de Apoio",
+  "unitLoadFailed": "Não foi possível carregar os dados do grupo.",
+  "unitUnavailable": "Este grupo não está disponível na região selecionada.",
+  "unitMembersEmpty": "Não há membros disponíveis neste grupo.",
+  "unitMemberFallbackName": "Membro #{id}"
+}

@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "ユニット",
+  "unitProfileTitle": "プロフィール",
+  "unitRosterTitle": "メンバー",
+  "unitSupportMembersTitle": "サポートメンバー",
+  "unitLoadFailed": "ユニットデータを読み込めませんでした。",
+  "unitUnavailable": "このユニットは選択した地域では利用できません。",
+  "unitMembersEmpty": "このユニットにメンバーはいません。",
+  "unitMemberFallbackName": "メンバー #{id}"
+}

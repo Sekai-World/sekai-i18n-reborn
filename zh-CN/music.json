@@ -51,5 +51,22 @@
   "musicPreviewPauseLabel": "暂停",
   "musicPreviewPlayLabel": "播放",
   "musicPreviewShortLabel": "短版",
-  "pageTitle.musicPrefix": "歌曲"
+  "pageTitle.musicPrefix": "歌曲",
+  "musicPlaybackAudioLabel": "音频",
+  "musicPlaybackVocalLocked": "此视频使用固定的演唱版本。",
+  "musicMvTitle": "音乐视频",
+  "musicVideoLinksLabel": "视频链接",
+  "musicVideoLinkOpen": "打开视频来源",
+  "musicVideoLinkPreview": "预览视频",
+  "musicVideoLinkSelection": "视频来源",
+  "musicMvVariantLabel": "视频版本",
+  "musicMvOriginalLabel": "原版",
+  "musicMv2dLabel": "2D MV",
+  "musicMvDuplicateLabel": "其他版本",
+  "musicMvVocalLabel": "演唱版本",
+  "musicMvLoading": "正在加载音乐视频……",
+  "musicMvRetry": "重试",
+  "musicMvNoVideo": "该音乐视频不可用。",
+  "musicMvUnsupported": "无法播放该音乐视频。",
+  "musicMvAudioUnavailable": "该视频的音频不可用。请尝试其他演唱或视频版本，或重试。"
 }

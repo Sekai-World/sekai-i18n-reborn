@@ -47,5 +47,10 @@
   "pageTitle.eventPrefix": "이벤트",
   "rankingRewardsLoadErrorLabel": "모든 보상을 불러오지 못했습니다. 다시 시도하세요.",
   "rankingRewardsLoadingLabel": "보상을 불러오는 중...",
-  "world_bloom": "월드 링크"
+  "world_bloom": "월드 링크",
+  "eventHonorBonusesTitle": "칭호 보너스 규칙",
+  "eventHonorBonusesUnavailable": "칭호 보너스를 이용할 수 없습니다. 페이지를 새로고침해 다시 시도하세요.",
+  "eventHonorBonusHonorLabel": "칭호",
+  "eventHonorRewardLabel": "칭호 랭킹 보상",
+  "eventBondsHonorRewardLabel": "키즈나 칭호 랭킹 보상"
 }

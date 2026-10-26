@@ -47,5 +47,10 @@
   "pageTitle.eventPrefix": "イベント",
   "rankingRewardsLoadErrorLabel": "すべての報酬を読み込めませんでした。もう一度お試しください。",
   "rankingRewardsLoadingLabel": "報酬を読み込み中...",
-  "world_bloom": "ワールドリンク"
+  "world_bloom": "ワールドリンク",
+  "eventHonorBonusesTitle": "称号ボーナスのルール",
+  "eventHonorBonusesUnavailable": "称号ボーナスを利用できません。ページを再読み込みして、もう一度お試しください。",
+  "eventHonorBonusHonorLabel": "称号",
+  "eventHonorRewardLabel": "称号ランキング報酬",
+  "eventBondsHonorRewardLabel": "キズナ称号ランキング報酬"
 }

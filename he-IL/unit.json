@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "יחידה",
+  "unitProfileTitle": "פרופיל",
+  "unitRosterTitle": "חברים",
+  "unitSupportMembersTitle": "חברים תומכים",
+  "unitLoadFailed": "טעינת נתוני היחידה נכשלה.",
+  "unitUnavailable": "היחידה הזו אינה זמינה באזור שנבחר.",
+  "unitMembersEmpty": "אין חברים זמינים ביחידה הזו.",
+  "unitMemberFallbackName": "חבר מספר {id}"
+}

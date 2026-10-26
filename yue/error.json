@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "載入呢個頁面時遇到問題。",
+  "errorPage.homeAction": "返回首頁",
+  "errorPage.kicker": "頁面無法使用",
+  "errorPage.nextStep": "你可以返回首頁，或者再試吓載入呢個頁面。",
+  "errorPage.notFoundDescription": "個連結可能已經過期，或者所選地區冇呢筆資料。",
+  "errorPage.notFoundTitle": "搵唔到呢個頁面。",
+  "errorPage.title": "載入唔到呢個頁面。",
+  "errorPage.tryLater": "如果問題持續，請遲啲再試。"
+}

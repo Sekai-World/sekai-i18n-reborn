@@ -51,5 +51,22 @@
   "musicPreviewPauseLabel": "暫停",
   "musicPreviewPlayLabel": "播放",
   "musicPreviewShortLabel": "短版",
-  "pageTitle.musicPrefix": "歌曲"
+  "pageTitle.musicPrefix": "歌曲",
+  "musicPlaybackAudioLabel": "音訊",
+  "musicPlaybackVocalLocked": "此影片使用固定的演唱版本。",
+  "musicMvTitle": "音樂影片",
+  "musicVideoLinksLabel": "影片連結",
+  "musicVideoLinkOpen": "開啟影片來源",
+  "musicVideoLinkPreview": "預覽影片",
+  "musicVideoLinkSelection": "影片來源",
+  "musicMvVariantLabel": "影片版本",
+  "musicMvOriginalLabel": "原版",
+  "musicMv2dLabel": "2D MV",
+  "musicMvDuplicateLabel": "其他版本",
+  "musicMvVocalLabel": "演唱版本",
+  "musicMvLoading": "正在載入音樂影片……",
+  "musicMvRetry": "重試",
+  "musicMvNoVideo": "此音樂影片無法使用。",
+  "musicMvUnsupported": "無法播放此音樂影片。",
+  "musicMvAudioUnavailable": "此影片的音訊無法使用。請嘗試其他演唱或影片版本，或重新載入。"
 }

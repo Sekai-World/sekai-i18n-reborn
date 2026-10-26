@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Er ging iets mis bij het laden van deze pagina.",
+  "errorPage.homeAction": "Naar startpagina",
+  "errorPage.kicker": "Pagina niet beschikbaar",
+  "errorPage.nextStep": "Je kunt teruggaan naar de startpagina of proberen deze pagina opnieuw te laden.",
+  "errorPage.notFoundDescription": "De link is mogelijk verouderd of dit database-item bestaat niet in de geselecteerde regio.",
+  "errorPage.notFoundTitle": "Deze pagina is niet gevonden.",
+  "errorPage.title": "Deze pagina kon niet worden geladen.",
+  "errorPage.tryLater": "Probeer het later opnieuw als dit probleem blijft optreden."
+}
