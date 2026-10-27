@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "ยูนิต",
+  "unitProfileTitle": "โปรไฟล์",
+  "unitRosterTitle": "สมาชิก",
+  "unitSupportMembersTitle": "สมาชิกสนับสนุน",
+  "unitLoadFailed": "โหลดข้อมูลยูนิตไม่สำเร็จ",
+  "unitUnavailable": "ยูนิตนี้ไม่มีให้บริการในภูมิภาคที่เลือก",
+  "unitMembersEmpty": "ยูนิตนี้ไม่มีสมาชิก",
+  "unitMemberFallbackName": "สมาชิก #{id}"
+}

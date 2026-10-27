@@ -51,5 +51,22 @@
   "musicPreviewPauseLabel": "일시정지",
   "musicPreviewPlayLabel": "재생",
   "musicPreviewShortLabel": "쇼트",
-  "pageTitle.musicPrefix": "곡"
+  "pageTitle.musicPrefix": "곡",
+  "musicPlaybackAudioLabel": "오디오",
+  "musicPlaybackVocalLocked": "이 영상은 보컬 버전이 고정되어 있습니다.",
+  "musicMvTitle": "뮤직비디오",
+  "musicVideoLinksLabel": "동영상 링크",
+  "musicVideoLinkOpen": "동영상 출처 열기",
+  "musicVideoLinkPreview": "동영상 미리보기",
+  "musicVideoLinkSelection": "동영상 출처",
+  "musicMvVariantLabel": "동영상 버전",
+  "musicMvOriginalLabel": "오리지널",
+  "musicMv2dLabel": "2D MV",
+  "musicMvDuplicateLabel": "다른 버전",
+  "musicMvVocalLabel": "보컬",
+  "musicMvLoading": "뮤직비디오를 불러오는 중...",
+  "musicMvRetry": "다시 시도",
+  "musicMvNoVideo": "뮤직비디오를 이용할 수 없습니다.",
+  "musicMvUnsupported": "이 뮤직비디오를 재생할 수 없습니다.",
+  "musicMvAudioUnavailable": "이 영상의 오디오를 이용할 수 없습니다. 다른 보컬이나 영상 버전을 선택하거나 다시 시도하세요."
 }

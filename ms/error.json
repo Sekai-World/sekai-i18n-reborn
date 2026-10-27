@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Terdapat masalah semasa memuatkan halaman ini.",
+  "errorPage.homeAction": "Kembali ke Laman Utama",
+  "errorPage.kicker": "Halaman tidak tersedia",
+  "errorPage.nextStep": "Anda boleh kembali ke laman utama atau cuba memuatkan halaman ini sekali lagi.",
+  "errorPage.notFoundDescription": "Pautan ini mungkin sudah lapuk, atau entri pangkalan data ini tiada dalam rantau yang dipilih.",
+  "errorPage.notFoundTitle": "Halaman itu tidak ditemui.",
+  "errorPage.title": "Halaman ini tidak dapat dimuatkan.",
+  "errorPage.tryLater": "Jika masalah ini berterusan, sila cuba lagi kemudian."
+}

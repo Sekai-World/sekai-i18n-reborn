@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "Unit",
+  "unitProfileTitle": "Profil",
+  "unitRosterTitle": "Ahli",
+  "unitSupportMembersTitle": "Ahli sokongan",
+  "unitLoadFailed": "Data unit tidak dapat dimuatkan.",
+  "unitUnavailable": "Unit ini tidak tersedia di rantau yang dipilih.",
+  "unitMembersEmpty": "Tiada ahli untuk unit ini.",
+  "unitMemberFallbackName": "Ahli #{id}"
+}

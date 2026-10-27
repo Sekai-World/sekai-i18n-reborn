@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Hi ha hagut un problema en carregar aquesta pàgina.",
+  "errorPage.homeAction": "Ves a Inici",
+  "errorPage.kicker": "Pàgina no disponible",
+  "errorPage.nextStep": "Pots tornar a la pàgina d'inici o provar de carregar aquesta pàgina una altra vegada.",
+  "errorPage.notFoundDescription": "És possible que l'enllaç estigui desactualitzat o que aquesta dada no existeixi a la regió seleccionada.",
+  "errorPage.notFoundTitle": "No hem trobat aquesta pàgina.",
+  "errorPage.title": "No s'ha pogut carregar aquesta pàgina.",
+  "errorPage.tryLater": "Si el problema continua, torna-ho a provar més tard."
+}

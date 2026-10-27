@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Đã xảy ra sự cố khi tải trang này.",
+  "errorPage.homeAction": "Về trang chủ",
+  "errorPage.kicker": "Không thể truy cập trang",
+  "errorPage.nextStep": "Bạn có thể quay lại trang chủ hoặc thử tải lại trang này.",
+  "errorPage.notFoundDescription": "Liên kết có thể đã cũ hoặc mục dữ liệu này không tồn tại ở khu vực đã chọn.",
+  "errorPage.notFoundTitle": "Không tìm thấy trang này.",
+  "errorPage.title": "Không thể tải trang này.",
+  "errorPage.tryLater": "Nếu sự cố vẫn tiếp diễn, vui lòng thử lại sau."
+}

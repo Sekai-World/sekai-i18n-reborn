@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Un problème a empêché le chargement de cette page.",
+  "errorPage.homeAction": "Aller à l’accueil",
+  "errorPage.kicker": "Page indisponible",
+  "errorPage.nextStep": "Vous pouvez retourner à l’accueil ou réessayer de charger cette page.",
+  "errorPage.notFoundDescription": "Le lien est peut-être obsolète, ou cette entrée de la base de données n’existe pas dans la région sélectionnée.",
+  "errorPage.notFoundTitle": "Impossible de trouver cette page.",
+  "errorPage.title": "Impossible de charger cette page.",
+  "errorPage.tryLater": "Si le problème persiste, réessayez plus tard."
+}

@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "組合",
+  "unitProfileTitle": "簡介",
+  "unitRosterTitle": "成員名單",
+  "unitSupportMembersTitle": "支援成員",
+  "unitLoadFailed": "載入唔到組合資料。",
+  "unitUnavailable": "所選地區冇呢個組合嘅資料。",
+  "unitMembersEmpty": "呢個組合暫時冇成員。",
+  "unitMemberFallbackName": "成員 #{id}"
+}

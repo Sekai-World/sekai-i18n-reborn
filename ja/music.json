@@ -51,5 +51,22 @@
   "musicPreviewPauseLabel": "一時停止",
   "musicPreviewPlayLabel": "再生",
   "musicPreviewShortLabel": "ショート",
-  "pageTitle.musicPrefix": "楽曲"
+  "pageTitle.musicPrefix": "楽曲",
+  "musicPlaybackAudioLabel": "音声",
+  "musicPlaybackVocalLocked": "この動画では歌唱バージョンを変更できません。",
+  "musicMvTitle": "ミュージックビデオ",
+  "musicVideoLinksLabel": "動画リンク",
+  "musicVideoLinkOpen": "動画ソースを開く",
+  "musicVideoLinkPreview": "動画をプレビュー",
+  "musicVideoLinkSelection": "動画ソース",
+  "musicMvVariantLabel": "動画バージョン",
+  "musicMvOriginalLabel": "オリジナル",
+  "musicMv2dLabel": "2DMV",
+  "musicMvDuplicateLabel": "別バージョン",
+  "musicMvVocalLabel": "歌唱",
+  "musicMvLoading": "ミュージックビデオを読み込み中...",
+  "musicMvRetry": "再試行",
+  "musicMvNoVideo": "ミュージックビデオはありません。",
+  "musicMvUnsupported": "このミュージックビデオを再生できませんでした。",
+  "musicMvAudioUnavailable": "この動画の音声は利用できません。別の歌唱バージョンまたは動画を選ぶか、もう一度お試しください。"
 }

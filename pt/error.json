@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Ocorreu um problema ao carregar esta página.",
+  "errorPage.homeAction": "Ir para a Página Inicial",
+  "errorPage.kicker": "Página indisponível",
+  "errorPage.nextStep": "Pode voltar à página inicial ou tentar carregar esta página novamente.",
+  "errorPage.notFoundDescription": "A ligação pode estar desatualizada ou esta entrada da base de dados pode não existir na região selecionada.",
+  "errorPage.notFoundTitle": "Não foi possível encontrar esta página.",
+  "errorPage.title": "Não foi possível carregar esta página.",
+  "errorPage.tryLater": "Se o problema persistir, tente novamente mais tarde."
+}

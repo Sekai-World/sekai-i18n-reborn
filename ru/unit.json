@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "Юнит",
+  "unitProfileTitle": "Профиль",
+  "unitRosterTitle": "Участники",
+  "unitSupportMembersTitle": "Участники поддержки",
+  "unitLoadFailed": "Не удалось загрузить данные о юните.",
+  "unitUnavailable": "Этот юнит недоступен в выбранном регионе.",
+  "unitMembersEmpty": "Для этого юнита нет доступных участников.",
+  "unitMemberFallbackName": "Участник №{id}"
+}

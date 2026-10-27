@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Při načítání této stránky došlo k potížím.",
+  "errorPage.homeAction": "Přejít na domovskou stránku",
+  "errorPage.kicker": "Stránka není k dispozici",
+  "errorPage.nextStep": "Můžete se vrátit na domovskou stránku nebo zkusit stránku načíst znovu.",
+  "errorPage.notFoundDescription": "Odkaz může být zastaralý nebo tato položka v databázi ve vybraném regionu neexistuje.",
+  "errorPage.notFoundTitle": "Tuto stránku se nepodařilo najít.",
+  "errorPage.title": "Tuto stránku se nepodařilo načíst.",
+  "errorPage.tryLater": "Pokud problém přetrvá, zkuste to prosím později."
+}

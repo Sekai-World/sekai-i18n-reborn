@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Terjadi kendala saat memuat halaman ini.",
+  "errorPage.homeAction": "Kembali ke Beranda",
+  "errorPage.kicker": "Halaman tidak tersedia",
+  "errorPage.nextStep": "Anda dapat kembali ke halaman beranda atau mencoba memuat halaman ini lagi.",
+  "errorPage.notFoundDescription": "Tautannya mungkin sudah kedaluwarsa, atau entri basis data ini tidak tersedia di region yang dipilih.",
+  "errorPage.notFoundTitle": "Halaman tersebut tidak ditemukan.",
+  "errorPage.title": "Halaman ini tidak dapat dimuat.",
+  "errorPage.tryLater": "Jika masalah terus terjadi, silakan coba lagi nanti."
+}

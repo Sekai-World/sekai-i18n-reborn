@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Podczas wczytywania tej strony wystąpił problem.",
+  "errorPage.homeAction": "Przejdź do strony głównej",
+  "errorPage.kicker": "Strona niedostępna",
+  "errorPage.nextStep": "Możesz wrócić na stronę główną lub spróbować wczytać tę stronę ponownie.",
+  "errorPage.notFoundDescription": "Link może być nieaktualny albo ten wpis w bazie danych nie istnieje w wybranym regionie.",
+  "errorPage.notFoundTitle": "Nie udało się znaleźć tej strony.",
+  "errorPage.title": "Nie udało się wczytać tej strony.",
+  "errorPage.tryLater": "Jeśli problem będzie się powtarzać, spróbuj ponownie później."
+}

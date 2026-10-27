@@ -1,0 +1,10 @@
+{
+  "unitPageTitlePrefix": "Grup",
+  "unitProfileTitle": "Profil",
+  "unitRosterTitle": "Üyeler",
+  "unitSupportMembersTitle": "Destek Üyeleri",
+  "unitLoadFailed": "Grup verileri yüklenemedi.",
+  "unitUnavailable": "Bu grup seçili bölgede mevcut değil.",
+  "unitMembersEmpty": "Bu grupta mevcut üye yok.",
+  "unitMemberFallbackName": "Üye #{id}"
+}

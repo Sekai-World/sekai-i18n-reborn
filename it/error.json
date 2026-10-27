@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Si è verificato un problema durante il caricamento di questa pagina.",
+  "errorPage.homeAction": "Vai alla Home",
+  "errorPage.kicker": "Pagina non disponibile",
+  "errorPage.nextStep": "Puoi tornare alla Home o provare a ricaricare questa pagina.",
+  "errorPage.notFoundDescription": "Il link potrebbe non essere più valido oppure questa voce del database non esiste nella regione selezionata.",
+  "errorPage.notFoundTitle": "Impossibile trovare questa pagina.",
+  "errorPage.title": "Impossibile caricare questa pagina.",
+  "errorPage.tryLater": "Se il problema persiste, riprova più tardi."
+}

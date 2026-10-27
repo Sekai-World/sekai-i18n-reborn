@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "משהו השתבש במהלך טעינת הדף.",
+  "errorPage.homeAction": "חזרה לדף הבית",
+  "errorPage.kicker": "הדף אינו זמין",
+  "errorPage.nextStep": "אפשר לחזור לדף הבית או לנסות לטעון את הדף שוב.",
+  "errorPage.notFoundDescription": "ייתכן שהקישור אינו מעודכן, או שרשומת מסד הנתונים הזו אינה קיימת באזור שנבחר.",
+  "errorPage.notFoundTitle": "לא הצלחנו למצוא את הדף הזה.",
+  "errorPage.title": "טעינת הדף נכשלה.",
+  "errorPage.tryLater": "אם הבעיה נמשכת, כדאי לנסות שוב מאוחר יותר."
+}

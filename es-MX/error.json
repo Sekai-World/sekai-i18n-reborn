@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Algo impidió que se cargara esta página.",
+  "errorPage.homeAction": "Ir al inicio",
+  "errorPage.kicker": "Página no disponible",
+  "errorPage.nextStep": "Puedes regresar a la página de inicio o intentar cargar esta página de nuevo.",
+  "errorPage.notFoundDescription": "Es posible que el enlace ya no esté actualizado o que esta entrada de la base de datos no exista en la región seleccionada.",
+  "errorPage.notFoundTitle": "No encontramos esa página.",
+  "errorPage.title": "No se pudo cargar esta página.",
+  "errorPage.tryLater": "Si el problema continúa, vuelve a intentarlo más tarde."
+}

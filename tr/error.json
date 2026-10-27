@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "Sayfa yüklenirken bir sorun oluştu.",
+  "errorPage.homeAction": "Ana Sayfaya Dön",
+  "errorPage.kicker": "Sayfa kullanılamıyor",
+  "errorPage.nextStep": "Ana sayfaya dönebilir veya bu sayfayı yeniden yükleyebilirsiniz.",
+  "errorPage.notFoundDescription": "Bağlantı güncelliğini yitirmiş olabilir veya bu veritabanı kaydı seçili bölgede bulunmuyor olabilir.",
+  "errorPage.notFoundTitle": "Bu sayfayı bulamadık.",
+  "errorPage.title": "Bu sayfa yüklenemedi.",
+  "errorPage.tryLater": "Sorun devam ederse lütfen daha sonra yeniden deneyin."
+}

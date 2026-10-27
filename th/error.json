@@ -1,0 +1,10 @@
+{
+  "errorPage.description": "เกิดปัญหาขณะโหลดหน้านี้",
+  "errorPage.homeAction": "กลับหน้าแรก",
+  "errorPage.kicker": "หน้าไม่พร้อมใช้งาน",
+  "errorPage.nextStep": "คุณสามารถกลับไปยังหน้าแรกหรือลองโหลดหน้านี้อีกครั้งได้",
+  "errorPage.notFoundDescription": "ลิงก์นี้อาจล้าสมัย หรือไม่มีรายการนี้ในฐานข้อมูลของภูมิภาคที่เลือก",
+  "errorPage.notFoundTitle": "ไม่พบหน้านี้",
+  "errorPage.title": "โหลดหน้านี้ไม่สำเร็จ",
+  "errorPage.tryLater": "หากยังพบปัญหา โปรดลองอีกครั้งในภายหลัง"
+}
