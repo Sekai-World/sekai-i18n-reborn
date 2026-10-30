@@ -219,6 +219,15 @@
   "updates.release.0.0.2.change.details": "Open detail pages for artwork, profiles, and related information.",
   "updates.release.0.0.2.summary": "Explore the Sekai Viewer content archive through organized catalogues and detailed records.",
   "updates.release.0.0.2.title": "Content site launch",
+  "updates.release.0.1.0.change.guide": "Take a guided tour of the site, and get an optional first-use guide the first time you open the card, song, or virtual live filters.",
+  "updates.release.0.1.0.change.missions": "Browse Missions and Stamps, and see character ranks and character missions on each character's page.",
+  "updates.release.0.1.0.change.music": "Watch 2D and original music videos with synchronized vocals, and open YouTube references from song pages.",
+  "updates.release.0.1.0.change.mysekai": "Explore MySekai furniture, materials, soundtracks, and the Secret Shop.",
+  "updates.release.0.1.0.change.navigation": "Jump between main pages from the new mobile quick-navigation bar, switch between more interface languages, and find the support links.",
+  "updates.release.0.1.0.change.news": "Read Game News by region, and share cards, songs, and events as rich link previews on Discord.",
+  "updates.release.0.1.0.change.titles": "Browse titles, including Kizuna titles for character pairs, and preview title rewards from any reward list.",
+  "updates.release.0.1.0.summary": "New catalogues for MySekai, titles, missions, and stamps, plus music videos, Game News, and a guided tour.",
+  "updates.release.0.1.0.title": "MySekai, titles, and a guided tour",
   "updates.title": "Update log",
   "updates.versionLabel": "Version"
 }
