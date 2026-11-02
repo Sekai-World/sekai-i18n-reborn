@@ -212,6 +212,10 @@
   "typeLabel": "Type",
   "unitLabel": "Unit",
   "updates.backToHome": "Back to home",
+  "updates.deployment.dismissLabel": "Dismiss new version notice",
+  "updates.deployment.message": "Reload the page to start using it. Anything in progress on this page, such as a download, will stop.",
+  "updates.deployment.reloadLabel": "Reload",
+  "updates.deployment.title": "A new version of the site is available",
   "updates.notice.dismissLabel": "Dismiss update notice",
   "updates.notice.readLabel": "Read the update log",
   "updates.notice.title": "A new update is available",
@@ -228,6 +232,11 @@
   "updates.release.0.1.0.change.titles": "Browse titles, including Kizuna titles for character pairs, and preview title rewards from any reward list.",
   "updates.release.0.1.0.summary": "New catalogues for MySekai, titles, missions, and stamps, plus music videos, Game News, and a guided tour.",
   "updates.release.0.1.0.title": "MySekai, titles, and a guided tour",
+  "updates.release.0.1.1.change.deployment": "See a notice when a newer version of the site is available, with a button to reload when you are ready. The page never reloads on its own.",
+  "updates.release.0.1.1.change.links": "Old song links with unusual characters in them now open the song page instead of an error.",
+  "updates.release.0.1.1.change.live2d": "The Live2D Studio model list now loads much faster.",
+  "updates.release.0.1.1.summary": "Know when a newer version of the site is out, open more old song links, and browse Live2D models faster.",
+  "updates.release.0.1.1.title": "New version notice",
   "updates.title": "Update log",
   "updates.versionLabel": "Version"
 }
