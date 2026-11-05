@@ -32,6 +32,7 @@
   "mysekai.material.error": "Impossible de charger ce matériau.",
   "mysekai.material.notFound": "Ce matériau n’est pas disponible dans cette région.",
   "mysekai.material.search": "Rechercher des matériaux",
+  "mysekai.photoFrame.search": "Rechercher des cadres photo",
   "mysekai.materialCosts": "Matériaux par fabrication",
   "mysekai.materialInfo": "Infos sur le matériau",
   "mysekai.materialType": "Type de matériau",

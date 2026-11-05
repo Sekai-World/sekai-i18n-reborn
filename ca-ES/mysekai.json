@@ -32,6 +32,7 @@
   "mysekai.material.error": "No s'ha pogut carregar aquest material.",
   "mysekai.material.notFound": "Aquest material no està disponible en aquesta regió.",
   "mysekai.material.search": "Cerca materials",
+  "mysekai.photoFrame.search": "Cerca marcs de foto",
   "mysekai.materialCosts": "Materials per fabricar",
   "mysekai.materialInfo": "Informació del material",
   "mysekai.materialType": "Tipus de material",

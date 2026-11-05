@@ -32,6 +32,7 @@
   "mysekai.material.error": "无法加载该材料。",
   "mysekai.material.notFound": "该地区不提供此材料。",
   "mysekai.material.search": "搜索材料",
+  "mysekai.photoFrame.search": "搜索相框",
   "mysekai.materialCosts": "每次制作所需材料",
   "mysekai.materialInfo": "材料信息",
   "mysekai.materialType": "材料类型",
