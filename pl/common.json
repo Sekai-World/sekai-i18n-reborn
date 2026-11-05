@@ -238,6 +238,10 @@
   "updates.release.0.1.1.change.live2d": "Lista modeli w Live2D Studio wczytuje się teraz znacznie szybciej.",
   "updates.release.0.1.1.summary": "Dowiedz się, kiedy pojawi się nowsza wersja witryny, otwieraj więcej starych linków do utworów i szybciej przeglądaj modele Live2D.",
   "updates.release.0.1.1.title": "Powiadomienie o nowej wersji",
+  "updates.release.0.1.2.change.links": "Linki do list bez regionu, na przykład do listy utworów lub kart, otwierają teraz Twój preferowany region zamiast strony błędu.",
+  "updates.release.0.1.2.change.photoFrames": "Przeglądaj ramki na zdjęcia w MySekai dla każdego regionu, z podglądem i wyszukiwaniem po nazwie.",
+  "updates.release.0.1.2.summary": "Przeglądaj ramki na zdjęcia w MySekai i otwieraj linki do list bez podanego regionu.",
+  "updates.release.0.1.2.title": "Ramki na zdjęcia w MySekai",
   "updates.title": "Historia aktualizacji",
   "updates.versionLabel": "Wersja"
 }

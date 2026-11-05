@@ -238,6 +238,10 @@
   "updates.release.0.1.1.change.live2d": "Live2D Studio 嘅模型列表而家載入快好多。",
   "updates.release.0.1.1.summary": "網站有新版本會通知你，可以開啟更多舊歌曲連結，瀏覽 Live2D 模型亦都快咗。",
   "updates.release.0.1.1.title": "新版本通知",
+  "updates.release.0.1.2.change.links": "冇地區嘅列表連結（例如歌曲或者卡片列表）而家會喺你偏好嘅地區開啟，唔會再顯示錯誤頁面。",
+  "updates.release.0.1.2.change.photoFrames": "按地區瀏覽 MySekai 相框，支援預覽同按名稱搜尋。",
+  "updates.release.0.1.2.summary": "瀏覽 MySekai 相框，亦都可以開啟冇註明地區嘅列表連結。",
+  "updates.release.0.1.2.title": "MySekai 相框",
   "updates.title": "更新記錄",
   "updates.versionLabel": "版本"
 }

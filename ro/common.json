@@ -238,6 +238,10 @@
   "updates.release.0.1.1.change.live2d": "Lista de modele din Live2D Studio se încarcă acum mult mai rapid.",
   "updates.release.0.1.1.summary": "Aflați când apare o versiune mai nouă a site-ului, deschideți mai multe linkuri vechi către melodii și răsfoiți mai rapid modelele Live2D.",
   "updates.release.0.1.1.title": "Notificare de versiune nouă",
+  "updates.release.0.1.2.change.links": "Linkurile către liste fără regiune, cum ar fi cele către listele de melodii sau de carduri, se deschid acum în regiunea preferată în loc de o pagină de eroare.",
+  "updates.release.0.1.2.change.photoFrames": "Răsfoiți ramele foto MySekai pentru fiecare regiune, cu previzualizări și căutare după nume.",
+  "updates.release.0.1.2.summary": "Răsfoiți ramele foto MySekai și deschideți linkuri către liste care nu menționează o regiune.",
+  "updates.release.0.1.2.title": "Rame foto MySekai",
   "updates.title": "Jurnal de actualizări",
   "updates.versionLabel": "Versiune"
 }

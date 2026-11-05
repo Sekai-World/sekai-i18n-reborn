@@ -238,6 +238,10 @@
   "updates.release.0.1.1.change.live2d": "רשימת המודלים ב-Live2D Studio נטענת עכשיו הרבה יותר מהר.",
   "updates.release.0.1.1.summary": "לדעת מתי יוצאת גרסה חדשה יותר של האתר, לפתוח יותר קישורים ישנים לשירים ולעיין במודלים של Live2D מהר יותר.",
   "updates.release.0.1.1.title": "הודעה על גרסה חדשה",
+  "updates.release.0.1.2.change.links": "קישורי רשימות ללא אזור, כמו אלה לרשימות השירים או הקלפים, נפתחים עכשיו באזור המועדף עליכם במקום בדף שגיאה.",
+  "updates.release.0.1.2.change.photoFrames": "לעיין במסגרות התמונה של MySekai בכל אזור, עם תצוגות מקדימות וחיפוש לפי שם.",
+  "updates.release.0.1.2.summary": "לעיין במסגרות התמונה של MySekai ולפתוח קישורי רשימות שלא מציינים אזור.",
+  "updates.release.0.1.2.title": "מסגרות תמונה של MySekai",
   "updates.title": "יומן עדכונים",
   "updates.versionLabel": "גרסה"
 }

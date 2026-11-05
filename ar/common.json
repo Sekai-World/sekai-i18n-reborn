@@ -238,6 +238,10 @@
   "updates.release.0.1.1.change.live2d": "أصبحت قائمة النماذج في Live2D Studio تُحمَّل أسرع بكثير.",
   "updates.release.0.1.1.summary": "اعرف متى يتوفر إصدار أحدث من الموقع، وافتح المزيد من روابط الأغاني القديمة، وتصفّح نماذج Live2D بسرعة أكبر.",
   "updates.release.0.1.1.title": "إشعار الإصدار الجديد",
+  "updates.release.0.1.2.change.links": "أصبحت روابط القوائم التي لا تحدد منطقة، مثل روابط قوائم الأغاني أو البطاقات، تفتح في منطقتك المفضلة بدلًا من صفحة خطأ.",
+  "updates.release.0.1.2.change.photoFrames": "تصفّح إطارات صور MySekai لكل منطقة، مع معاينات وبحث بالاسم.",
+  "updates.release.0.1.2.summary": "تصفّح إطارات صور MySekai، وافتح روابط القوائم التي لا تحدد منطقة.",
+  "updates.release.0.1.2.title": "إطارات صور MySekai",
   "updates.title": "سجل التحديثات",
   "updates.versionLabel": "الإصدار"
 }

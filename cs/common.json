@@ -238,6 +238,10 @@
   "updates.release.0.1.1.change.live2d": "Seznam modelů v Live2D Studio se nyní načítá mnohem rychleji.",
   "updates.release.0.1.1.summary": "Zjistěte, kdy vyjde novější verze webu, otevírejte další staré odkazy na skladby a procházejte modely Live2D rychleji.",
   "updates.release.0.1.1.title": "Oznámení o nové verzi",
+  "updates.release.0.1.2.change.links": "Odkazy na seznamy bez regionu, například na seznam skladeb nebo karet, se nyní místo chybové stránky otevřou ve vašem preferovaném regionu.",
+  "updates.release.0.1.2.change.photoFrames": "Procházejte fotorámečky MySekai pro každý region s náhledy a vyhledáváním podle názvu.",
+  "updates.release.0.1.2.summary": "Procházejte fotorámečky MySekai a otevírejte odkazy na seznamy bez uvedeného regionu.",
+  "updates.release.0.1.2.title": "Fotorámečky MySekai",
   "updates.title": "Přehled aktualizací",
   "updates.versionLabel": "Verze"
 }

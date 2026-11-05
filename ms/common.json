@@ -238,6 +238,10 @@
   "updates.release.0.1.1.change.live2d": "Senarai model Live2D Studio kini dimuatkan jauh lebih pantas.",
   "updates.release.0.1.1.summary": "Ketahui apabila versi laman yang lebih baharu dikeluarkan, buka lebih banyak pautan lagu lama dan lihat model Live2D dengan lebih pantas.",
   "updates.release.0.1.1.title": "Pemberitahuan versi baharu",
+  "updates.release.0.1.2.change.links": "Pautan senarai tanpa rantau, seperti pautan ke senarai lagu atau kad, kini dibuka di rantau pilihan anda, bukan halaman ralat.",
+  "updates.release.0.1.2.change.photoFrames": "Lihat bingkai foto MySekai bagi setiap rantau, dengan pratonton dan carian mengikut nama.",
+  "updates.release.0.1.2.summary": "Lihat bingkai foto MySekai dan buka pautan senarai yang tidak menyatakan rantau.",
+  "updates.release.0.1.2.title": "Bingkai Foto MySekai",
   "updates.title": "Catatan Kemas Kini",
   "updates.versionLabel": "Versi"
 }
