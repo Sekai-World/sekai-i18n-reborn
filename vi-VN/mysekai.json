@@ -32,6 +32,7 @@
   "mysekai.material.error": "Không thể tải nguyên liệu này.",
   "mysekai.material.notFound": "Nguyên liệu này không có ở khu vực này.",
   "mysekai.material.search": "Tìm nguyên liệu",
+  "mysekai.photoFrame.search": "Tìm khung ảnh",
   "mysekai.materialCosts": "Nguyên liệu cho mỗi lần chế tạo",
   "mysekai.materialInfo": "Thông tin nguyên liệu",
   "mysekai.materialType": "Loại nguyên liệu",

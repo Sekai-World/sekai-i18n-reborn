@@ -32,6 +32,7 @@
   "mysekai.material.error": "Не удалось загрузить этот материал.",
   "mysekai.material.notFound": "Этот материал недоступен в данном регионе.",
   "mysekai.material.search": "Поиск материалов",
+  "mysekai.photoFrame.search": "Поиск фоторамок",
   "mysekai.materialCosts": "Материалы на изготовление",
   "mysekai.materialInfo": "Информация о материале",
   "mysekai.materialType": "Тип материала",

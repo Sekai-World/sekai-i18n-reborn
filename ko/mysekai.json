@@ -32,6 +32,7 @@
   "mysekai.material.error": "재료를 불러오지 못했습니다.",
   "mysekai.material.notFound": "이 지역에서는 이 재료를 이용할 수 없습니다.",
   "mysekai.material.search": "재료 검색",
+  "mysekai.photoFrame.search": "포토 프레임 검색",
   "mysekai.materialCosts": "제작 재료",
   "mysekai.materialInfo": "재료 정보",
   "mysekai.materialType": "재료 유형",

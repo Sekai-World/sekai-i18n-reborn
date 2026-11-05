@@ -32,6 +32,7 @@
   "mysekai.material.error": "Tento materiál se nepodařilo načíst.",
   "mysekai.material.notFound": "Tento materiál není v tomto regionu k dispozici.",
   "mysekai.material.search": "Hledat materiály",
+  "mysekai.photoFrame.search": "Hledat fotorámečky",
   "mysekai.materialCosts": "Materiály na jednu výrobu",
   "mysekai.materialInfo": "Informace o materiálu",
   "mysekai.materialType": "Typ materiálu",

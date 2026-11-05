@@ -32,6 +32,7 @@
   "mysekai.material.error": "マテリアルを読み込めませんでした。",
   "mysekai.material.notFound": "このマテリアルはこの地域では利用できません。",
   "mysekai.material.search": "マテリアルを検索",
+  "mysekai.photoFrame.search": "フォトフレームを検索",
   "mysekai.materialCosts": "1回のクラフトに必要なマテリアル",
   "mysekai.materialInfo": "マテリアル情報",
   "mysekai.materialType": "マテリアルの種類",

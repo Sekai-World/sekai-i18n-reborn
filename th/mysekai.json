@@ -32,6 +32,7 @@
   "mysekai.material.error": "โหลดวัสดุนี้ไม่สำเร็จ",
   "mysekai.material.notFound": "วัสดุนี้ไม่มีให้บริการในภูมิภาคนี้",
   "mysekai.material.search": "ค้นหาวัสดุ",
+  "mysekai.photoFrame.search": "ค้นหากรอบรูป",
   "mysekai.materialCosts": "วัสดุที่ใช้ต่อการสร้างหนึ่งชิ้น",
   "mysekai.materialInfo": "ข้อมูลวัสดุ",
   "mysekai.materialType": "ประเภทวัสดุ",
