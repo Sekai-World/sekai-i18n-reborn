@@ -238,6 +238,10 @@
   "updates.release.0.1.1.change.live2d": "The Live2D Studio model list now loads much faster.",
   "updates.release.0.1.1.summary": "Know when a newer version of the site is out, open more old song links, and browse Live2D models faster.",
   "updates.release.0.1.1.title": "New version notice",
+  "updates.release.0.1.2.change.links": "List links without a region, such as those to the song or card lists, now open in your preferred region instead of an error page.",
+  "updates.release.0.1.2.change.photoFrames": "Browse MySekai photo frames for each region, with previews and search by name.",
+  "updates.release.0.1.2.summary": "Browse MySekai photo frames, and open list links that don't name a region.",
+  "updates.release.0.1.2.title": "MySekai photo frames",
   "updates.title": "Update log",
   "updates.versionLabel": "Version"
 }
