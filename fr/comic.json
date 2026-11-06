@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Aucune bande dessinée ne correspond à cette recherche. Essayez d’autres mots ou une autre région.",
+  "comic.error": "Impossible de charger les bandes dessinées. Réessayez.",
+  "comic.loading": "Chargement des bandes dessinées…",
+  "comic.previewDownload": "Télécharger",
+  "comic.previewNext": "Bande dessinée suivante",
+  "comic.previewOpenInNewWindow": "Ouvrir l’image dans une nouvelle fenêtre",
+  "comic.previewPrevious": "Bande dessinée précédente",
+  "comic.results": "Résultats",
+  "comic.retry": "Réessayer",
+  "comic.search": "Rechercher des bandes dessinées",
+  "comic.searchAction": "Rechercher"
+}

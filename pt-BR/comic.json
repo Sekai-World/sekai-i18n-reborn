@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Nenhum quadrinho corresponde a esta busca. Tente outras palavras ou outra região.",
+  "comic.error": "Não foi possível carregar os quadrinhos. Tente novamente.",
+  "comic.loading": "Carregando quadrinhos…",
+  "comic.previewDownload": "Baixar",
+  "comic.previewNext": "Próximo quadrinho",
+  "comic.previewOpenInNewWindow": "Abrir imagem em uma nova janela",
+  "comic.previewPrevious": "Quadrinho anterior",
+  "comic.results": "Resultados",
+  "comic.retry": "Tentar novamente",
+  "comic.search": "Buscar quadrinhos",
+  "comic.searchAction": "Buscar"
+}

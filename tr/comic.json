@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Bu aramayla eşleşen çizgi roman yok. Başka sözcükler veya farklı bir bölge deneyin.",
+  "comic.error": "Çizgi romanlar yüklenemedi. Lütfen yeniden deneyin.",
+  "comic.loading": "Çizgi romanlar yükleniyor...",
+  "comic.previewDownload": "İndir",
+  "comic.previewNext": "Sonraki çizgi roman",
+  "comic.previewOpenInNewWindow": "Görseli yeni pencerede aç",
+  "comic.previewPrevious": "Önceki çizgi roman",
+  "comic.results": "Sonuçlar",
+  "comic.retry": "Yeniden Dene",
+  "comic.search": "Çizgi roman ara",
+  "comic.searchAction": "Ara"
+}

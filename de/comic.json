@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Keine Comics entsprechen dieser Suche. Probiere andere Wörter oder eine andere Region.",
+  "comic.error": "Comics konnten nicht geladen werden. Versuch es erneut.",
+  "comic.loading": "Comics werden geladen …",
+  "comic.previewDownload": "Herunterladen",
+  "comic.previewNext": "Nächster Comic",
+  "comic.previewOpenInNewWindow": "Bild in neuem Fenster öffnen",
+  "comic.previewPrevious": "Vorheriger Comic",
+  "comic.results": "Ergebnisse",
+  "comic.retry": "Erneut versuchen",
+  "comic.search": "Comics suchen",
+  "comic.searchAction": "Suchen"
+}

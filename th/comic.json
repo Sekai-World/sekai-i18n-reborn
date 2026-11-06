@@ -1,0 +1,13 @@
+{
+  "comic.empty": "ไม่มีการ์ตูนที่ตรงกับการค้นหานี้ ลองใช้คำอื่นหรือเลือกภูมิภาคอื่น",
+  "comic.error": "โหลดการ์ตูนไม่สำเร็จ โปรดลองอีกครั้ง",
+  "comic.loading": "กำลังโหลดการ์ตูน...",
+  "comic.previewDownload": "ดาวน์โหลด",
+  "comic.previewNext": "การ์ตูนถัดไป",
+  "comic.previewOpenInNewWindow": "เปิดรูปภาพในหน้าต่างใหม่",
+  "comic.previewPrevious": "การ์ตูนก่อนหน้า",
+  "comic.results": "ผลลัพธ์",
+  "comic.retry": "ลองอีกครั้ง",
+  "comic.search": "ค้นหาการ์ตูน",
+  "comic.searchAction": "ค้นหา"
+}

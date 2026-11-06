@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Nenhuma banda desenhada corresponde a esta pesquisa. Experimente outras palavras ou outra região.",
+  "comic.error": "Não foi possível carregar a banda desenhada. Tente novamente.",
+  "comic.loading": "A carregar banda desenhada...",
+  "comic.previewDownload": "Transferir",
+  "comic.previewNext": "Banda desenhada seguinte",
+  "comic.previewOpenInNewWindow": "Abrir imagem numa nova janela",
+  "comic.previewPrevious": "Banda desenhada anterior",
+  "comic.results": "Resultados",
+  "comic.retry": "Tentar novamente",
+  "comic.search": "Pesquisar banda desenhada",
+  "comic.searchAction": "Pesquisar"
+}

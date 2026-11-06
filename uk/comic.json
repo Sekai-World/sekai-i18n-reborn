@@ -1,0 +1,13 @@
+{
+  "comic.empty": "За цим запитом коміксів не знайдено. Спробуйте інші слова або виберіть інший регіон.",
+  "comic.error": "Не вдалося завантажити комікси. Спробуйте ще раз.",
+  "comic.loading": "Завантаження коміксів...",
+  "comic.previewDownload": "Завантажити",
+  "comic.previewNext": "Наступний комікс",
+  "comic.previewOpenInNewWindow": "Відкрити зображення в новому вікні",
+  "comic.previewPrevious": "Попередній комікс",
+  "comic.results": "Результати",
+  "comic.retry": "Спробувати ще раз",
+  "comic.search": "Пошук коміксів",
+  "comic.searchAction": "Шукати"
+}

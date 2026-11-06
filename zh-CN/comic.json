@@ -1,0 +1,13 @@
+{
+  "comic.empty": "没有符合此搜索的漫画。请尝试其他关键词或地区。",
+  "comic.error": "无法加载漫画，请重试。",
+  "comic.loading": "正在加载漫画……",
+  "comic.previewDownload": "下载",
+  "comic.previewNext": "下一篇漫画",
+  "comic.previewOpenInNewWindow": "在新窗口中打开图片",
+  "comic.previewPrevious": "上一篇漫画",
+  "comic.results": "搜索结果",
+  "comic.retry": "重试",
+  "comic.search": "搜索漫画",
+  "comic.searchAction": "搜索"
+}

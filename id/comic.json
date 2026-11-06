@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Tidak ada komik yang cocok dengan pencarian ini. Coba kata lain atau region lain.",
+  "comic.error": "Komik tidak dapat dimuat. Silakan coba lagi.",
+  "comic.loading": "Memuat komik...",
+  "comic.previewDownload": "Unduh",
+  "comic.previewNext": "Komik berikutnya",
+  "comic.previewOpenInNewWindow": "Buka gambar di jendela baru",
+  "comic.previewPrevious": "Komik sebelumnya",
+  "comic.results": "Hasil",
+  "comic.retry": "Coba lagi",
+  "comic.search": "Cari komik",
+  "comic.searchAction": "Cari"
+}

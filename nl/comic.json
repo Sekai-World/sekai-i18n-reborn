@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Geen strips voldoen aan deze zoekopdracht. Probeer andere woorden of een andere regio.",
+  "comic.error": "De strips konden niet worden geladen. Probeer het opnieuw.",
+  "comic.loading": "Strips laden…",
+  "comic.previewDownload": "Downloaden",
+  "comic.previewNext": "Volgende strip",
+  "comic.previewOpenInNewWindow": "Afbeelding openen in nieuw venster",
+  "comic.previewPrevious": "Vorige strip",
+  "comic.results": "Resultaten",
+  "comic.retry": "Opnieuw proberen",
+  "comic.search": "Strips zoeken",
+  "comic.searchAction": "Zoeken"
+}
