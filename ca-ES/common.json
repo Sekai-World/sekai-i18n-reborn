@@ -238,6 +238,10 @@
   "updates.release.0.1.1.change.live2d": "La llista de models de Live2D Studio ara es carrega molt més de pressa.",
   "updates.release.0.1.1.summary": "Assabenta't de quan surt una versió nova del lloc web, obre més enllaços antics de cançons i navega pels models de Live2D més de pressa.",
   "updates.release.0.1.1.title": "Avís de versió nova",
+  "updates.release.0.1.2.change.links": "Els enllaços de llistes sense regió, com els de les llistes de cançons o de cartes, ara s'obren a la teva regió preferida en lloc d'una pàgina d'error.",
+  "updates.release.0.1.2.change.photoFrames": "Explora els marcs de foto de MySekai de cada regió, amb previsualitzacions i cerca per nom.",
+  "updates.release.0.1.2.summary": "Explora els marcs de foto de MySekai i obre enllaços de llistes que no indiquen cap regió.",
+  "updates.release.0.1.2.title": "Marcs de foto de MySekai",
   "updates.title": "Registre d'actualitzacions",
   "updates.versionLabel": "Versió"
 }

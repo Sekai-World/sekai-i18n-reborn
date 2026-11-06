@@ -238,6 +238,10 @@
   "updates.release.0.1.1.change.live2d": "De modellenlijst van Live2D Studio laadt nu veel sneller.",
   "updates.release.0.1.1.summary": "Weet wanneer er een nieuwere versie van de site is, open meer oude songlinks en blader sneller door Live2D-modellen.",
   "updates.release.0.1.1.title": "Melding over nieuwe versie",
+  "updates.release.0.1.2.change.links": "Lijstlinks zonder regio, zoals die naar de nummer- of kaartenlijst, openen nu in je voorkeursregio in plaats van een foutpagina.",
+  "updates.release.0.1.2.change.photoFrames": "Bekijk MySekai-fotolijsten per regio, met voorbeelden en zoeken op naam.",
+  "updates.release.0.1.2.summary": "Bekijk MySekai-fotolijsten en open lijstlinks die geen regio noemen.",
+  "updates.release.0.1.2.title": "MySekai-fotolijsten",
   "updates.title": "Wijzigingsoverzicht",
   "updates.versionLabel": "Versie"
 }
