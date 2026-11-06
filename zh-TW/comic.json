@@ -1,0 +1,13 @@
+{
+  "comic.empty": "沒有符合此搜尋的漫畫。請嘗試其他關鍵字或地區。",
+  "comic.error": "無法載入漫畫，請再試一次。",
+  "comic.loading": "正在載入漫畫……",
+  "comic.previewDownload": "下載",
+  "comic.previewNext": "下一篇漫畫",
+  "comic.previewOpenInNewWindow": "在新視窗中開啟圖片",
+  "comic.previewPrevious": "上一篇漫畫",
+  "comic.results": "搜尋結果",
+  "comic.retry": "重試",
+  "comic.search": "搜尋漫畫",
+  "comic.searchAction": "搜尋"
+}

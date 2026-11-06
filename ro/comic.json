@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Nu există benzi desenate care să corespundă acestei căutări. Încercați alte cuvinte sau altă regiune.",
+  "comic.error": "Nu s-au putut încărca benzile desenate. Încercați din nou.",
+  "comic.loading": "Se încarcă benzile desenate...",
+  "comic.previewDownload": "Descărcați",
+  "comic.previewNext": "Banda desenată următoare",
+  "comic.previewOpenInNewWindow": "Deschideți imaginea într-o fereastră nouă",
+  "comic.previewPrevious": "Banda desenată anterioară",
+  "comic.results": "Rezultate",
+  "comic.retry": "Încercați din nou",
+  "comic.search": "Căutați benzi desenate",
+  "comic.searchAction": "Căutați"
+}

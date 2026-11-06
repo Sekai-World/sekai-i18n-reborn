@@ -1,0 +1,13 @@
+{
+  "comic.empty": "لا توجد قصص مصورة تطابق هذا البحث. جرّب كلمات أخرى أو منطقة مختلفة.",
+  "comic.error": "تعذّر تحميل القصص المصورة. يُرجى المحاولة مرة أخرى.",
+  "comic.loading": "جارٍ تحميل القصص المصورة...",
+  "comic.previewDownload": "تنزيل",
+  "comic.previewNext": "القصة المصورة التالية",
+  "comic.previewOpenInNewWindow": "فتح الصورة في نافذة جديدة",
+  "comic.previewPrevious": "القصة المصورة السابقة",
+  "comic.results": "النتائج",
+  "comic.retry": "إعادة المحاولة",
+  "comic.search": "البحث عن القصص المصورة",
+  "comic.searchAction": "بحث"
+}

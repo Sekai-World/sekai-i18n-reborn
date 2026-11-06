@@ -1,0 +1,13 @@
+{
+  "comic.empty": "לא נמצאו קומיקסים שתואמים לחיפוש הזה. נסו מילים אחרות או אזור אחר.",
+  "comic.error": "טעינת הקומיקסים נכשלה. נסו שוב.",
+  "comic.loading": "הקומיקסים נטענים...",
+  "comic.previewDownload": "הורדה",
+  "comic.previewNext": "הקומיקס הבא",
+  "comic.previewOpenInNewWindow": "פתיחת התמונה בחלון חדש",
+  "comic.previewPrevious": "הקומיקס הקודם",
+  "comic.results": "תוצאות",
+  "comic.retry": "ניסיון חוזר",
+  "comic.search": "חיפוש קומיקסים",
+  "comic.searchAction": "חיפוש"
+}

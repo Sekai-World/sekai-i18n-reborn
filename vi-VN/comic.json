@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Không có truyện tranh nào khớp với tìm kiếm này. Hãy thử từ khác hoặc đổi khu vực.",
+  "comic.error": "Không thể tải truyện tranh. Vui lòng thử lại.",
+  "comic.loading": "Đang tải truyện tranh...",
+  "comic.previewDownload": "Tải xuống",
+  "comic.previewNext": "Truyện tranh tiếp theo",
+  "comic.previewOpenInNewWindow": "Mở hình ảnh trong cửa sổ mới",
+  "comic.previewPrevious": "Truyện tranh trước",
+  "comic.results": "Kết quả",
+  "comic.retry": "Thử lại",
+  "comic.search": "Tìm truyện tranh",
+  "comic.searchAction": "Tìm kiếm"
+}

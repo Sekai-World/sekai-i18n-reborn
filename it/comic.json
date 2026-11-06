@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Nessun fumetto corrisponde a questa ricerca. Prova altre parole o un’altra regione.",
+  "comic.error": "Impossibile caricare i fumetti. Riprova.",
+  "comic.loading": "Caricamento dei fumetti…",
+  "comic.previewDownload": "Scarica",
+  "comic.previewNext": "Fumetto successivo",
+  "comic.previewOpenInNewWindow": "Apri l’immagine in una nuova finestra",
+  "comic.previewPrevious": "Fumetto precedente",
+  "comic.results": "Risultati",
+  "comic.retry": "Riprova",
+  "comic.search": "Cerca fumetti",
+  "comic.searchAction": "Cerca"
+}

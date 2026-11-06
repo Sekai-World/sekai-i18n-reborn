@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Cap còmic coincideix amb aquesta cerca. Prova altres paraules o una altra regió.",
+  "comic.error": "No s'han pogut carregar els còmics. Torna-ho a provar.",
+  "comic.loading": "S'estan carregant els còmics...",
+  "comic.previewDownload": "Baixa",
+  "comic.previewNext": "Còmic següent",
+  "comic.previewOpenInNewWindow": "Obre la imatge en una finestra nova",
+  "comic.previewPrevious": "Còmic anterior",
+  "comic.results": "Resultats",
+  "comic.retry": "Torna-ho a provar",
+  "comic.search": "Cerca còmics",
+  "comic.searchAction": "Cerca"
+}

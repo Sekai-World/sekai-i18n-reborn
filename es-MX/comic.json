@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Ningún cómic coincide con esta búsqueda. Prueba con otras palabras o con otra región.",
+  "comic.error": "No se pudieron cargar los cómics. Inténtalo de nuevo.",
+  "comic.loading": "Cargando cómics...",
+  "comic.previewDownload": "Descargar",
+  "comic.previewNext": "Cómic siguiente",
+  "comic.previewOpenInNewWindow": "Abrir imagen en una ventana nueva",
+  "comic.previewPrevious": "Cómic anterior",
+  "comic.results": "Resultados",
+  "comic.retry": "Volver a intentar",
+  "comic.search": "Buscar cómics",
+  "comic.searchAction": "Buscar"
+}

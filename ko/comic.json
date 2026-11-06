@@ -1,0 +1,13 @@
+{
+  "comic.empty": "검색어에 맞는 만화가 없습니다. 다른 단어나 지역으로 시도해 보세요.",
+  "comic.error": "만화를 불러오지 못했습니다. 다시 시도하세요.",
+  "comic.loading": "만화를 불러오는 중...",
+  "comic.previewDownload": "다운로드",
+  "comic.previewNext": "다음 만화",
+  "comic.previewOpenInNewWindow": "새 창에서 이미지 열기",
+  "comic.previewPrevious": "이전 만화",
+  "comic.results": "결과",
+  "comic.retry": "다시 시도",
+  "comic.search": "만화 검색",
+  "comic.searchAction": "검색"
+}

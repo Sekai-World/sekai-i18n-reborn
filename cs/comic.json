@@ -1,0 +1,13 @@
+{
+  "comic.empty": "Tomuto hledání neodpovídají žádné komiksy. Zkuste jiná slova nebo jiný region.",
+  "comic.error": "Komiksy se nepodařilo načíst. Zkuste to znovu.",
+  "comic.loading": "Načítání komiksů...",
+  "comic.previewDownload": "Stáhnout",
+  "comic.previewNext": "Další komiks",
+  "comic.previewOpenInNewWindow": "Otevřít obrázek v novém okně",
+  "comic.previewPrevious": "Předchozí komiks",
+  "comic.results": "Výsledky",
+  "comic.retry": "Zkusit znovu",
+  "comic.search": "Hledat komiksy",
+  "comic.searchAction": "Hledat"
+}
