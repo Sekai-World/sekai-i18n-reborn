@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "Tutup navigasi",
+  "aria.loadingPage": "Sedang memuatkan halaman",
   "aria.openSidebar": "Buka navigasi",
   "aria.skipToMainContent": "Langkau ke kandungan utama",
   "aria.switchTheme": "Tukar mod tema",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "Menyediakan muat turun",
   "audioDownloadStages.ready": "Muat turun sedia",
   "audioDownloadStages.writingMetadata": "Menulis metadata",
+  "audioLoadFailedLabel": "Audio gagal dimuatkan.",
   "audioPauseLabel": "Jeda audio",
   "audioPlayLabel": "Mainkan audio",
   "audioSeekLabel": "Ubah kedudukan audio",

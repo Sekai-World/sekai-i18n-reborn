@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "Закрити меню навігації",
+  "aria.loadingPage": "Завантаження сторінки",
   "aria.openSidebar": "Відкрити меню навігації",
   "aria.skipToMainContent": "Перейти до основного вмісту",
   "aria.switchTheme": "Змінити тему оформлення",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "Підготовка до завантаження",
   "audioDownloadStages.ready": "Файл готовий до завантаження",
   "audioDownloadStages.writingMetadata": "Запис метаданих",
+  "audioLoadFailedLabel": "Не вдалося завантажити аудіо.",
   "audioPauseLabel": "Призупинити аудіо",
   "audioPlayLabel": "Відтворити аудіо",
   "audioSeekLabel": "Перемотати аудіо",

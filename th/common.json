@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "ปิดแถบนำทาง",
+  "aria.loadingPage": "กำลังโหลดหน้า",
   "aria.openSidebar": "เปิดแถบนำทาง",
   "aria.skipToMainContent": "ข้ามไปยังเนื้อหาหลัก",
   "aria.switchTheme": "เปลี่ยนโหมดธีม",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "กำลังเตรียมดาวน์โหลด",
   "audioDownloadStages.ready": "ดาวน์โหลดพร้อมแล้ว",
   "audioDownloadStages.writingMetadata": "กำลังบันทึกข้อมูลกำกับ",
+  "audioLoadFailedLabel": "โหลดเสียงไม่สำเร็จ",
   "audioPauseLabel": "หยุดเสียงชั่วคราว",
   "audioPlayLabel": "เล่นเสียง",
   "audioSeekLabel": "เลื่อนตำแหน่งเสียง",

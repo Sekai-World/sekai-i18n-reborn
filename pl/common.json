@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "Zamknij nawigację",
+  "aria.loadingPage": "Wczytywanie strony",
   "aria.openSidebar": "Otwórz nawigację",
   "aria.skipToMainContent": "Przejdź do głównej treści",
   "aria.switchTheme": "Zmień tryb motywu",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "Przygotowywanie pobierania",
   "audioDownloadStages.ready": "Pobieranie gotowe",
   "audioDownloadStages.writingMetadata": "Zapisywanie metadanych",
+  "audioLoadFailedLabel": "Nie udało się wczytać dźwięku.",
   "audioPauseLabel": "Wstrzymaj odtwarzanie",
   "audioPlayLabel": "Odtwórz dźwięk",
   "audioSeekLabel": "Przewiń nagranie",

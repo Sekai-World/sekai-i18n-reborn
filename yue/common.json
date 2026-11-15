@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "關閉導覽欄",
+  "aria.loadingPage": "載入緊頁面",
   "aria.openSidebar": "開啟導覽欄",
   "aria.skipToMainContent": "跳至主要內容",
   "aria.switchTheme": "切換主題模式",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "準備緊下載",
   "audioDownloadStages.ready": "下載已準備好",
   "audioDownloadStages.writingMetadata": "寫入緊中繼資料",
+  "audioLoadFailedLabel": "音訊載入失敗。",
   "audioPauseLabel": "暫停音訊",
   "audioPlayLabel": "播放音訊",
   "audioSeekLabel": "調整音訊播放位置",
