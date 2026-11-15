@@ -64,5 +64,6 @@
   "characterMissionMaterial": "Material",
   "characterMissionReward": "Hadiah",
   "characterMissionUnavailable": "Target level tidak tersedia di region ini.",
-  "characterRankTotalExp": "Total {count} EXP"
+  "characterRankTotalExp": "Total {count} EXP",
+  "characterStoryReaderLink": "Baca cerita karakter"
 }

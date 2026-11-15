@@ -52,5 +52,6 @@
   "eventTypeValues.marathon": "Maraton",
   "eventTypeValues.worldLink": "Legătura lumilor",
   "world_bloom": "Legătura lumilor",
-  "pageTitle.eventPrefix": "Eveniment"
+  "pageTitle.eventPrefix": "Eveniment",
+  "eventStoryReaderLink": "Citește povestea evenimentului"
 }

@@ -64,5 +64,6 @@
   "characterMissionMaterial": "Nguyên liệu",
   "characterMissionReward": "Phần thưởng",
   "characterMissionUnavailable": "Mục tiêu cấp độ không khả dụng ở khu vực này.",
-  "characterRankTotalExp": "Tổng cộng {count} EXP"
+  "characterRankTotalExp": "Tổng cộng {count} EXP",
+  "characterStoryReaderLink": "Đọc cốt truyện nhân vật"
 }

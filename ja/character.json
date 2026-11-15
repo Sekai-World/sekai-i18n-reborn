@@ -64,5 +64,6 @@
   "characterMissionMaterial": "マテリアル",
   "characterMissionReward": "報酬",
   "characterMissionUnavailable": "この地域ではレベル目標を利用できません。",
-  "characterRankTotalExp": "合計{count} EXP"
+  "characterRankTotalExp": "合計{count} EXP",
+  "characterStoryReaderLink": "キャラクターストーリーを読む"
 }

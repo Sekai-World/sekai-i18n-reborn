@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "MySekai fotoğraf çerçevelerine göz atın ve bölge belirtmeyen liste bağlantılarını açın.",
   "updates.release.0.1.2.title": "MySekai fotoğraf çerçeveleri",
   "updates.title": "Güncelleme kaydı",
-  "updates.versionLabel": "Sürüm"
+  "updates.versionLabel": "Sürüm",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Diğer siteler",
+  "navigation.musicRecommender": "Şarkı Önerici",
+  "navigation.storyReader": "Hikâye Okuyucu"
 }

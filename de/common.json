@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Durchsuche MySekai-Fotorahmen und öffne Listenlinks, die keine Region nennen.",
   "updates.release.0.1.2.title": "MySekai-Fotorahmen",
   "updates.title": "Änderungsprotokoll",
-  "updates.versionLabel": "Version"
+  "updates.versionLabel": "Version",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Weitere Seiten",
+  "navigation.musicRecommender": "Song-Empfehlungen",
+  "navigation.storyReader": "Story-Reader"
 }

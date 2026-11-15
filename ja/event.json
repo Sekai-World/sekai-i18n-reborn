@@ -52,5 +52,6 @@
   "eventHonorBonusesUnavailable": "称号ボーナスを利用できません。ページを再読み込みして、もう一度お試しください。",
   "eventHonorBonusHonorLabel": "称号",
   "eventHonorRewardLabel": "称号ランキング報酬",
-  "eventBondsHonorRewardLabel": "キズナ称号ランキング報酬"
+  "eventBondsHonorRewardLabel": "キズナ称号ランキング報酬",
+  "eventStoryReaderLink": "イベントストーリーを読む"
 }

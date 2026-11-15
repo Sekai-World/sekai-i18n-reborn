@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "ดูกรอบรูป MySekai และเปิดลิงก์รายการที่ไม่ได้ระบุภูมิภาคได้",
   "updates.release.0.1.2.title": "กรอบรูป MySekai",
   "updates.title": "บันทึกการอัปเดต",
-  "updates.versionLabel": "เวอร์ชัน"
+  "updates.versionLabel": "เวอร์ชัน",
+  "navigation.chibi": "จิบิ",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "เว็บไซต์อื่น ๆ",
+  "navigation.musicRecommender": "ตัวแนะนำเพลง",
+  "navigation.storyReader": "ตัวอ่านเรื่องราว"
 }

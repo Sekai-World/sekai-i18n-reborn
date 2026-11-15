@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Przeglądaj ramki na zdjęcia w MySekai i otwieraj linki do list bez podanego regionu.",
   "updates.release.0.1.2.title": "Ramki na zdjęcia w MySekai",
   "updates.title": "Historia aktualizacji",
-  "updates.versionLabel": "Wersja"
+  "updates.versionLabel": "Wersja",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Więcej stron",
+  "navigation.musicRecommender": "Polecane utwory",
+  "navigation.storyReader": "Czytnik historii"
 }

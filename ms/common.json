@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Lihat bingkai foto MySekai dan buka pautan senarai yang tidak menyatakan rantau.",
   "updates.release.0.1.2.title": "Bingkai Foto MySekai",
   "updates.title": "Catatan Kemas Kini",
-  "updates.versionLabel": "Versi"
+  "updates.versionLabel": "Versi",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Laman Lain",
+  "navigation.musicRecommender": "Pengesyor Lagu",
+  "navigation.storyReader": "Pembaca Cerita"
 }

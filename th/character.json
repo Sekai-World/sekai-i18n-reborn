@@ -64,5 +64,6 @@
   "characterMissionMaterial": "วัสดุ",
   "characterMissionReward": "รางวัล",
   "characterMissionUnavailable": "เป้าหมายระดับไม่มีให้บริการในภูมิภาคนี้",
-  "characterRankTotalExp": "EXP รวม {count}"
+  "characterRankTotalExp": "EXP รวม {count}",
+  "characterStoryReaderLink": "อ่านเรื่องราวตัวละคร"
 }

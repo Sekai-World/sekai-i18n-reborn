@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Prehliadajte fotorámčeky Môj Sekai a otvárajte odkazy na zoznamy bez uvedeného regiónu.",
   "updates.release.0.1.2.title": "Fotorámčeky Môj Sekai",
   "updates.title": "Záznam aktualizácií",
-  "updates.versionLabel": "Verzia"
+  "updates.versionLabel": "Verzia",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Ďalšie stránky",
+  "navigation.musicRecommender": "Odporúčanie skladieb",
+  "navigation.storyReader": "Čítačka príbehov"
 }

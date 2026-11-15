@@ -61,5 +61,6 @@
   "cardGallery.description": "이 카드에서 이용 가능한 일러스트를 확인합니다.",
   "cardGallery.loading": "일러스트를 불러오는 중...",
   "cardGallery.title": "카드 갤러리",
-  "cardGallery.unavailable": "이용 불가"
+  "cardGallery.unavailable": "이용 불가",
+  "cardEpisodeStoryReaderLink": "스토리 읽기"
 }

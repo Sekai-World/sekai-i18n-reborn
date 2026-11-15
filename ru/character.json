@@ -64,5 +64,6 @@
   "characterMissionMaterial": "Материал",
   "characterMissionReward": "Награда",
   "characterMissionUnavailable": "Цели уровней недоступны в этом регионе.",
-  "characterRankTotalExp": "Всего опыта: {count}"
+  "characterRankTotalExp": "Всего опыта: {count}",
+  "characterStoryReaderLink": "Читать историю персонажа"
 }

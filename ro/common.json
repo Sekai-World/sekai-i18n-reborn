@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Răsfoiți ramele foto MySekai și deschideți linkuri către liste care nu menționează o regiune.",
   "updates.release.0.1.2.title": "Rame foto MySekai",
   "updates.title": "Jurnal de actualizări",
-  "updates.versionLabel": "Versiune"
+  "updates.versionLabel": "Versiune",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Mai multe site-uri",
+  "navigation.musicRecommender": "Recomandări de melodii",
+  "navigation.storyReader": "Cititor de povești"
 }

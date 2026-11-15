@@ -64,5 +64,6 @@
   "characterMissionMaterial": "재료",
   "characterMissionReward": "보상",
   "characterMissionUnavailable": "이 지역에서는 레벨 목표를 이용할 수 없습니다.",
-  "characterRankTotalExp": "총 {count} EXP"
+  "characterRankTotalExp": "총 {count} EXP",
+  "characterStoryReaderLink": "캐릭터 스토리 읽기"
 }

@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Bekijk MySekai-fotolijsten en open lijstlinks die geen regio noemen.",
   "updates.release.0.1.2.title": "MySekai-fotolijsten",
   "updates.title": "Wijzigingsoverzicht",
-  "updates.versionLabel": "Versie"
+  "updates.versionLabel": "Versie",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Meer sites",
+  "navigation.musicRecommender": "Nummeraanbevelingen",
+  "navigation.storyReader": "Verhalenlezer"
 }

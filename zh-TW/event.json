@@ -52,5 +52,6 @@
   "eventHonorBonusesUnavailable": "稱號加成無法使用。請重新載入頁面再試一次。",
   "eventHonorBonusHonorLabel": "稱號",
   "eventHonorRewardLabel": "稱號排名獎勵",
-  "eventBondsHonorRewardLabel": "羈絆稱號排名獎勵"
+  "eventBondsHonorRewardLabel": "羈絆稱號排名獎勵",
+  "eventStoryReaderLink": "閱讀活動劇情"
 }

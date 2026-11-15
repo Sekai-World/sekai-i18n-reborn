@@ -52,5 +52,6 @@
   "eventTypeValues.marathon": "馬拉松",
   "eventTypeValues.worldLink": "World Link",
   "world_bloom": "World Link",
-  "pageTitle.eventPrefix": "活動"
+  "pageTitle.eventPrefix": "活動",
+  "eventStoryReaderLink": "睇活動劇情"
 }

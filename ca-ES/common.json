@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Explora els marcs de foto de MySekai i obre enllaços de llistes que no indiquen cap regió.",
   "updates.release.0.1.2.title": "Marcs de foto de MySekai",
   "updates.title": "Registre d'actualitzacions",
-  "updates.versionLabel": "Versió"
+  "updates.versionLabel": "Versió",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Més llocs",
+  "navigation.musicRecommender": "Recomanador de cançons",
+  "navigation.storyReader": "Lector d'històries"
 }

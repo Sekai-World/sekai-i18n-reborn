@@ -64,5 +64,6 @@
   "characterMissionMaterial": "المادة",
   "characterMissionReward": "المكافأة",
   "characterMissionUnavailable": "أهداف المستويات غير متاحة في هذه المنطقة.",
-  "characterRankTotalExp": "إجمالي نقاط الخبرة {count}"
+  "characterRankTotalExp": "إجمالي نقاط الخبرة {count}",
+  "characterStoryReaderLink": "قراءة قصة الشخصية"
 }

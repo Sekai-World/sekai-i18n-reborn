@@ -52,5 +52,6 @@
   "eventHonorBonusesUnavailable": "称号加成暂不可用。请重新加载页面重试。",
   "eventHonorBonusHonorLabel": "称号",
   "eventHonorRewardLabel": "称号排名奖励",
-  "eventBondsHonorRewardLabel": "羁绊称号排名奖励"
+  "eventBondsHonorRewardLabel": "羁绊称号排名奖励",
+  "eventStoryReaderLink": "阅读活动剧情"
 }

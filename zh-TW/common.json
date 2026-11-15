@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "瀏覽 MySekai 相框，並可開啟未指明地區的列表連結。",
   "updates.release.0.1.2.title": "MySekai 相框",
   "updates.title": "更新紀錄",
-  "updates.versionLabel": "版本"
+  "updates.versionLabel": "版本",
+  "navigation.chibi": "Q版角色",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "更多網站",
+  "navigation.musicRecommender": "選歌推薦",
+  "navigation.storyReader": "劇情閱讀器"
 }

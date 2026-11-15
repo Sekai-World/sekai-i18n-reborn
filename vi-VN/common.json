@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Duyệt khung ảnh MySekai và mở các liên kết danh sách không ghi khu vực.",
   "updates.release.0.1.2.title": "Khung ảnh MySekai",
   "updates.title": "Nhật ký cập nhật",
-  "updates.versionLabel": "Phiên bản"
+  "updates.versionLabel": "Phiên bản",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Trang khác",
+  "navigation.musicRecommender": "Gợi ý bài hát",
+  "navigation.storyReader": "Trình đọc cốt truyện"
 }

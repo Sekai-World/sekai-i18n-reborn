@@ -64,5 +64,6 @@
   "characterMissionMaterial": "Materiaal",
   "characterMissionReward": "Beloning",
   "characterMissionUnavailable": "Niveaudoelen zijn niet beschikbaar in deze regio.",
-  "characterRankTotalExp": "In totaal {count} EXP"
+  "characterRankTotalExp": "In totaal {count} EXP",
+  "characterStoryReaderLink": "Personageverhaal lezen"
 }
