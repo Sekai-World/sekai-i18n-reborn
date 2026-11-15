@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "Close navigation",
+  "aria.loadingPage": "Loading page",
   "aria.openSidebar": "Open navigation",
   "aria.skipToMainContent": "Skip to main content",
   "aria.switchTheme": "Switch theme mode",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "Preparing download",
   "audioDownloadStages.ready": "Download ready",
   "audioDownloadStages.writingMetadata": "Writing metadata",
+  "audioLoadFailedLabel": "Failed to load audio.",
   "audioPauseLabel": "Pause audio",
   "audioPlayLabel": "Play audio",
   "audioSeekLabel": "Seek audio",
