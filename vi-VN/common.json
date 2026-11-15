@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "Đóng thanh điều hướng",
+  "aria.loadingPage": "Đang tải trang",
   "aria.openSidebar": "Mở thanh điều hướng",
   "aria.skipToMainContent": "Chuyển đến nội dung chính",
   "aria.switchTheme": "Chuyển chế độ giao diện",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "Đang chuẩn bị tải xuống",
   "audioDownloadStages.ready": "Đã sẵn sàng tải xuống",
   "audioDownloadStages.writingMetadata": "Đang ghi siêu dữ liệu",
+  "audioLoadFailedLabel": "Không thể tải âm thanh.",
   "audioPauseLabel": "Tạm dừng âm thanh",
   "audioPlayLabel": "Phát âm thanh",
   "audioSeekLabel": "Tua âm thanh",

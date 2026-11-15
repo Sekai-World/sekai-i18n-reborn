@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "סגירת תפריט הניווט",
+  "aria.loadingPage": "הדף נטען",
   "aria.openSidebar": "פתיחת תפריט הניווט",
   "aria.skipToMainContent": "דילוג לתוכן הראשי",
   "aria.switchTheme": "החלפת מצב המראה",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "ההורדה מתכוננת",
   "audioDownloadStages.ready": "ההורדה מוכנה",
   "audioDownloadStages.writingMetadata": "הנתונים נכתבים לקובץ",
+  "audioLoadFailedLabel": "טעינת השמע נכשלה.",
   "audioPauseLabel": "השהיית השמע",
   "audioPlayLabel": "השמעת שמע",
   "audioSeekLabel": "דילוג למיקום בשמע",

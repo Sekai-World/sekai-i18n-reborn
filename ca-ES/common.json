@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "Tanca la navegació",
+  "aria.loadingPage": "S'està carregant la pàgina",
   "aria.openSidebar": "Obre la navegació",
   "aria.skipToMainContent": "Ves al contingut principal",
   "aria.switchTheme": "Canvia el tema",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "S'està preparant la baixada",
   "audioDownloadStages.ready": "La baixada està a punt",
   "audioDownloadStages.writingMetadata": "S'estan escrivint les metadades",
+  "audioLoadFailedLabel": "No s'ha pogut carregar l'àudio.",
   "audioPauseLabel": "Posa en pausa l'àudio",
   "audioPlayLabel": "Reprodueix l'àudio",
   "audioSeekLabel": "Busca una posició de l'àudio",

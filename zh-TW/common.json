@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "關閉導航",
+  "aria.loadingPage": "正在載入頁面",
   "aria.openSidebar": "開啟導航",
   "aria.switchTheme": "切換主題模式",
   "aria.switchUiLanguageCurrent": "切換介面語言。目前語言",
@@ -82,6 +83,7 @@
   "audioDownloadStages.preparing": "正在準備下載",
   "audioDownloadStages.ready": "下載完成",
   "audioDownloadStages.writingMetadata": "正在寫入中繼資料",
+  "audioLoadFailedLabel": "音訊載入失敗。",
   "audioPauseLabel": "暫停播放",
   "audioPlayLabel": "播放音訊",
   "audioSeekLabel": "調整播放進度",

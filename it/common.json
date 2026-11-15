@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "Chiudi la navigazione",
+  "aria.loadingPage": "Caricamento della pagina",
   "aria.openSidebar": "Apri la navigazione",
   "aria.skipToMainContent": "Vai al contenuto principale",
   "aria.switchTheme": "Cambia modalità del tema",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "Preparazione del download",
   "audioDownloadStages.ready": "Download pronto",
   "audioDownloadStages.writingMetadata": "Scrittura dei metadati",
+  "audioLoadFailedLabel": "Impossibile caricare l’audio.",
   "audioPauseLabel": "Metti in pausa l’audio",
   "audioPlayLabel": "Riproduci l’audio",
   "audioSeekLabel": "Sposta la riproduzione audio",

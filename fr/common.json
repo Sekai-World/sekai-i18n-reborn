@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "Fermer la navigation",
+  "aria.loadingPage": "Chargement de la page",
   "aria.openSidebar": "Ouvrir la navigation",
   "aria.skipToMainContent": "Passer au contenu principal",
   "aria.switchTheme": "Changer de thème",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "Préparation du téléchargement",
   "audioDownloadStages.ready": "Téléchargement prêt",
   "audioDownloadStages.writingMetadata": "Écriture des métadonnées",
+  "audioLoadFailedLabel": "Impossible de charger l’audio.",
   "audioPauseLabel": "Mettre l’audio en pause",
   "audioPlayLabel": "Lire l’audio",
   "audioSeekLabel": "Déplacer la lecture audio",

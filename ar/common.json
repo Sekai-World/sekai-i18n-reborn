@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "إغلاق قائمة التنقل",
+  "aria.loadingPage": "جارٍ تحميل الصفحة",
   "aria.openSidebar": "فتح قائمة التنقل",
   "aria.skipToMainContent": "الانتقال إلى المحتوى الرئيسي",
   "aria.switchTheme": "تبديل وضع المظهر",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "جارٍ تجهيز التنزيل",
   "audioDownloadStages.ready": "التنزيل جاهز",
   "audioDownloadStages.writingMetadata": "جارٍ كتابة البيانات الوصفية",
+  "audioLoadFailedLabel": "تعذّر تحميل الصوت.",
   "audioPauseLabel": "إيقاف الصوت مؤقتًا",
   "audioPlayLabel": "تشغيل الصوت",
   "audioSeekLabel": "تقديم الصوت أو إرجاعه",

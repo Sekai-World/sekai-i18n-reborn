@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "네비게이션 닫기",
+  "aria.loadingPage": "페이지를 불러오는 중",
   "aria.openSidebar": "네비게이션 열기",
   "aria.switchTheme": "테마 모드 전환",
   "aria.switchUiLanguageCurrent": "UI 언어 변경. 현재 언어",
@@ -82,6 +83,7 @@
   "audioDownloadStages.preparing": "다운로드 준비 중",
   "audioDownloadStages.ready": "다운로드 준비 완료",
   "audioDownloadStages.writingMetadata": "메타데이터 기록 중",
+  "audioLoadFailedLabel": "오디오를 불러오지 못했습니다.",
   "audioPauseLabel": "오디오 일시 정지",
   "audioPlayLabel": "오디오 재생",
   "audioSeekLabel": "오디오 재생 위치 이동",

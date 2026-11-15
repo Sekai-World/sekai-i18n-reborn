@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "Zavřít navigaci",
+  "aria.loadingPage": "Načítání stránky",
   "aria.openSidebar": "Otevřít navigaci",
   "aria.skipToMainContent": "Přeskočit na hlavní obsah",
   "aria.switchTheme": "Přepnout motiv",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "Příprava stahování",
   "audioDownloadStages.ready": "Stahování je připraveno",
   "audioDownloadStages.writingMetadata": "Zápis metadat",
+  "audioLoadFailedLabel": "Zvuk se nepodařilo načíst.",
   "audioPauseLabel": "Pozastavit zvuk",
   "audioPlayLabel": "Přehrát zvuk",
   "audioSeekLabel": "Přesunout se v přehrávání",

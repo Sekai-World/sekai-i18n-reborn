@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "Gezinme menüsünü kapat",
+  "aria.loadingPage": "Sayfa yükleniyor",
   "aria.openSidebar": "Gezinme menüsünü aç",
   "aria.skipToMainContent": "Ana içeriğe geç",
   "aria.switchTheme": "Tema modunu değiştir",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "İndirme hazırlanıyor",
   "audioDownloadStages.ready": "İndirme hazır",
   "audioDownloadStages.writingMetadata": "Üst veriler yazılıyor",
+  "audioLoadFailedLabel": "Ses yüklenemedi.",
   "audioPauseLabel": "Sesi duraklat",
   "audioPlayLabel": "Sesi oynat",
   "audioSeekLabel": "Seste ilerle",

@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "Închideți meniul de navigare",
+  "aria.loadingPage": "Se încarcă pagina",
   "aria.openSidebar": "Deschideți meniul de navigare",
   "aria.skipToMainContent": "Treceți la conținutul principal",
   "aria.switchTheme": "Schimbați tema",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "Se pregătește descărcarea",
   "audioDownloadStages.ready": "Descărcarea este gata",
   "audioDownloadStages.writingMetadata": "Se scriu metadatele",
+  "audioLoadFailedLabel": "Nu s-a putut încărca sunetul.",
   "audioPauseLabel": "Întrerupeți redarea",
   "audioPlayLabel": "Redați sunetul",
   "audioSeekLabel": "Derulați înregistrarea",

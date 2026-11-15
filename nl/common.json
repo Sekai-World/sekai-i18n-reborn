@@ -1,5 +1,6 @@
 {
   "aria.closeSidebar": "Navigatie sluiten",
+  "aria.loadingPage": "Pagina laden",
   "aria.openSidebar": "Navigatie openen",
   "aria.skipToMainContent": "Naar de hoofdinhoud gaan",
   "aria.switchTheme": "Weergavemodus wijzigen",
@@ -17,6 +18,7 @@
   "audioDownloadStages.preparing": "Download voorbereiden",
   "audioDownloadStages.ready": "Download gereed",
   "audioDownloadStages.writingMetadata": "Metagegevens schrijven",
+  "audioLoadFailedLabel": "De audio kon niet worden geladen.",
   "audioPauseLabel": "Audio pauzeren",
   "audioPlayLabel": "Audio afspelen",
   "audioSeekLabel": "Naar een ander moment in de audio gaan",
