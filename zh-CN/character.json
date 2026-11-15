@@ -64,5 +64,6 @@
   "characterMissionMaterial": "材料",
   "characterMissionReward": "奖励",
   "characterMissionUnavailable": "该地区无法提供等级目标。",
-  "characterRankTotalExp": "共 {count} EXP"
+  "characterRankTotalExp": "共 {count} EXP",
+  "characterStoryReaderLink": "阅读角色剧情"
 }

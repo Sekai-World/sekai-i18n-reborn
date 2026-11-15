@@ -52,5 +52,6 @@
   "eventTypeValues.marathon": "Marathon",
   "eventTypeValues.worldLink": "World Link",
   "world_bloom": "World Link",
-  "pageTitle.eventPrefix": "Acara"
+  "pageTitle.eventPrefix": "Acara",
+  "eventStoryReaderLink": "Baca cerita acara"
 }

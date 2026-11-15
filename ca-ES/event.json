@@ -52,5 +52,6 @@
   "eventTypeValues.marathon": "Marató",
   "eventTypeValues.worldLink": "World Link",
   "world_bloom": "World Link",
-  "pageTitle.eventPrefix": "Esdeveniment"
+  "pageTitle.eventPrefix": "Esdeveniment",
+  "eventStoryReaderLink": "Llegeix la història de l'esdeveniment"
 }

@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "تصفّح إطارات صور MySekai، وافتح روابط القوائم التي لا تحدد منطقة.",
   "updates.release.0.1.2.title": "إطارات صور MySekai",
   "updates.title": "سجل التحديثات",
-  "updates.versionLabel": "الإصدار"
+  "updates.versionLabel": "الإصدار",
+  "navigation.chibi": "تشيبي",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "مواقع أخرى",
+  "navigation.musicRecommender": "مقترح الأغاني",
+  "navigation.storyReader": "قارئ القصص"
 }

@@ -52,5 +52,6 @@
   "eventTypeValues.marathon": "ماراثون",
   "eventTypeValues.worldLink": "World Link",
   "world_bloom": "World Link",
-  "pageTitle.eventPrefix": "الفعالية"
+  "pageTitle.eventPrefix": "الفعالية",
+  "eventStoryReaderLink": "قراءة قصة الفعالية"
 }

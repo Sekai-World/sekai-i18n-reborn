@@ -64,5 +64,6 @@
   "characterMissionMaterial": "Materiał",
   "characterMissionReward": "Nagroda",
   "characterMissionUnavailable": "Cele poziomów są niedostępne w tym regionie.",
-  "characterRankTotalExp": "Łącznie {count} EXP"
+  "characterRankTotalExp": "Łącznie {count} EXP",
+  "characterStoryReaderLink": "Czytaj historię postaci"
 }

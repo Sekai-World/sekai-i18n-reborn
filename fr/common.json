@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Parcourez les cadres photo MySekai et ouvrez les liens de listes qui n’indiquent pas de région.",
   "updates.release.0.1.2.title": "Cadres photo MySekai",
   "updates.title": "Journal des mises à jour",
-  "updates.versionLabel": "Version"
+  "updates.versionLabel": "Version",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Autres sites",
+  "navigation.musicRecommender": "Recommandation de chansons",
+  "navigation.storyReader": "Lecteur d'histoires"
 }

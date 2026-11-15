@@ -52,5 +52,6 @@
   "eventTypeValues.marathon": "Maratón",
   "eventTypeValues.worldLink": "Prepojenie svetov",
   "world_bloom": "Prepojenie svetov",
-  "pageTitle.eventPrefix": "Udalosť"
+  "pageTitle.eventPrefix": "Udalosť",
+  "eventStoryReaderLink": "Čítať príbeh udalosti"
 }

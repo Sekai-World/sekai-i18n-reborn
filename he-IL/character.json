@@ -64,5 +64,6 @@
   "characterMissionMaterial": "חומר",
   "characterMissionReward": "פרס",
   "characterMissionUnavailable": "יעדי הרמות אינם זמינים באזור הזה.",
-  "characterRankTotalExp": "סך נקודות הניסיון: {count}"
+  "characterRankTotalExp": "סך נקודות הניסיון: {count}",
+  "characterStoryReaderLink": "קריאת סיפור הדמות"
 }

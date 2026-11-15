@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Procházejte fotorámečky MySekai a otevírejte odkazy na seznamy bez uvedeného regionu.",
   "updates.release.0.1.2.title": "Fotorámečky MySekai",
   "updates.title": "Přehled aktualizací",
-  "updates.versionLabel": "Verze"
+  "updates.versionLabel": "Verze",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Další weby",
+  "navigation.musicRecommender": "Doporučení skladeb",
+  "navigation.storyReader": "Čtečka příběhů"
 }

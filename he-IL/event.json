@@ -52,5 +52,6 @@
   "eventTypeValues.marathon": "מרתון",
   "eventTypeValues.worldLink": "World Link",
   "world_bloom": "World Link",
-  "pageTitle.eventPrefix": "אירוע"
+  "pageTitle.eventPrefix": "אירוע",
+  "eventStoryReaderLink": "קריאת סיפור האירוע"
 }

@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "마이세카이 포토 프레임을 둘러보고, 지역이 지정되지 않은 목록 링크를 열 수 있습니다.",
   "updates.release.0.1.2.title": "마이세카이 포토 프레임",
   "updates.title": "업데이트 기록",
-  "updates.versionLabel": "버전"
+  "updates.versionLabel": "버전",
+  "navigation.chibi": "SD 캐릭터",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "다른 사이트",
+  "navigation.musicRecommender": "곡 추천",
+  "navigation.storyReader": "스토리 리더"
 }

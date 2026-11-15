@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Sfoglia le cornici foto di MySekai e apri i link agli elenchi che non indicano una regione.",
   "updates.release.0.1.2.title": "Cornici foto di MySekai",
   "updates.title": "Registro degli aggiornamenti",
-  "updates.versionLabel": "Versione"
+  "updates.versionLabel": "Versione",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Altri siti",
+  "navigation.musicRecommender": "Consigli sulle canzoni",
+  "navigation.storyReader": "Lettore di storie"
 }

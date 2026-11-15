@@ -52,5 +52,6 @@
   "eventTypeValues.marathon": "Marathon",
   "eventTypeValues.worldLink": "World Link",
   "world_bloom": "World Link",
-  "pageTitle.eventPrefix": "Événement"
+  "pageTitle.eventPrefix": "Événement",
+  "eventStoryReaderLink": "Lire l'histoire de l'événement"
 }

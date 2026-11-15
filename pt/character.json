@@ -64,5 +64,6 @@
   "characterMissionMaterial": "Material",
   "characterMissionReward": "Recompensa",
   "characterMissionUnavailable": "Os objetivos de nível não estão disponíveis nesta região.",
-  "characterRankTotalExp": "Total de {count} EXP"
+  "characterRankTotalExp": "Total de {count} EXP",
+  "characterStoryReaderLink": "Ler história da personagem"
 }

@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Explora los marcos de foto de MySekai y abre enlaces de listas que no indican una región.",
   "updates.release.0.1.2.title": "Marcos de foto de MySekai",
   "updates.title": "Registro de actualizaciones",
-  "updates.versionLabel": "Versión"
+  "updates.versionLabel": "Versión",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Más sitios",
+  "navigation.musicRecommender": "Recomendador de canciones",
+  "navigation.storyReader": "Lector de historias"
 }

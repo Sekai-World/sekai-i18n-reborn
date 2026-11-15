@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Переглядайте фоторамки «Мій Секай» і відкривайте посилання на списки без зазначення регіону.",
   "updates.release.0.1.2.title": "Фоторамки «Мій Секай»",
   "updates.title": "Журнал оновлень",
-  "updates.versionLabel": "Версія"
+  "updates.versionLabel": "Версія",
+  "navigation.chibi": "Чібі",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Інші сайти",
+  "navigation.musicRecommender": "Добір пісень",
+  "navigation.storyReader": "Читання історій"
 }

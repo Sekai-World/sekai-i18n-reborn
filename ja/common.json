@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "マイセカイのフォトフレームを確認できるようになり、地域の指定がない一覧リンクも開けるようになりました。",
   "updates.release.0.1.2.title": "マイセカイのフォトフレーム",
   "updates.title": "更新履歴",
-  "updates.versionLabel": "バージョン"
+  "updates.versionLabel": "バージョン",
+  "navigation.chibi": "ちびキャラ",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "その他のサイト",
+  "navigation.musicRecommender": "楽曲レコメンド",
+  "navigation.storyReader": "ストーリーリーダー"
 }

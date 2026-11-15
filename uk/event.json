@@ -52,5 +52,6 @@
   "eventTypeValues.marathon": "Марафон",
   "eventTypeValues.worldLink": "Зв'язок світів",
   "world_bloom": "Зв'язок світів",
-  "pageTitle.eventPrefix": "Подія"
+  "pageTitle.eventPrefix": "Подія",
+  "eventStoryReaderLink": "Читати історію події"
 }

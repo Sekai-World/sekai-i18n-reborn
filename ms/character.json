@@ -64,5 +64,6 @@
   "characterMissionMaterial": "Bahan",
   "characterMissionReward": "Ganjaran",
   "characterMissionUnavailable": "Matlamat tahap tidak tersedia di rantau ini.",
-  "characterRankTotalExp": "Jumlah {count} EXP"
+  "characterRankTotalExp": "Jumlah {count} EXP",
+  "characterStoryReaderLink": "Baca cerita watak"
 }

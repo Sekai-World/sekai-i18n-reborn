@@ -64,5 +64,6 @@
   "characterMissionMaterial": "Material",
   "characterMissionReward": "Recompensă",
   "characterMissionUnavailable": "Obiectivele de nivel nu sunt disponibile în această regiune.",
-  "characterRankTotalExp": "Total EXP: {count}"
+  "characterRankTotalExp": "Total EXP: {count}",
+  "characterStoryReaderLink": "Citește povestea personajului"
 }

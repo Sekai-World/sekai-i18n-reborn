@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Explore as molduras de foto do MySekai e abra links de listas que não indicam uma região.",
   "updates.release.0.1.2.title": "Molduras de foto do MySekai",
   "updates.title": "Histórico de atualizações",
-  "updates.versionLabel": "Versão"
+  "updates.versionLabel": "Versão",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Mais sites",
+  "navigation.musicRecommender": "Recomendador de músicas",
+  "navigation.storyReader": "Leitor de histórias"
 }

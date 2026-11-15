@@ -52,5 +52,6 @@
   "eventTypeValues.marathon": "Maraton",
   "eventTypeValues.worldLink": "Dünya Bağlantısı",
   "world_bloom": "Dünya Bağlantısı",
-  "pageTitle.eventPrefix": "Etkinlik"
+  "pageTitle.eventPrefix": "Etkinlik",
+  "eventStoryReaderLink": "Etkinlik hikâyesini oku"
 }

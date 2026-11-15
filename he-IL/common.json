@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "לעיין במסגרות התמונה של MySekai ולפתוח קישורי רשימות שלא מציינים אזור.",
   "updates.release.0.1.2.title": "מסגרות תמונה של MySekai",
   "updates.title": "יומן עדכונים",
-  "updates.versionLabel": "גרסה"
+  "updates.versionLabel": "גרסה",
+  "navigation.chibi": "צ'יבי",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "אתרים נוספים",
+  "navigation.musicRecommender": "ממליץ השירים",
+  "navigation.storyReader": "קורא סיפורים"
 }

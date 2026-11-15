@@ -249,5 +249,10 @@
   "updates.release.0.1.2.summary": "Jelajahi bingkai foto MySekai, dan buka tautan daftar yang tidak menyebutkan region.",
   "updates.release.0.1.2.title": "Bingkai Foto MySekai",
   "updates.title": "Catatan Pembaruan",
-  "updates.versionLabel": "Versi"
+  "updates.versionLabel": "Versi",
+  "navigation.chibi": "Chibi",
+  "navigation.live2d": "Live2D",
+  "navigation.moreSites": "Situs Lainnya",
+  "navigation.musicRecommender": "Rekomendasi Lagu",
+  "navigation.storyReader": "Pembaca Cerita"
 }

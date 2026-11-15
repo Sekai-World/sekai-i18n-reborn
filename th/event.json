@@ -52,5 +52,6 @@
   "eventTypeValues.marathon": "Marathon",
   "eventTypeValues.worldLink": "World Link",
   "world_bloom": "World Link",
-  "pageTitle.eventPrefix": "อีเวนต์"
+  "pageTitle.eventPrefix": "อีเวนต์",
+  "eventStoryReaderLink": "อ่านเรื่องราวอีเวนต์"
 }

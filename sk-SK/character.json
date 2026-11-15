@@ -64,5 +64,6 @@
   "characterMissionMaterial": "Materiál",
   "characterMissionReward": "Odmena",
   "characterMissionUnavailable": "Ciele úrovní nie sú v tomto regióne dostupné.",
-  "characterRankTotalExp": "Celkové skúsenosti: {count}"
+  "characterRankTotalExp": "Celkové skúsenosti: {count}",
+  "characterStoryReaderLink": "Čítať príbeh postavy"
 }

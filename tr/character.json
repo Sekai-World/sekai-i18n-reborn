@@ -64,5 +64,6 @@
   "characterMissionMaterial": "Malzeme",
   "characterMissionReward": "Ödül",
   "characterMissionUnavailable": "Bu bölgede seviye hedefleri kullanılamıyor.",
-  "characterRankTotalExp": "Toplam TP: {count}"
+  "characterRankTotalExp": "Toplam TP: {count}",
+  "characterStoryReaderLink": "Karakter hikâyesini oku"
 }
