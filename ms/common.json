@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "Bar sisi mempunyai kumpulan baharu \"Laman Lain\" dengan Pembaca Cerita, Live2D, Chibi, Penjejak Acara dan Pengesyor Lagu.",
   "updates.release.0.2.0.change.stories": "Halaman acara, kad dan watak memaut terus ke cerita masing-masing dalam Pembaca Cerita.",
   "updates.release.0.2.0.summary": "Pergi ke Pembaca Cerita, Live2D, Chibi dan alatan dari bar sisi, dan lihat serta-merta bahawa klik sedang dimuatkan.",
-  "updates.release.0.2.0.title": "Laman lain dan pautan cerita"
+  "updates.release.0.2.0.title": "Laman lain dan pautan cerita",
+  "updates.release.0.2.0.change.backLinks": "Pembaca Cerita dan Penjejak Acara memaut kembali ke halaman acara, kad dan watak yang sepadan di sini."
 }

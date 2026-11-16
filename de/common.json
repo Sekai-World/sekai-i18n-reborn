@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "Die Seitenleiste hat eine neue Gruppe „Weitere Seiten“ mit Story-Reader, Live2D, Chibi, Event-Tracker und Song-Empfehlungen.",
   "updates.release.0.2.0.change.stories": "Event-, Karten- und Charakterseiten verlinken direkt auf ihre Storys im Story-Reader.",
   "updates.release.0.2.0.summary": "Wechsle über die Seitenleiste zu Story-Reader, Live2D, Chibi und den Tools und sieh sofort, dass nach einem Klick geladen wird.",
-  "updates.release.0.2.0.title": "Weitere Seiten und Story-Links"
+  "updates.release.0.2.0.title": "Weitere Seiten und Story-Links",
+  "updates.release.0.2.0.change.backLinks": "Story-Reader und Event-Tracker verlinken zurück auf die passenden Event-, Karten- und Charakterseiten hier."
 }

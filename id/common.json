@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "Bilah sisi memiliki grup baru \"Situs Lainnya\" berisi Pembaca Cerita, Live2D, Chibi, Pelacak Event, dan Rekomendasi Lagu.",
   "updates.release.0.2.0.change.stories": "Halaman event, kartu, dan karakter menautkan langsung ke ceritanya di Pembaca Cerita.",
   "updates.release.0.2.0.summary": "Buka Pembaca Cerita, Live2D, Chibi, dan alat dari bilah sisi, dan langsung lihat bahwa klik sedang dimuat.",
-  "updates.release.0.2.0.title": "Situs lainnya dan tautan cerita"
+  "updates.release.0.2.0.title": "Situs lainnya dan tautan cerita",
+  "updates.release.0.2.0.change.backLinks": "Pembaca Cerita dan Pelacak Event menautkan kembali ke halaman event, kartu, dan karakter yang sesuai di sini."
 }

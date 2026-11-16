@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "Postranní panel má novou skupinu „Další weby“ s položkami Čtečka příběhů, Live2D, Chibi, Sledování událostí a Doporučení skladeb.",
   "updates.release.0.2.0.change.stories": "Stránky událostí, karet a postav odkazují přímo na své příběhy ve Čtečce příběhů.",
   "updates.release.0.2.0.summary": "Přejděte z postranního panelu do Čtečky příběhů, Live2D, Chibi a nástrojů a hned uvidíte, že se po kliknutí načítá.",
-  "updates.release.0.2.0.title": "Další weby a odkazy na příběhy"
+  "updates.release.0.2.0.title": "Další weby a odkazy na příběhy",
+  "updates.release.0.2.0.change.backLinks": "Čtečka příběhů a Sledování událostí odkazují zpět na odpovídající stránky událostí, karet a postav na tomto webu."
 }

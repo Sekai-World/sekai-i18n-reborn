@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "La barra laterale ha un nuovo gruppo «Altri siti» con Lettore di storie, Live2D, Chibi, Monitor eventi e Consigli sulle canzoni.",
   "updates.release.0.2.0.change.stories": "Le pagine di eventi, carte e personaggi rimandano direttamente alle loro storie nel Lettore di storie.",
   "updates.release.0.2.0.summary": "Vai al Lettore di storie, a Live2D, a Chibi e agli strumenti dalla barra laterale, e vedi subito che un clic sta caricando.",
-  "updates.release.0.2.0.title": "Altri siti e link alle storie"
+  "updates.release.0.2.0.title": "Altri siti e link alle storie",
+  "updates.release.0.2.0.change.backLinks": "Il Lettore di storie e il Monitor eventi rimandano alle pagine corrispondenti di eventi, carte e personaggi di questo sito."
 }

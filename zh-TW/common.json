@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "側邊欄新增「更多網站」分組，包含劇情閱讀器、Live2D、Q版角色、活動追蹤器和選歌推薦。",
   "updates.release.0.2.0.change.stories": "活動、卡片和角色頁面可直接前往劇情閱讀器中對應的劇情。",
   "updates.release.0.2.0.summary": "從側邊欄前往劇情閱讀器、Live2D、Q版角色和各項工具，點擊後也能立即看到頁面正在載入。",
-  "updates.release.0.2.0.title": "更多網站與劇情連結"
+  "updates.release.0.2.0.title": "更多網站與劇情連結",
+  "updates.release.0.2.0.change.backLinks": "劇情閱讀器和活動追蹤器可前往本站對應的活動、卡片和角色頁面。"
 }

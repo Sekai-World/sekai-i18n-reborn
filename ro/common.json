@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "Bara laterală are un grup nou „Mai multe site-uri” cu Cititor de povești, Live2D, Chibi, Urmărirea evenimentului și Recomandări de melodii.",
   "updates.release.0.2.0.change.stories": "Paginile de evenimente, cărți și personaje duc direct la poveștile lor din Cititorul de povești.",
   "updates.release.0.2.0.summary": "Accesați Cititorul de povești, Live2D, Chibi și instrumentele din bara laterală și vedeți imediat că un clic se încarcă.",
-  "updates.release.0.2.0.title": "Mai multe site-uri și linkuri către povești"
+  "updates.release.0.2.0.title": "Mai multe site-uri și linkuri către povești",
+  "updates.release.0.2.0.change.backLinks": "Cititorul de povești și Urmărirea evenimentului trimit înapoi la paginile corespunzătoare de evenimente, cărți și personaje de aici."
 }
