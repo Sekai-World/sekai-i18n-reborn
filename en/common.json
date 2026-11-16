@@ -254,6 +254,7 @@
   "updates.release.0.1.2.summary": "Browse MySekai photo frames, and open list links that don't name a region.",
   "updates.release.0.1.2.title": "MySekai photo frames",
   "updates.release.0.2.0.change.audio": "Audio that fails to load now says so, instead of saying there is no audio.",
+  "updates.release.0.2.0.change.backLinks": "The Story Reader and the Event Tracker link back to the matching event, card and character pages here.",
   "updates.release.0.2.0.change.links": "Links with an unknown region or a malformed id now show the \"not found\" page.",
   "updates.release.0.2.0.change.loading": "A progress bar appears along the top when a page takes a moment to load, so you can tell your click worked.",
   "updates.release.0.2.0.change.sites": "The sidebar has a new \"More sites\" group with the Story Reader, Live2D, Chibi, Event Tracker and Music Recommender.",
