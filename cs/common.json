@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "Další weby",
   "navigation.musicRecommender": "Doporučení skladeb",
-  "navigation.storyReader": "Čtečka příběhů"
+  "navigation.storyReader": "Čtečka příběhů",
+  "updates.release.0.2.0.change.audio": "Když se zvuk nepodaří načíst, nově se to zobrazí místo hlášení, že zvuk není k dispozici.",
+  "updates.release.0.2.0.change.links": "Odkazy s neznámým regionem nebo chybným ID nyní zobrazí stránku „nenalezeno“.",
+  "updates.release.0.2.0.change.loading": "Když se stránka chvíli načítá, nahoře se objeví ukazatel průběhu, abyste věděli, že kliknutí zabralo.",
+  "updates.release.0.2.0.change.sites": "Postranní panel má novou skupinu „Další weby“ s položkami Čtečka příběhů, Live2D, Chibi, Sledování událostí a Doporučení skladeb.",
+  "updates.release.0.2.0.change.stories": "Stránky událostí, karet a postav odkazují přímo na své příběhy ve Čtečce příběhů.",
+  "updates.release.0.2.0.summary": "Přejděte z postranního panelu do Čtečky příběhů, Live2D, Chibi a nástrojů a hned uvidíte, že se po kliknutí načítá.",
+  "updates.release.0.2.0.title": "Další weby a odkazy na příběhy"
 }

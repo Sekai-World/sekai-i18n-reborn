@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "その他のサイト",
   "navigation.musicRecommender": "楽曲レコメンド",
-  "navigation.storyReader": "ストーリーリーダー"
+  "navigation.storyReader": "ストーリーリーダー",
+  "updates.release.0.2.0.change.audio": "音声の読み込みに失敗した場合、「音声なし」ではなく、失敗したことが表示されるようになりました。",
+  "updates.release.0.2.0.change.links": "地域が不明なリンクやIDの形式が正しくないリンクは、「ページが見つかりません」ページを表示するようになりました。",
+  "updates.release.0.2.0.change.loading": "ページの読み込みに時間がかかるときは上部に進行状況バーが表示され、クリックが反応したことがわかります。",
+  "updates.release.0.2.0.change.sites": "サイドバーに「その他のサイト」グループを追加しました。ストーリーリーダー、Live2D、ちびキャラ、イベントトラッカー、楽曲レコメンドを開けます。",
+  "updates.release.0.2.0.change.stories": "イベント、カード、キャラクターの各ページから、ストーリーリーダーの該当ストーリーへ直接移動できます。",
+  "updates.release.0.2.0.summary": "サイドバーからストーリーリーダー、Live2D、ちびキャラ、各ツールへ移動でき、クリック後の読み込み中もすぐにわかります。",
+  "updates.release.0.2.0.title": "その他のサイトとストーリーリンク"
 }

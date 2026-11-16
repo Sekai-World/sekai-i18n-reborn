@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "Más sitios",
   "navigation.musicRecommender": "Recomendador de canciones",
-  "navigation.storyReader": "Lector de historias"
+  "navigation.storyReader": "Lector de historias",
+  "updates.release.0.2.0.change.audio": "Cuando el audio no se puede cargar, ahora se indica, en lugar de decir que no hay audio.",
+  "updates.release.0.2.0.change.links": "Los enlaces con una región desconocida o un id mal formado ahora muestran la página de \"no encontrado\".",
+  "updates.release.0.2.0.change.loading": "Aparece una barra de progreso en la parte superior cuando una página tarda en cargar, para que sepas que tu clic funcionó.",
+  "updates.release.0.2.0.change.sites": "La barra lateral tiene un nuevo grupo \"Más sitios\" con el Lector de historias, Live2D, Chibi, Event Tracker y el Recomendador de canciones.",
+  "updates.release.0.2.0.change.stories": "Las páginas de eventos, cartas y personajes enlazan directamente a sus historias en el Lector de historias.",
+  "updates.release.0.2.0.summary": "Ve al Lector de historias, Live2D, Chibi y las herramientas desde la barra lateral, y comprueba al instante que un clic está cargando.",
+  "updates.release.0.2.0.title": "Más sitios y enlaces a historias"
 }

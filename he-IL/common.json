@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "אתרים נוספים",
   "navigation.musicRecommender": "ממליץ השירים",
-  "navigation.storyReader": "קורא סיפורים"
+  "navigation.storyReader": "קורא סיפורים",
+  "updates.release.0.2.0.change.audio": "כששמע לא נטען, מוצגת כעת הודעה על כך, במקום הודעה שאין שמע.",
+  "updates.release.0.2.0.change.links": "קישורים עם אזור לא מוכר או מזהה שגוי מציגים כעת את הדף \"לא נמצא\".",
+  "updates.release.0.2.0.change.loading": "כשטעינת דף נמשכת רגע, מופיע בחלק העליון פס התקדמות, כדי שתדעו שהלחיצה נקלטה.",
+  "updates.release.0.2.0.change.sites": "בסרגל הצד נוספה קבוצה חדשה \"אתרים נוספים\" עם קורא סיפורים, Live2D, צ'יבי, מעקב אירועים וממליץ השירים.",
+  "updates.release.0.2.0.change.stories": "דפי אירועים, קלפים ודמויות מקשרים ישירות לסיפורים שלהם בקורא הסיפורים.",
+  "updates.release.0.2.0.summary": "עברו לקורא הסיפורים, ל-Live2D, לצ'יבי ולכלים מסרגל הצד, וראו מיד שלחיצה נמצאת בטעינה.",
+  "updates.release.0.2.0.title": "אתרים נוספים וקישורים לסיפורים"
 }

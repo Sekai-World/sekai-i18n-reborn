@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "مواقع أخرى",
   "navigation.musicRecommender": "مقترح الأغاني",
-  "navigation.storyReader": "قارئ القصص"
+  "navigation.storyReader": "قارئ القصص",
+  "updates.release.0.2.0.change.audio": "عند تعذّر تحميل الصوت يظهر الآن تنبيه بذلك، بدلًا من الإشارة إلى عدم وجود صوت.",
+  "updates.release.0.2.0.change.links": "الروابط التي تحتوي على منطقة غير معروفة أو معرّف غير صالح تعرض الآن صفحة «غير موجود».",
+  "updates.release.0.2.0.change.loading": "يظهر شريط تقدّم في الأعلى عندما يستغرق تحميل الصفحة بعض الوقت، لتعرف أن نقرتك قد نجحت.",
+  "updates.release.0.2.0.change.sites": "أُضيفت إلى الشريط الجانبي مجموعة جديدة باسم «مواقع أخرى» تضم قارئ القصص وLive2D وتشيبي ومتتبع الفعاليات ومقترح الأغاني.",
+  "updates.release.0.2.0.change.stories": "صفحات الفعاليات والبطاقات والشخصيات ترتبط مباشرة بقصصها في قارئ القصص.",
+  "updates.release.0.2.0.summary": "انتقل إلى قارئ القصص وLive2D وتشيبي والأدوات من الشريط الجانبي، وشاهد فورًا أن النقرة قيد التحميل.",
+  "updates.release.0.2.0.title": "مواقع أخرى وروابط القصص"
 }

@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "Meer sites",
   "navigation.musicRecommender": "Nummeraanbevelingen",
-  "navigation.storyReader": "Verhalenlezer"
+  "navigation.storyReader": "Verhalenlezer",
+  "updates.release.0.2.0.change.audio": "Als audio niet kan worden geladen, wordt dat nu gemeld in plaats van dat er geen audio zou zijn.",
+  "updates.release.0.2.0.change.links": "Links met een onbekende regio of een ongeldige id tonen nu de pagina 'niet gevonden'.",
+  "updates.release.0.2.0.change.loading": "Bovenaan verschijnt een voortgangsbalk wanneer een pagina even nodig heeft om te laden, zodat je ziet dat je klik is aangekomen.",
+  "updates.release.0.2.0.change.sites": "De zijbalk heeft een nieuwe groep 'Meer sites' met de Verhalenlezer, Live2D, Chibi, Evenementen volgen en Nummeraanbevelingen.",
+  "updates.release.0.2.0.change.stories": "Evenement-, kaart- en personagepagina's linken rechtstreeks naar hun verhalen in de Verhalenlezer.",
+  "updates.release.0.2.0.summary": "Ga vanuit de zijbalk naar de Verhalenlezer, Live2D, Chibi en de tools, en zie meteen dat er na een klik wordt geladen.",
+  "updates.release.0.2.0.title": "Meer sites en verhaallinks"
 }
