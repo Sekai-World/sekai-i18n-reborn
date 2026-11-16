@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "La barra lateral té un grup nou «Més llocs» amb el Lector d'històries, Live2D, Chibi, el Seguiment d'esdeveniments i el Recomanador de cançons.",
   "updates.release.0.2.0.change.stories": "Les pàgines d'esdeveniments, cartes i personatges enllacen directament a les seves històries al Lector d'històries.",
   "updates.release.0.2.0.summary": "Ves al Lector d'històries, Live2D, Chibi i les eines des de la barra lateral, i comprova a l'instant que un clic s'està carregant.",
-  "updates.release.0.2.0.title": "Més llocs i enllaços a històries"
+  "updates.release.0.2.0.title": "Més llocs i enllaços a històries",
+  "updates.release.0.2.0.change.backLinks": "El Lector d'històries i el Seguiment d'esdeveniments enllacen de tornada a les pàgines corresponents d'esdeveniments, cartes i personatges d'aquest lloc."
 }

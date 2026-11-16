@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "사이드바에 \"다른 사이트\" 그룹이 추가되어 스토리 리더, Live2D, SD 캐릭터, 이벤트 트래커, 곡 추천으로 이동할 수 있습니다.",
   "updates.release.0.2.0.change.stories": "이벤트, 카드, 캐릭터 페이지에서 스토리 리더의 해당 스토리로 바로 이동할 수 있습니다.",
   "updates.release.0.2.0.summary": "사이드바에서 스토리 리더, Live2D, SD 캐릭터와 도구로 이동하고, 클릭 후 불러오는 중인지 바로 확인할 수 있습니다.",
-  "updates.release.0.2.0.title": "다른 사이트와 스토리 링크"
+  "updates.release.0.2.0.title": "다른 사이트와 스토리 링크",
+  "updates.release.0.2.0.change.backLinks": "스토리 리더와 이벤트 트래커에서 이 사이트의 해당 이벤트, 카드, 캐릭터 페이지로 돌아올 수 있습니다."
 }

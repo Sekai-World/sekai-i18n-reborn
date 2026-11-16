@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "Kenar çubuğunda Hikâye Okuyucu, Live2D, Chibi, Etkinlik Takipçisi ve Şarkı Önerici'yi içeren yeni bir \"Diğer siteler\" grubu var.",
   "updates.release.0.2.0.change.stories": "Etkinlik, kart ve karakter sayfaları, Hikâye Okuyucu'daki hikâyelerine doğrudan bağlantı veriyor.",
   "updates.release.0.2.0.summary": "Kenar çubuğundan Hikâye Okuyucu, Live2D, Chibi ve araçlara geçin; tıkladıktan sonra yüklenmenin sürdüğünü hemen görün.",
-  "updates.release.0.2.0.title": "Diğer siteler ve hikâye bağlantıları"
+  "updates.release.0.2.0.title": "Diğer siteler ve hikâye bağlantıları",
+  "updates.release.0.2.0.change.backLinks": "Hikâye Okuyucu ve Etkinlik Takipçisi, buradaki ilgili etkinlik, kart ve karakter sayfalarına geri bağlantı veriyor."
 }

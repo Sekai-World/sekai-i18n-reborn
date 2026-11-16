@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "Thanh bên có nhóm mới \"Trang khác\" gồm Trình đọc cốt truyện, Live2D, Chibi, Theo dõi sự kiện và Gợi ý bài hát.",
   "updates.release.0.2.0.change.stories": "Trang sự kiện, thẻ và nhân vật liên kết thẳng đến cốt truyện tương ứng trong Trình đọc cốt truyện.",
   "updates.release.0.2.0.summary": "Đi đến Trình đọc cốt truyện, Live2D, Chibi và các công cụ từ thanh bên, và thấy ngay trang đang tải sau khi nhấp.",
-  "updates.release.0.2.0.title": "Trang khác và liên kết cốt truyện"
+  "updates.release.0.2.0.title": "Trang khác và liên kết cốt truyện",
+  "updates.release.0.2.0.change.backLinks": "Trình đọc cốt truyện và Theo dõi sự kiện liên kết ngược về các trang sự kiện, thẻ và nhân vật tương ứng tại đây."
 }

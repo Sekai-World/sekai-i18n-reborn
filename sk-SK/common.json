@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "Bočný panel má novú skupinu „Ďalšie stránky“ s položkami Čítačka príbehov, Live2D, Chibi, Sledovanie udalostí a Odporúčanie skladieb.",
   "updates.release.0.2.0.change.stories": "Stránky udalostí, kariet a postáv odkazujú priamo na svoje príbehy v Čítačke príbehov.",
   "updates.release.0.2.0.summary": "Prejdite z bočného panela do Čítačky príbehov, Live2D, Chibi a nástrojov a hneď uvidíte, že sa po kliknutí načítava.",
-  "updates.release.0.2.0.title": "Ďalšie stránky a odkazy na príbehy"
+  "updates.release.0.2.0.title": "Ďalšie stránky a odkazy na príbehy",
+  "updates.release.0.2.0.change.backLinks": "Čítačka príbehov a Sledovanie udalostí odkazujú späť na zodpovedajúce stránky udalostí, kariet a postáv na tomto webe."
 }

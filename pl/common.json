@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "Pasek boczny ma nową grupę „Więcej stron” z pozycjami: Czytnik historii, Live2D, Chibi, Event Tracker i Polecane utwory.",
   "updates.release.0.2.0.change.stories": "Strony wydarzeń, kart i postaci prowadzą bezpośrednio do ich historii w Czytniku historii.",
   "updates.release.0.2.0.summary": "Przechodź z paska bocznego do Czytnika historii, Live2D, Chibi i narzędzi oraz od razu widź, że po kliknięciu trwa wczytywanie.",
-  "updates.release.0.2.0.title": "Więcej stron i linki do historii"
+  "updates.release.0.2.0.title": "Więcej stron i linki do historii",
+  "updates.release.0.2.0.change.backLinks": "Czytnik historii i Event Tracker prowadzą z powrotem do odpowiednich stron wydarzeń, kart i postaci w tym serwisie."
 }

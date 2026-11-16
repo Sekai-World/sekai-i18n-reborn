@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "A barra lateral tem um novo grupo «Mais Sites» com o Leitor de Histórias, Live2D, Chibi, Acompanhamento do Evento e Recomendação de Músicas.",
   "updates.release.0.2.0.change.stories": "As páginas de eventos, cartas e personagens ligam diretamente às respetivas histórias no Leitor de Histórias.",
   "updates.release.0.2.0.summary": "Aceda ao Leitor de Histórias, Live2D, Chibi e às ferramentas a partir da barra lateral, e veja de imediato que um clique está a carregar.",
-  "updates.release.0.2.0.title": "Mais sites e ligações para histórias"
+  "updates.release.0.2.0.title": "Mais sites e ligações para histórias",
+  "updates.release.0.2.0.change.backLinks": "O Leitor de Histórias e o Acompanhamento do Evento ligam de volta às páginas correspondentes de eventos, cartas e personagens deste site."
 }

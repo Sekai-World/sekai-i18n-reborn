@@ -261,5 +261,6 @@
   "updates.release.0.2.0.change.sites": "De zijbalk heeft een nieuwe groep 'Meer sites' met de Verhalenlezer, Live2D, Chibi, Evenementen volgen en Nummeraanbevelingen.",
   "updates.release.0.2.0.change.stories": "Evenement-, kaart- en personagepagina's linken rechtstreeks naar hun verhalen in de Verhalenlezer.",
   "updates.release.0.2.0.summary": "Ga vanuit de zijbalk naar de Verhalenlezer, Live2D, Chibi en de tools, en zie meteen dat er na een klik wordt geladen.",
-  "updates.release.0.2.0.title": "Meer sites en verhaallinks"
+  "updates.release.0.2.0.title": "Meer sites en verhaallinks",
+  "updates.release.0.2.0.change.backLinks": "De Verhalenlezer en Evenementen volgen linken terug naar de bijbehorende evenement-, kaart- en personagepagina's hier."
 }
