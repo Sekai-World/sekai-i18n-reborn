@@ -1,0 +1,20 @@
+{
+  "home.tagline": "プロジェクトセカイのストーリーを読んだり、Live2Dモデルを見たりできます。ほかのラボも準備中です。",
+  "home.tracks.assetViewer.badge": "準備中",
+  "home.tracks.assetViewer.description": "3Dアセットビューアでモデルバンドル、テクスチャ、アニメーションクリップを閲覧できます。アセットパイプラインの整備に合わせて公開予定です。",
+  "home.tracks.assetViewer.pending": "まだ利用できません",
+  "home.tracks.assetViewer.title": "3Dアセットラボ",
+  "home.tracks.chibi.action": "ちびキャラスタジオを開く",
+  "home.tracks.chibi.badge": "インタラクティブプレビュー",
+  "home.tracks.chibi.description": "ゲーム内のエリアを歩き回るちびキャラのアニメーションを再生できます。",
+  "home.tracks.chibi.title": "ちびキャラスタジオ",
+  "home.tracks.live2d.action": "Live2Dスタジオを開く",
+  "home.tracks.live2d.badge": "インタラクティブプレビュー",
+  "home.tracks.live2d.description": "テクスチャ、モーション、物理演算を備えたLive2Dモデルをインタラクティブなステージでプレビューできます。",
+  "home.tracks.live2d.title": "Live2Dスタジオ",
+  "home.tracks.storyReader.action": "ストーリーリーダーを開く",
+  "home.tracks.storyReader.badge": "テキスト & Live2D",
+  "home.tracks.storyReader.description": "ユニット、イベント、カード、キャラクター、スペシャル、エリア会話のストーリーを閲覧し、テキストで読んだりLive2Dステージで再生したりできます。",
+  "home.tracks.storyReader.title": "ストーリーリーダー",
+  "support.cta": "このプロジェクトを応援する"
+}

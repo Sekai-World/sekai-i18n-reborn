@@ -1,0 +1,20 @@
+{
+  "home.tagline": "اقرأ قصص Project Sekai واستكشف نماذج Live2D — والمزيد من المختبرات قادم.",
+  "home.tracks.assetViewer.badge": "قيد التحضير",
+  "home.tracks.assetViewer.description": "تصفّح حزم النماذج والخامات ومقاطع الحركة في عارض الأصول ثلاثية الأبعاد. سيصل هيكل مساره مع أعمال خط معالجة الأصول.",
+  "home.tracks.assetViewer.pending": "غير متاح بعد",
+  "home.tracks.assetViewer.title": "مختبر الأصول ثلاثية الأبعاد",
+  "home.tracks.chibi.action": "فتح Chibi Studio",
+  "home.tracks.chibi.badge": "معاينة تفاعلية",
+  "home.tracks.chibi.description": "شغّل حركات شخصيات الـ chibi التي تتجول في مناطق اللعبة.",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "فتح Live2D Studio",
+  "home.tracks.live2d.badge": "معاينة تفاعلية",
+  "home.tracks.live2d.description": "عاين نماذج Live2D بخاماتها وحركاتها وفيزيائها على مسرح تفاعلي.",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "فتح Story Reader",
+  "home.tracks.storyReader.badge": "نص وLive2D",
+  "home.tracks.storyReader.description": "تصفّح قصص الوحدات والفعاليات والبطاقات والشخصيات والقصص الخاصة وحوارات المناطق؛ واقرأها كنص أو شغّلها على مسرح Live2D.",
+  "home.tracks.storyReader.title": "Story Reader",
+  "support.cta": "ادعم هذا المشروع"
+}

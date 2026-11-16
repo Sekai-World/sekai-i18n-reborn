@@ -1,0 +1,20 @@
+{
+  "home.tagline": "อ่านเรื่องราวของ Project Sekai และสำรวจโมเดล Live2D โดยจะมี Lab อื่น ๆ ตามมาอีก",
+  "home.tracks.assetViewer.badge": "กำลังเตรียมการ",
+  "home.tracks.assetViewer.description": "เรียกดูชุดโมเดล เท็กซ์เจอร์ และคลิปแอนิเมชันในตัวดูทรัพยากร 3D โครงของเส้นทางนี้จะมาพร้อมงานด้านไปป์ไลน์ทรัพยากร",
+  "home.tracks.assetViewer.pending": "ยังไม่พร้อมใช้งาน",
+  "home.tracks.assetViewer.title": "3D Asset Lab",
+  "home.tracks.chibi.action": "เปิด Chibi Studio",
+  "home.tracks.chibi.badge": "ตัวอย่างแบบโต้ตอบ",
+  "home.tracks.chibi.description": "เล่นแอนิเมชันของตัวละครชิบิที่เดินไปมาในพื้นที่ต่าง ๆ ของเกม",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "เปิด Live2D Studio",
+  "home.tracks.live2d.badge": "ตัวอย่างแบบโต้ตอบ",
+  "home.tracks.live2d.description": "ดูตัวอย่างโมเดล Live2D พร้อมเท็กซ์เจอร์ ท่าทาง และฟิสิกส์บนเวทีแบบโต้ตอบ",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "เปิดตัวอ่านเรื่องราว",
+  "home.tracks.storyReader.badge": "ข้อความและ Live2D",
+  "home.tracks.storyReader.description": "เรียกดูเรื่องราวของยูนิต อีเวนต์ การ์ด ตัวละคร เรื่องราวพิเศษ และ Area Talk อ่านเป็นข้อความหรือเล่นบนเวที Live2D",
+  "home.tracks.storyReader.title": "ตัวอ่านเรื่องราว",
+  "support.cta": "สนับสนุนโปรเจกต์นี้"
+}

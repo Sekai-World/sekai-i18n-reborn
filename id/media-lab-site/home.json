@@ -1,0 +1,20 @@
+{
+  "home.tagline": "Baca cerita Project Sekai dan jelajahi model Live2D — lab lainnya segera hadir.",
+  "home.tracks.assetViewer.badge": "Dalam persiapan",
+  "home.tracks.assetViewer.description": "Telusuri bundel model, tekstur, dan klip animasi di penampil aset 3D. Kerangka rutenya hadir bersama pengerjaan pipeline aset.",
+  "home.tracks.assetViewer.pending": "Belum tersedia",
+  "home.tracks.assetViewer.title": "Lab Aset 3D",
+  "home.tracks.chibi.action": "Buka Chibi Studio",
+  "home.tracks.chibi.badge": "Pratinjau interaktif",
+  "home.tracks.chibi.description": "Putar animasi karakter chibi yang berkeliaran di area-area dalam game.",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "Buka Live2D Studio",
+  "home.tracks.live2d.badge": "Pratinjau interaktif",
+  "home.tracks.live2d.description": "Pratinjau model Live2D lengkap dengan tekstur, motion, dan fisika di panggung interaktif.",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "Buka Story Reader",
+  "home.tracks.storyReader.badge": "Teks & Live2D",
+  "home.tracks.storyReader.description": "Telusuri cerita unit, event, kartu, karakter, spesial, dan area talk; baca sebagai teks atau putar di panggung Live2D.",
+  "home.tracks.storyReader.title": "Story Reader",
+  "support.cta": "Dukung proyek ini"
+}
