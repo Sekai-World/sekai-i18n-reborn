@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "Laman Lain",
   "navigation.musicRecommender": "Pengesyor Lagu",
-  "navigation.storyReader": "Pembaca Cerita"
+  "navigation.storyReader": "Pembaca Cerita",
+  "updates.release.0.2.0.change.audio": "Audio yang gagal dimuatkan kini dimaklumkan, bukannya dipaparkan sebagai tiada audio.",
+  "updates.release.0.2.0.change.links": "Pautan dengan rantau yang tidak diketahui atau id yang salah format kini memaparkan halaman \"tidak ditemui\".",
+  "updates.release.0.2.0.change.loading": "Bar kemajuan muncul di bahagian atas apabila halaman mengambil masa untuk dimuatkan, supaya anda tahu klik anda berjaya.",
+  "updates.release.0.2.0.change.sites": "Bar sisi mempunyai kumpulan baharu \"Laman Lain\" dengan Pembaca Cerita, Live2D, Chibi, Penjejak Acara dan Pengesyor Lagu.",
+  "updates.release.0.2.0.change.stories": "Halaman acara, kad dan watak memaut terus ke cerita masing-masing dalam Pembaca Cerita.",
+  "updates.release.0.2.0.summary": "Pergi ke Pembaca Cerita, Live2D, Chibi dan alatan dari bar sisi, dan lihat serta-merta bahawa klik sedang dimuatkan.",
+  "updates.release.0.2.0.title": "Laman lain dan pautan cerita"
 }

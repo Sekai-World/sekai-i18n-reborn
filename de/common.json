@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "Weitere Seiten",
   "navigation.musicRecommender": "Song-Empfehlungen",
-  "navigation.storyReader": "Story-Reader"
+  "navigation.storyReader": "Story-Reader",
+  "updates.release.0.2.0.change.audio": "Wenn Audio nicht geladen werden kann, wird das jetzt angezeigt, statt zu melden, dass es kein Audio gibt.",
+  "updates.release.0.2.0.change.links": "Links mit unbekannter Region oder fehlerhafter ID zeigen jetzt die Seite „Nicht gefunden“.",
+  "updates.release.0.2.0.change.loading": "Wenn eine Seite etwas länger lädt, erscheint oben ein Fortschrittsbalken, damit du siehst, dass dein Klick angekommen ist.",
+  "updates.release.0.2.0.change.sites": "Die Seitenleiste hat eine neue Gruppe „Weitere Seiten“ mit Story-Reader, Live2D, Chibi, Event-Tracker und Song-Empfehlungen.",
+  "updates.release.0.2.0.change.stories": "Event-, Karten- und Charakterseiten verlinken direkt auf ihre Storys im Story-Reader.",
+  "updates.release.0.2.0.summary": "Wechsle über die Seitenleiste zu Story-Reader, Live2D, Chibi und den Tools und sieh sofort, dass nach einem Klick geladen wird.",
+  "updates.release.0.2.0.title": "Weitere Seiten und Story-Links"
 }

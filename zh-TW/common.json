@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "更多網站",
   "navigation.musicRecommender": "選歌推薦",
-  "navigation.storyReader": "劇情閱讀器"
+  "navigation.storyReader": "劇情閱讀器",
+  "updates.release.0.2.0.change.audio": "音訊載入失敗時會明確提示，不再顯示為沒有音訊。",
+  "updates.release.0.2.0.change.links": "地區未知或 ID 格式有誤的連結現在會顯示「找不到頁面」頁。",
+  "updates.release.0.2.0.change.loading": "頁面載入較慢時，頂部會出現進度條，讓你知道點擊已生效。",
+  "updates.release.0.2.0.change.sites": "側邊欄新增「更多網站」分組，包含劇情閱讀器、Live2D、Q版角色、活動追蹤器和選歌推薦。",
+  "updates.release.0.2.0.change.stories": "活動、卡片和角色頁面可直接前往劇情閱讀器中對應的劇情。",
+  "updates.release.0.2.0.summary": "從側邊欄前往劇情閱讀器、Live2D、Q版角色和各項工具，點擊後也能立即看到頁面正在載入。",
+  "updates.release.0.2.0.title": "更多網站與劇情連結"
 }

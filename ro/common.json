@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "Mai multe site-uri",
   "navigation.musicRecommender": "Recomandări de melodii",
-  "navigation.storyReader": "Cititor de povești"
+  "navigation.storyReader": "Cititor de povești",
+  "updates.release.0.2.0.change.audio": "Când sunetul nu se poate încărca, acest lucru este acum indicat, în loc să se afișeze că nu există sunet.",
+  "updates.release.0.2.0.change.links": "Linkurile cu o regiune necunoscută sau un id incorect afișează acum pagina „negăsit”.",
+  "updates.release.0.2.0.change.loading": "Când o pagină se încarcă mai greu, în partea de sus apare o bară de progres, ca să știți că clicul a funcționat.",
+  "updates.release.0.2.0.change.sites": "Bara laterală are un grup nou „Mai multe site-uri” cu Cititor de povești, Live2D, Chibi, Urmărirea evenimentului și Recomandări de melodii.",
+  "updates.release.0.2.0.change.stories": "Paginile de evenimente, cărți și personaje duc direct la poveștile lor din Cititorul de povești.",
+  "updates.release.0.2.0.summary": "Accesați Cititorul de povești, Live2D, Chibi și instrumentele din bara laterală și vedeți imediat că un clic se încarcă.",
+  "updates.release.0.2.0.title": "Mai multe site-uri și linkuri către povești"
 }

@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "Autres sites",
   "navigation.musicRecommender": "Recommandation de chansons",
-  "navigation.storyReader": "Lecteur d'histoires"
+  "navigation.storyReader": "Lecteur d'histoires",
+  "updates.release.0.2.0.change.audio": "Quand un audio ne se charge pas, c’est désormais indiqué, au lieu d’afficher qu’il n’y a pas d’audio.",
+  "updates.release.0.2.0.change.links": "Les liens avec une région inconnue ou un identifiant mal formé affichent désormais la page « introuvable ».",
+  "updates.release.0.2.0.change.loading": "Une barre de progression apparaît en haut quand une page met un moment à charger, pour vous montrer que votre clic a été pris en compte.",
+  "updates.release.0.2.0.change.sites": "La barre latérale propose un nouveau groupe « Autres sites » avec le Lecteur d'histoires, Live2D, Chibi, le Suivi des événements et la Recommandation de chansons.",
+  "updates.release.0.2.0.change.stories": "Les pages d’événement, de carte et de personnage renvoient directement vers leurs histoires dans le Lecteur d'histoires.",
+  "updates.release.0.2.0.summary": "Accédez au Lecteur d'histoires, à Live2D, à Chibi et aux outils depuis la barre latérale, et voyez tout de suite qu’un clic lance un chargement.",
+  "updates.release.0.2.0.title": "Autres sites et liens vers les histoires"
 }

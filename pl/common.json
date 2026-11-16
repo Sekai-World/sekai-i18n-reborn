@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "Więcej stron",
   "navigation.musicRecommender": "Polecane utwory",
-  "navigation.storyReader": "Czytnik historii"
+  "navigation.storyReader": "Czytnik historii",
+  "updates.release.0.2.0.change.audio": "Gdy nie uda się wczytać dźwięku, pojawia się teraz taka informacja zamiast komunikatu o braku dźwięku.",
+  "updates.release.0.2.0.change.links": "Linki z nieznanym regionem lub błędnym identyfikatorem pokazują teraz stronę „nie znaleziono”.",
+  "updates.release.0.2.0.change.loading": "Gdy strona wczytuje się dłuższą chwilę, u góry pojawia się pasek postępu, dzięki czemu wiesz, że kliknięcie zadziałało.",
+  "updates.release.0.2.0.change.sites": "Pasek boczny ma nową grupę „Więcej stron” z pozycjami: Czytnik historii, Live2D, Chibi, Event Tracker i Polecane utwory.",
+  "updates.release.0.2.0.change.stories": "Strony wydarzeń, kart i postaci prowadzą bezpośrednio do ich historii w Czytniku historii.",
+  "updates.release.0.2.0.summary": "Przechodź z paska bocznego do Czytnika historii, Live2D, Chibi i narzędzi oraz od razu widź, że po kliknięciu trwa wczytywanie.",
+  "updates.release.0.2.0.title": "Więcej stron i linki do historii"
 }

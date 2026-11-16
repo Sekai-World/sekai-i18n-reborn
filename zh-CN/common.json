@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "更多站点",
   "navigation.musicRecommender": "选歌推荐",
-  "navigation.storyReader": "剧情阅读器"
+  "navigation.storyReader": "剧情阅读器",
+  "updates.release.0.2.0.change.audio": "音频加载失败时会明确提示，不再显示为没有音频。",
+  "updates.release.0.2.0.change.links": "地区未知或 ID 格式有误的链接现在会显示“找不到页面”页。",
+  "updates.release.0.2.0.change.loading": "页面加载较慢时，顶部会出现进度条，让你知道点击已生效。",
+  "updates.release.0.2.0.change.sites": "侧边栏新增“更多站点”分组，包含剧情阅读器、Live2D、Q版角色、活动追踪器和选歌推荐。",
+  "updates.release.0.2.0.change.stories": "活动、卡牌和角色页面可直接跳转到剧情阅读器中对应的剧情。",
+  "updates.release.0.2.0.summary": "从侧边栏前往剧情阅读器、Live2D、Q版角色和各项工具，点击后也能立即看到页面正在加载。",
+  "updates.release.0.2.0.title": "更多站点与剧情链接"
 }

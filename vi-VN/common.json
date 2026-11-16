@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "Trang khác",
   "navigation.musicRecommender": "Gợi ý bài hát",
-  "navigation.storyReader": "Trình đọc cốt truyện"
+  "navigation.storyReader": "Trình đọc cốt truyện",
+  "updates.release.0.2.0.change.audio": "Âm thanh không tải được giờ sẽ được thông báo rõ, thay vì hiển thị là không có âm thanh.",
+  "updates.release.0.2.0.change.links": "Liên kết có khu vực không xác định hoặc id sai định dạng giờ sẽ hiển thị trang \"không tìm thấy\".",
+  "updates.release.0.2.0.change.loading": "Một thanh tiến trình xuất hiện ở phía trên khi trang cần chút thời gian để tải, để bạn biết thao tác nhấp đã có hiệu lực.",
+  "updates.release.0.2.0.change.sites": "Thanh bên có nhóm mới \"Trang khác\" gồm Trình đọc cốt truyện, Live2D, Chibi, Theo dõi sự kiện và Gợi ý bài hát.",
+  "updates.release.0.2.0.change.stories": "Trang sự kiện, thẻ và nhân vật liên kết thẳng đến cốt truyện tương ứng trong Trình đọc cốt truyện.",
+  "updates.release.0.2.0.summary": "Đi đến Trình đọc cốt truyện, Live2D, Chibi và các công cụ từ thanh bên, và thấy ngay trang đang tải sau khi nhấp.",
+  "updates.release.0.2.0.title": "Trang khác và liên kết cốt truyện"
 }

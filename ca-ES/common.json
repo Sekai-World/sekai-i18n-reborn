@@ -254,5 +254,12 @@
   "navigation.live2d": "Live2D",
   "navigation.moreSites": "Més llocs",
   "navigation.musicRecommender": "Recomanador de cançons",
-  "navigation.storyReader": "Lector d'històries"
+  "navigation.storyReader": "Lector d'històries",
+  "updates.release.0.2.0.change.audio": "Quan l'àudio no es pot carregar, ara s'indica, en lloc de dir que no hi ha àudio.",
+  "updates.release.0.2.0.change.links": "Els enllaços amb una regió desconeguda o un id mal format ara mostren la pàgina de «no trobat».",
+  "updates.release.0.2.0.change.loading": "Apareix una barra de progrés a la part superior quan una pàgina triga a carregar-se, perquè sàpigues que el clic ha funcionat.",
+  "updates.release.0.2.0.change.sites": "La barra lateral té un grup nou «Més llocs» amb el Lector d'històries, Live2D, Chibi, el Seguiment d'esdeveniments i el Recomanador de cançons.",
+  "updates.release.0.2.0.change.stories": "Les pàgines d'esdeveniments, cartes i personatges enllacen directament a les seves històries al Lector d'històries.",
+  "updates.release.0.2.0.summary": "Ves al Lector d'històries, Live2D, Chibi i les eines des de la barra lateral, i comprova a l'instant que un clic s'està carregant.",
+  "updates.release.0.2.0.title": "Més llocs i enllaços a històries"
 }
