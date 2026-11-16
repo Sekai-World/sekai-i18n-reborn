@@ -252,8 +252,25 @@ def _describe_placeholders(placeholders: PlaceholderCounter) -> str:
     )
 
 
-def validate_locales(locale_root: Path, source_dir: Path) -> tuple[list[str], list[str]]:
-    """Return validation errors and a per-locale coverage report."""
+def _namespace_paths(directory: Path) -> dict[str, Path]:
+    """Map namespace names to files, e.g. ``home.json`` or ``tools-site/common.json``."""
+    return {
+        path.relative_to(directory).as_posix(): path
+        for path in sorted(directory.rglob("*.json"))
+    }
+
+
+def validate_locales(
+    locale_root: Path,
+    source_dir: Path,
+    site_source_dirs: dict[str, Path] | None = None,
+) -> tuple[list[str], list[str]]:
+    """Return validation errors and a per-locale coverage report.
+
+    Namespaces in a site subdirectory are named ``<site>/<namespace>.json``.
+    ``site_source_dirs`` maps a site name to an external English directory for
+    that subdirectory, replacing whatever ``source_dir`` holds under that name.
+    """
     errors: list[str] = []
     report: list[str] = []
     if not locale_root.is_dir():
@@ -261,14 +278,24 @@ def validate_locales(locale_root: Path, source_dir: Path) -> tuple[list[str], li
     if not source_dir.is_dir():
         return [f"English source directory does not exist: {source_dir}"], report
 
-    source_paths = sorted(source_dir.glob("*.json"))
+    source_paths = _namespace_paths(source_dir)
+    for site, site_source_dir in (site_source_dirs or {}).items():
+        if not site_source_dir.is_dir():
+            return [f"English source directory does not exist: {site_source_dir}"], report
+        source_paths = {
+            namespace: path
+            for namespace, path in source_paths.items()
+            if not namespace.startswith(f"{site}/")
+        }
+        for namespace, path in _namespace_paths(site_source_dir).items():
+            source_paths[f"{site}/{namespace}"] = path
     if not source_paths:
         return [f"English source has no namespace JSON files: {source_dir}"], report
 
     source: dict[str, dict[str, str]] = {}
-    for path in source_paths:
+    for namespace, path in source_paths.items():
         try:
-            source[path.name] = load_dictionary(path)
+            source[namespace] = load_dictionary(path)
         except DictionaryError as error:
             errors.append(f"English source {path}: {error}")
     if errors:
@@ -300,7 +327,7 @@ def validate_locales(locale_root: Path, source_dir: Path) -> tuple[list[str], li
         if not locale_dir.is_dir():
             continue
 
-        locale_paths = {path.name: path for path in locale_dir.glob("*.json")}
+        locale_paths = _namespace_paths(locale_dir)
         locale_namespaces = set(locale_paths)
         missing_namespaces = sorted(expected_namespaces - locale_namespaces)
         unexpected_namespaces = sorted(locale_namespaces - expected_namespaces)
@@ -373,7 +400,8 @@ def main(argv: list[str] | None = None) -> int:
         description=__doc__,
         epilog=(
             "Example: python3 scripts/validate_dictionaries.py --source-dir "
-            "<viewer-worktree>/packages/i18n-source/content-site. "
+            "<viewer-worktree>/packages/i18n-source/content-site "
+            "--site-source-dir tools-site=<viewer-worktree>/packages/i18n-source/tools-site. "
             "Identical-to-English counts are informational and do not constitute "
             "a complete human translation review."
         ),
@@ -389,10 +417,26 @@ def main(argv: list[str] | None = None) -> int:
         type=Path,
         help="English namespace directory (default: <locale-root>/en)",
     )
+    parser.add_argument(
+        "--site-source-dir",
+        action="append",
+        default=[],
+        metavar="SITE=DIR",
+        help=(
+            "English namespace directory for one site subdirectory, such as "
+            "tools-site=<dir>; repeatable (default: <source-dir>/<site>)"
+        ),
+    )
     args = parser.parse_args(argv)
     source_dir = args.source_dir or args.locale_root / "en"
+    site_source_dirs: dict[str, Path] = {}
+    for value in args.site_source_dir:
+        site, separator, directory = value.partition("=")
+        if not site or not separator or not directory:
+            parser.error(f"--site-source-dir expects SITE=DIR, got {value!r}")
+        site_source_dirs[site] = Path(directory)
 
-    errors, report = validate_locales(args.locale_root, source_dir)
+    errors, report = validate_locales(args.locale_root, source_dir, site_source_dirs)
     for line in report:
         print(line)
     if errors:

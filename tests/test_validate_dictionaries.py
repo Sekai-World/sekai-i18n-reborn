@@ -136,6 +136,54 @@ class ValidateLocalesTests(unittest.TestCase):
         self.assertTrue(any("missing locale directories: tr" in error for error in errors))
         self.assertTrue(any("unexpected locale directories: xx" in error for error in errors))
 
+    def _add_site(self, site: str, dictionary: dict[str, object]) -> Path:
+        site_source_dir = self.base / f"external-{site}"
+        site_source_dir.mkdir()
+        self._write_dictionary(site_source_dir / "common.json", dictionary)
+        for locale in EXPECTED_LOCALES:
+            site_dir = self.root / locale / site
+            site_dir.mkdir()
+            self._write_dictionary(site_dir / "common.json", dictionary)
+        return site_source_dir
+
+    def test_site_subdirectories_are_validated_as_prefixed_namespaces(self) -> None:
+        site_source_dir = self._add_site("tools-site", {"title": "Tools for {name}"})
+
+        errors, report = validate_locales(
+            self.root, self.source_dir, {"tools-site": site_source_dir}
+        )
+        self.assertEqual(errors, [])
+        self.assertIn("2 namespaces", report[0])
+
+        self._write_dictionary(
+            self.root / "ja" / "tools-site" / "common.json", {"title": "ツール"}
+        )
+        errors, _ = validate_locales(
+            self.root, self.source_dir, {"tools-site": site_source_dir}
+        )
+        self.assertTrue(
+            any("ja/tools-site/common.json:title: placeholder mismatch" in e for e in errors)
+        )
+
+    def test_site_subdirectory_without_a_source_is_rejected(self) -> None:
+        self._add_site("tools-site", {"title": "Tools"})
+
+        errors, _ = validate_locales(self.root, self.source_dir)
+
+        self.assertTrue(
+            any("unexpected namespace files: tools-site/common.json" in e for e in errors)
+        )
+
+    def test_default_source_reads_site_subdirectories_from_the_english_locale(self) -> None:
+        self._add_site("tools-site", {"title": "Tools"})
+        (self.root / "ja" / "tools-site" / "common.json").unlink()
+
+        errors, _ = validate_locales(self.root, self.root / "en")
+
+        self.assertTrue(
+            any("ja: missing namespace files: tools-site/common.json" in e for e in errors)
+        )
+
     def test_english_locale_values_must_match_external_source(self) -> None:
         changed = dict(ENGLISH)
         changed["plain"] = "Prepared"
