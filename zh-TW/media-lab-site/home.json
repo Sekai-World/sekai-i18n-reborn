@@ -1,0 +1,20 @@
+{
+  "home.tagline": "閱讀 Project Sekai 劇情、探索 Live2D 模型——更多實驗室即將推出。",
+  "home.tracks.assetViewer.badge": "準備中",
+  "home.tracks.assetViewer.description": "在 3D 資源檢視器中瀏覽模型包、貼圖與動畫片段。頁面入口將隨資源管線工作一同上線。",
+  "home.tracks.assetViewer.pending": "尚未開放",
+  "home.tracks.assetViewer.title": "3D 資源實驗室",
+  "home.tracks.chibi.action": "開啟 Q版工作室",
+  "home.tracks.chibi.badge": "互動預覽",
+  "home.tracks.chibi.description": "播放在遊戲區域中走動的 Q版角色的動畫。",
+  "home.tracks.chibi.title": "Q版工作室",
+  "home.tracks.live2d.action": "開啟 Live2D 工作室",
+  "home.tracks.live2d.badge": "互動預覽",
+  "home.tracks.live2d.description": "在可互動的舞台上預覽 Live2D 模型及其貼圖、動作與物理效果。",
+  "home.tracks.live2d.title": "Live2D 工作室",
+  "home.tracks.storyReader.action": "開啟劇情閱讀器",
+  "home.tracks.storyReader.badge": "文字與 Live2D",
+  "home.tracks.storyReader.description": "瀏覽團體、活動、卡片、角色、特別劇情與區域對話；可以純文字閱讀，也可以在 Live2D 舞台上播放。",
+  "home.tracks.storyReader.title": "劇情閱讀器",
+  "support.cta": "支持此專案"
+}

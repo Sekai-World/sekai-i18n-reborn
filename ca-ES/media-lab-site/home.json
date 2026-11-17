@@ -1,0 +1,20 @@
+{
+  "home.tagline": "Llegeix les històries de Project Sekai i explora models Live2D; aviat hi haurà més laboratoris.",
+  "home.tracks.assetViewer.badge": "En preparació",
+  "home.tracks.assetViewer.description": "Explora paquets de models, textures i clips d'animació al visor de recursos 3D. L'estructura de rutes arribarà amb la feina de la canalització de recursos.",
+  "home.tracks.assetViewer.pending": "Encara no disponible",
+  "home.tracks.assetViewer.title": "Laboratori de recursos 3D",
+  "home.tracks.chibi.action": "Obre Chibi Studio",
+  "home.tracks.chibi.badge": "Previsualització interactiva",
+  "home.tracks.chibi.description": "Reprodueix les animacions dels personatges chibi que passegen per les zones del joc.",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "Obre Live2D Studio",
+  "home.tracks.live2d.badge": "Previsualització interactiva",
+  "home.tracks.live2d.description": "Previsualitza models Live2D amb textures, moviments i físiques en un escenari interactiu.",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "Obre el Lector d'històries",
+  "home.tracks.storyReader.badge": "Text i Live2D",
+  "home.tracks.storyReader.description": "Explora les històries d'unitats, esdeveniments, cartes, personatges, especials i converses de zona; llegeix-les com a text o reprodueix-les en un escenari Live2D.",
+  "home.tracks.storyReader.title": "Lector d'històries",
+  "support.cta": "Dona suport a aquest projecte"
+}

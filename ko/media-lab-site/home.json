@@ -1,0 +1,20 @@
+{
+  "home.tagline": "프로젝트 세카이의 스토리를 읽고 Live2D 모델을 살펴보세요. 더 많은 랩이 준비 중입니다.",
+  "home.tracks.assetViewer.badge": "준비 중",
+  "home.tracks.assetViewer.description": "3D 에셋 뷰어에서 모델 번들, 텍스처, 애니메이션 클립을 둘러볼 수 있습니다. 에셋 파이프라인 작업과 함께 공개될 예정입니다.",
+  "home.tracks.assetViewer.pending": "아직 이용할 수 없음",
+  "home.tracks.assetViewer.title": "3D 에셋 랩",
+  "home.tracks.chibi.action": "SD 캐릭터 스튜디오 열기",
+  "home.tracks.chibi.badge": "인터랙티브 미리보기",
+  "home.tracks.chibi.description": "게임 속 에어리어를 돌아다니는 SD 캐릭터의 애니메이션을 재생해 보세요.",
+  "home.tracks.chibi.title": "SD 캐릭터 스튜디오",
+  "home.tracks.live2d.action": "Live2D 스튜디오 열기",
+  "home.tracks.live2d.badge": "인터랙티브 미리보기",
+  "home.tracks.live2d.description": "텍스처, 모션, 물리 연산이 적용된 Live2D 모델을 인터랙티브 스테이지에서 미리 볼 수 있습니다.",
+  "home.tracks.live2d.title": "Live2D 스튜디오",
+  "home.tracks.storyReader.action": "스토리 리더 열기",
+  "home.tracks.storyReader.badge": "텍스트 & Live2D",
+  "home.tracks.storyReader.description": "유닛, 이벤트, 카드, 캐릭터, 스페셜, 에어리어 대화 스토리를 둘러보고, 텍스트로 읽거나 Live2D 스테이지에서 재생할 수 있습니다.",
+  "home.tracks.storyReader.title": "스토리 리더",
+  "support.cta": "프로젝트 후원하기"
+}

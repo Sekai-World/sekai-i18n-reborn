@@ -1,0 +1,20 @@
+{
+  "home.tagline": "Project Sekai hikâyelerini okuyun ve Live2D modellerini keşfedin; daha fazla laboratuvar yolda.",
+  "home.tracks.assetViewer.badge": "Hazırlanıyor",
+  "home.tracks.assetViewer.description": "3D varlık görüntüleyicide model paketlerine, dokulara ve animasyon kliplerine göz atın. Rota iskeleti, varlık işlem hattı çalışmalarıyla birlikte gelecek.",
+  "home.tracks.assetViewer.pending": "Henüz kullanılamıyor",
+  "home.tracks.assetViewer.title": "3D Varlık Laboratuvarı",
+  "home.tracks.chibi.action": "Chibi Studio'yu aç",
+  "home.tracks.chibi.badge": "Etkileşimli önizleme",
+  "home.tracks.chibi.description": "Oyunun bölgelerinde dolaşan chibi karakterlerin animasyonlarını oynatın.",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "Live2D Studio'yu aç",
+  "home.tracks.live2d.badge": "Etkileşimli önizleme",
+  "home.tracks.live2d.description": "Live2D modellerini dokuları, hareketleri ve fiziğiyle etkileşimli bir sahnede önizleyin.",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "Hikâye Okuyucu'yu aç",
+  "home.tracks.storyReader.badge": "Metin ve Live2D",
+  "home.tracks.storyReader.description": "Grup, etkinlik, kart, karakter ve özel hikâyelere ile bölge konuşmalarına göz atın; metin olarak okuyun veya Live2D sahnesinde oynatın.",
+  "home.tracks.storyReader.title": "Hikâye Okuyucu",
+  "support.cta": "Bu projeyi destekleyin"
+}

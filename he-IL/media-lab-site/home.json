@@ -1,0 +1,20 @@
+{
+  "home.tagline": "קראו סיפורים מ־Project Sekai וחקרו מודלי Live2D — עוד מעבדות בדרך.",
+  "home.tracks.assetViewer.badge": "בהכנה",
+  "home.tracks.assetViewer.description": "עיינו בחבילות מודלים, טקסטורות וקטעי אנימציה בצופה הנכסים התלת־ממדי. מעטפת הנתיב שלו תגיע עם עבודת צנרת הנכסים.",
+  "home.tracks.assetViewer.pending": "עדיין לא זמין",
+  "home.tracks.assetViewer.title": "מעבדת נכסים תלת־ממדית",
+  "home.tracks.chibi.action": "פתיחת Chibi Studio",
+  "home.tracks.chibi.badge": "תצוגה מקדימה אינטראקטיבית",
+  "home.tracks.chibi.description": "הפעילו את האנימציות של דמויות הצ׳יבי שמסתובבות באזורי המשחק.",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "פתיחת Live2D Studio",
+  "home.tracks.live2d.badge": "תצוגה מקדימה אינטראקטיבית",
+  "home.tracks.live2d.description": "צפו בתצוגה מקדימה של מודלי Live2D עם טקסטורות, תנועות ופיזיקה על במה אינטראקטיבית.",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "פתיחת Story Reader",
+  "home.tracks.storyReader.badge": "טקסט ו־Live2D",
+  "home.tracks.storyReader.description": "עיינו בסיפורי יחידות, אירועים, קלפים, דמויות, סיפורים מיוחדים ושיחות אזור; קראו אותם כטקסט או הפעילו אותם על במת Live2D.",
+  "home.tracks.storyReader.title": "Story Reader",
+  "support.cta": "תמכו בפרויקט הזה"
+}

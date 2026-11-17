@@ -1,0 +1,20 @@
+{
+  "home.tagline": "Czytaj historie z Project Sekai i poznawaj modele Live2D — kolejne laboratoria w drodze.",
+  "home.tracks.assetViewer.badge": "W przygotowaniu",
+  "home.tracks.assetViewer.description": "Przeglądaj paczki modeli, tekstury i klipy animacji w przeglądarce zasobów 3D. Jej szkielet trasy pojawi się wraz z pracami nad potokiem zasobów.",
+  "home.tracks.assetViewer.pending": "Jeszcze niedostępne",
+  "home.tracks.assetViewer.title": "3D Asset Lab",
+  "home.tracks.chibi.action": "Otwórz Chibi Studio",
+  "home.tracks.chibi.badge": "Interaktywny podgląd",
+  "home.tracks.chibi.description": "Odtwarzaj animacje postaci chibi, które chodzą po obszarach gry.",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "Otwórz Live2D Studio",
+  "home.tracks.live2d.badge": "Interaktywny podgląd",
+  "home.tracks.live2d.description": "Podglądaj modele Live2D z teksturami, ruchami i fizyką na interaktywnej scenie.",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "Otwórz Czytnik historii",
+  "home.tracks.storyReader.badge": "Tekst i Live2D",
+  "home.tracks.storyReader.description": "Przeglądaj historie jednostek, wydarzeń, kart, postaci, specjalne i rozmowy w obszarach; czytaj je jako tekst lub odtwarzaj na scenie Live2D.",
+  "home.tracks.storyReader.title": "Czytnik historii",
+  "support.cta": "Wesprzyj projekt"
+}

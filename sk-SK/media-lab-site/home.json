@@ -1,0 +1,20 @@
+{
+  "home.tagline": "Čítajte príbehy z Project Sekai a preskúmajte modely Live2D – ďalšie laboratóriá sú na ceste.",
+  "home.tracks.assetViewer.badge": "Pripravuje sa",
+  "home.tracks.assetViewer.description": "Prehliadajte balíky modelov, textúry a animačné klipy v prehliadači 3D assetov. Jeho kostra stránok pribudne spolu s prácou na pipeline assetov.",
+  "home.tracks.assetViewer.pending": "Zatiaľ nie je dostupné",
+  "home.tracks.assetViewer.title": "3D Asset Lab",
+  "home.tracks.chibi.action": "Otvoriť Chibi Studio",
+  "home.tracks.chibi.badge": "Interaktívny náhľad",
+  "home.tracks.chibi.description": "Prehrávajte animácie chibi postavičiek, ktoré sa prechádzajú po oblastiach hry.",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "Otvoriť Live2D Studio",
+  "home.tracks.live2d.badge": "Interaktívny náhľad",
+  "home.tracks.live2d.description": "Prezerajte modely Live2D s textúrami, pohybmi a fyzikou na interaktívnej scéne.",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "Otvoriť Čítačku príbehov",
+  "home.tracks.storyReader.badge": "Text a Live2D",
+  "home.tracks.storyReader.description": "Prehliadajte príbehy skupín, udalostí, kariet, postáv, špeciálne príbehy a rozhovory v oblastiach; čítajte ich ako text alebo ich prehrávajte na scéne Live2D.",
+  "home.tracks.storyReader.title": "Čítačka príbehov",
+  "support.cta": "Podporiť projekt"
+}

@@ -1,0 +1,20 @@
+{
+  "home.tagline": "Đọc cốt truyện Project Sekai và khám phá các mô hình Live2D — còn nhiều Lab khác đang được phát triển.",
+  "home.tracks.assetViewer.badge": "Đang chuẩn bị",
+  "home.tracks.assetViewer.description": "Duyệt gói mô hình, texture và đoạn hoạt ảnh trong trình xem tài nguyên 3D. Khung đường dẫn của nó sẽ có cùng công việc về pipeline tài nguyên.",
+  "home.tracks.assetViewer.pending": "Chưa khả dụng",
+  "home.tracks.assetViewer.title": "3D Asset Lab",
+  "home.tracks.chibi.action": "Mở Chibi Studio",
+  "home.tracks.chibi.badge": "Xem trước tương tác",
+  "home.tracks.chibi.description": "Phát hoạt ảnh của các nhân vật chibi đi lại khắp các khu vực trong game.",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "Mở Live2D Studio",
+  "home.tracks.live2d.badge": "Xem trước tương tác",
+  "home.tracks.live2d.description": "Xem trước mô hình Live2D với texture, chuyển động và vật lý trên sân khấu tương tác.",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "Mở Trình đọc cốt truyện",
+  "home.tracks.storyReader.badge": "Văn bản & Live2D",
+  "home.tracks.storyReader.description": "Duyệt cốt truyện của nhóm, sự kiện, thẻ, nhân vật, cốt truyện đặc biệt và Area Talk; đọc dạng văn bản hoặc phát trên sân khấu Live2D.",
+  "home.tracks.storyReader.title": "Trình đọc cốt truyện",
+  "support.cta": "Ủng hộ dự án này"
+}

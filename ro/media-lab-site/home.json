@@ -1,0 +1,20 @@
+{
+  "home.tagline": "Citiți poveștile din Project Sekai și explorați modelele Live2D — mai multe laboratoare urmează.",
+  "home.tracks.assetViewer.badge": "În pregătire",
+  "home.tracks.assetViewer.description": "Răsfoiți pachetele de modele, texturile și clipurile de animație în vizualizatorul de resurse 3D. Structura paginilor sale va apărea odată cu lucrările la fluxul de resurse.",
+  "home.tracks.assetViewer.pending": "Încă indisponibil",
+  "home.tracks.assetViewer.title": "Laborator de resurse 3D",
+  "home.tracks.chibi.action": "Deschideți Chibi Studio",
+  "home.tracks.chibi.badge": "Previzualizare interactivă",
+  "home.tracks.chibi.description": "Redați animațiile personajelor chibi care se plimbă prin zonele jocului.",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "Deschideți Live2D Studio",
+  "home.tracks.live2d.badge": "Previzualizare interactivă",
+  "home.tracks.live2d.description": "Previzualizați modele Live2D cu texturi, mișcări și fizică pe o scenă interactivă.",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "Deschideți Cititorul de povești",
+  "home.tracks.storyReader.badge": "Text și Live2D",
+  "home.tracks.storyReader.description": "Răsfoiți poveștile grupurilor, evenimentelor, cardurilor, personajelor, poveștile speciale și conversațiile din zone; citiți-le ca text sau redați-le pe o scenă Live2D.",
+  "home.tracks.storyReader.title": "Cititor de povești",
+  "support.cta": "Susțineți acest proiect"
+}

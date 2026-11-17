@@ -1,0 +1,20 @@
+{
+  "home.tagline": "Lees Project Sekai-verhalen en ontdek Live2D-modellen – meer labs volgen.",
+  "home.tracks.assetViewer.badge": "In voorbereiding",
+  "home.tracks.assetViewer.description": "Blader door modelbundels, texturen en animatieclips in de 3D-assetviewer. De routeschil volgt met het werk aan de assetpipeline.",
+  "home.tracks.assetViewer.pending": "Nog niet beschikbaar",
+  "home.tracks.assetViewer.title": "3D Asset Lab",
+  "home.tracks.chibi.action": "Chibi Studio openen",
+  "home.tracks.chibi.badge": "Interactieve preview",
+  "home.tracks.chibi.description": "Speel de animaties af van de chibi-personages die door de gebieden van het spel lopen.",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "Live2D Studio openen",
+  "home.tracks.live2d.badge": "Interactieve preview",
+  "home.tracks.live2d.description": "Bekijk Live2D-modellen met texturen, bewegingen en fysica op een interactief podium.",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "Verhalenlezer openen",
+  "home.tracks.storyReader.badge": "Tekst & Live2D",
+  "home.tracks.storyReader.description": "Blader door eenheids-, evenement-, kaart-, personage-, speciale en gebiedsgesprekverhalen; lees ze als tekst of speel ze af op een Live2D-podium.",
+  "home.tracks.storyReader.title": "Verhalenlezer",
+  "support.cta": "Steun dit project"
+}

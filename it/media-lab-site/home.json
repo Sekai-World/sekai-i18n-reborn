@@ -1,0 +1,20 @@
+{
+  "home.tagline": "Leggi le storie di Project Sekai ed esplora i modelli Live2D — altri lab in arrivo.",
+  "home.tracks.assetViewer.badge": "In preparazione",
+  "home.tracks.assetViewer.description": "Sfoglia pacchetti di modelli, texture e clip di animazione nel visualizzatore di risorse 3D. La struttura delle route arriverà con il lavoro sulla pipeline delle risorse.",
+  "home.tracks.assetViewer.pending": "Non ancora disponibile",
+  "home.tracks.assetViewer.title": "Lab risorse 3D",
+  "home.tracks.chibi.action": "Apri Chibi Studio",
+  "home.tracks.chibi.badge": "Anteprima interattiva",
+  "home.tracks.chibi.description": "Riproduci le animazioni dei personaggi chibi che si aggirano per le aree del gioco.",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "Apri Live2D Studio",
+  "home.tracks.live2d.badge": "Anteprima interattiva",
+  "home.tracks.live2d.description": "Visualizza in anteprima i modelli Live2D con texture, movimenti e fisica su un palco interattivo.",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "Apri il lettore di storie",
+  "home.tracks.storyReader.badge": "Testo e Live2D",
+  "home.tracks.storyReader.description": "Sfoglia le storie di unità, evento, carta, personaggio, speciali e conversazioni di area; leggile come testo o riproducile su un palco Live2D.",
+  "home.tracks.storyReader.title": "Lettore di storie",
+  "support.cta": "Supporta questo progetto"
+}

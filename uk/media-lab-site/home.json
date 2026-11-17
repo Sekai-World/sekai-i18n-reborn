@@ -1,0 +1,20 @@
+{
+  "home.tagline": "Читайте історії Project Sekai та досліджуйте моделі Live2D — незабаром з'являться й інші лабораторії.",
+  "home.tracks.assetViewer.badge": "У розробці",
+  "home.tracks.assetViewer.description": "Переглядайте пакети моделей, текстури й анімаційні кліпи в переглядачі 3D-ресурсів. Каркас його сторінок з'явиться разом із роботою над конвеєром ресурсів.",
+  "home.tracks.assetViewer.pending": "Поки недоступно",
+  "home.tracks.assetViewer.title": "Лабораторія 3D-ресурсів",
+  "home.tracks.chibi.action": "Відкрити Chibi Studio",
+  "home.tracks.chibi.badge": "Інтерактивний перегляд",
+  "home.tracks.chibi.description": "Відтворюйте анімації персонажів-чібі, які гуляють локаціями гри.",
+  "home.tracks.chibi.title": "Chibi Studio",
+  "home.tracks.live2d.action": "Відкрити Live2D Studio",
+  "home.tracks.live2d.badge": "Інтерактивний перегляд",
+  "home.tracks.live2d.description": "Переглядайте моделі Live2D з текстурами, рухами та фізикою на інтерактивній сцені.",
+  "home.tracks.live2d.title": "Live2D Studio",
+  "home.tracks.storyReader.action": "Відкрити читання історій",
+  "home.tracks.storyReader.badge": "Текст і Live2D",
+  "home.tracks.storyReader.description": "Переглядайте історії юнітів, подій, карток, персонажів, особливі історії та розмови в локаціях; читайте їх як текст або відтворюйте на сцені Live2D.",
+  "home.tracks.storyReader.title": "Читання історій",
+  "support.cta": "Підтримати проєкт"
+}
