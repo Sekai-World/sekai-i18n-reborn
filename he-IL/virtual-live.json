@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "ההופעה הווירטואלית נטענת...",
   "virtualLiveUnavailableInCurrentRegion": "ההופעה הווירטואלית הזו אינה זמינה באזור הנוכחי. אפשר להחליף אזור באמצעות תגי האזור.",
   "failedToLoadVirtualLiveData": "טעינת נתוני ההופעה הווירטואלית נכשלה.",
-  "invalidVirtualLiveId": "מזהה ההופעה הווירטואלית אינו תקין.",
   "virtualLiveBannerAltSuffix": "כרזה של הופעה וירטואלית",
   "virtualLiveStatus.ongoing": "מתקיימת עכשיו",
   "virtualLiveType.normal": "רגילה",

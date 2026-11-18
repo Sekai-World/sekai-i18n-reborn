@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "載入緊虛擬演出……",
   "virtualLiveUnavailableInCurrentRegion": "呢場虛擬演出喺目前地區未有提供。請用地區徽章轉換地區。",
   "failedToLoadVirtualLiveData": "載入虛擬演出資料失敗。",
-  "invalidVirtualLiveId": "虛擬演出 ID 無效。",
   "virtualLiveBannerAltSuffix": "虛擬演出橫額",
   "virtualLiveStatus.ongoing": "進行中",
   "virtualLiveType.normal": "一般",

@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Đang tải Virtual Live...",
   "virtualLiveUnavailableInCurrentRegion": "Virtual Live này không khả dụng ở khu vực hiện tại. Hãy dùng huy hiệu để chuyển khu vực.",
   "failedToLoadVirtualLiveData": "Không thể tải dữ liệu Virtual Live.",
-  "invalidVirtualLiveId": "ID Virtual Live không hợp lệ.",
   "virtualLiveBannerAltSuffix": "biểu ngữ Virtual Live",
   "virtualLiveStatus.ongoing": "Đang diễn ra",
   "virtualLiveType.normal": "Thông thường",

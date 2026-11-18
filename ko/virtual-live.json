@@ -1,6 +1,5 @@
 {
   "failedToLoadVirtualLiveData": "버추얼 라이브 데이터를 불러오지 못했습니다.",
-  "invalidVirtualLiveId": "잘못된 버추얼 라이브 ID입니다.",
   "pageTitle.virtualLivePrefix": "버추얼 라이브",
   "virtualLiveAdditionalDataTitle": "추가 데이터",
   "virtualLiveBannerAltSuffix": "버추얼 라이브 배너",

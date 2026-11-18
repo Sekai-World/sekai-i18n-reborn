@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "S'està carregant el concert virtual...",
   "virtualLiveUnavailableInCurrentRegion": "Aquest concert virtual no està disponible a la regió actual. Canvia de regió amb les insígnies.",
   "failedToLoadVirtualLiveData": "No s'han pogut carregar les dades del concert virtual.",
-  "invalidVirtualLiveId": "L'ID del concert virtual no és vàlid.",
   "virtualLiveBannerAltSuffix": "bàner del concert virtual",
   "virtualLiveStatus.ongoing": "En curs",
   "virtualLiveType.normal": "Normal",

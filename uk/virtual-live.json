@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Завантаження віртуального лайву...",
   "virtualLiveUnavailableInCurrentRegion": "Цей віртуальний лайв недоступний у поточному регіоні. Змініть регіон за допомогою позначок.",
   "failedToLoadVirtualLiveData": "Не вдалося завантажити дані віртуального лайву.",
-  "invalidVirtualLiveId": "Некоректний ID віртуального лайву.",
   "virtualLiveBannerAltSuffix": "банер віртуального лайву",
   "virtualLiveStatus.ongoing": "Триває",
   "virtualLiveType.normal": "Звичайний",

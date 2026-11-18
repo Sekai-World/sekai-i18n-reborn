@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Načítání virtuálního live...",
   "virtualLiveUnavailableInCurrentRegion": "Toto virtuální live není v aktuálním regionu k dispozici. Region můžete změnit pomocí štítků.",
   "failedToLoadVirtualLiveData": "Data virtuálního live se nepodařilo načíst.",
-  "invalidVirtualLiveId": "Neplatné ID virtuálního live.",
   "virtualLiveBannerAltSuffix": "banner virtuálního live",
   "virtualLiveStatus.ongoing": "Probíhá",
   "virtualLiveType.normal": "Běžné",

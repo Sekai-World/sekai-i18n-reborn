@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Sanal canlı etkinlik yükleniyor...",
   "virtualLiveUnavailableInCurrentRegion": "Bu sanal canlı etkinlik mevcut bölgede bulunmuyor. Bölge rozetlerinden başka bir bölge seçin.",
   "failedToLoadVirtualLiveData": "Sanal canlı etkinlik verileri yüklenemedi.",
-  "invalidVirtualLiveId": "Sanal canlı etkinlik ID'si geçersiz.",
   "virtualLiveBannerAltSuffix": "sanal canlı etkinlik afişi",
   "virtualLiveStatus.ongoing": "Devam Ediyor",
   "virtualLiveType.normal": "Normal",

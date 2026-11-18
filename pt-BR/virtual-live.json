@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Carregando live virtual…",
   "virtualLiveUnavailableInCurrentRegion": "Este live virtual não está disponível na região atual. Troque de região pelos botões de região.",
   "failedToLoadVirtualLiveData": "Não foi possível carregar os dados do live virtual.",
-  "invalidVirtualLiveId": "ID de live virtual inválido.",
   "virtualLiveBannerAltSuffix": "banner de live virtual",
   "virtualLiveStatus.ongoing": "Em andamento",
   "virtualLiveType.normal": "Normal",

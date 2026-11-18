@@ -1,6 +1,5 @@
 {
   "failedToLoadVirtualLiveData": "バーチャルライブデータの読み込みに失敗しました。",
-  "invalidVirtualLiveId": "無効なバーチャルライブIDです。",
   "pageTitle.virtualLivePrefix": "バーチャルライブ",
   "virtualLiveAdditionalDataTitle": "追加データ",
   "virtualLiveBannerAltSuffix": "バーチャルライブバナー",

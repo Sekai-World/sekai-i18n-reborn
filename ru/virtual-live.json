@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Загрузка виртуального лайва...",
   "virtualLiveUnavailableInCurrentRegion": "Этот виртуальный лайв недоступен в текущем регионе. Переключите регион с помощью переключателей.",
   "failedToLoadVirtualLiveData": "Не удалось загрузить данные виртуального лайва.",
-  "invalidVirtualLiveId": "Неверный ID виртуального лайва.",
   "virtualLiveBannerAltSuffix": "баннер виртуального лайва",
   "virtualLiveStatus.ongoing": "Идёт сейчас",
   "virtualLiveType.normal": "Обычный",
