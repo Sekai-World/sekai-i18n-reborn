@@ -1,6 +1,5 @@
 {
   "failedToLoadVirtualLiveData": "虚拟演唱会数据加载失败。",
-  "invalidVirtualLiveId": "无效的虚拟演唱会 ID。",
   "pageTitle.virtualLivePrefix": "虚拟演唱会",
   "virtualLiveAdditionalDataTitle": "附加数据",
   "virtualLiveBannerAltSuffix": "虚拟演唱会横幅",

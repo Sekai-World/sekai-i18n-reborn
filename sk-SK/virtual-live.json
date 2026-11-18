@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Načítavanie virtuálneho vystúpenia...",
   "virtualLiveUnavailableInCurrentRegion": "Toto virtuálne vystúpenie nie je dostupné v aktuálnom regióne. Región môžete zmeniť pomocou odznakov.",
   "failedToLoadVirtualLiveData": "Nepodarilo sa načítať údaje o virtuálnom vystúpení.",
-  "invalidVirtualLiveId": "Neplatné ID virtuálneho vystúpenia.",
   "virtualLiveBannerAltSuffix": "banner virtuálneho vystúpenia",
   "virtualLiveStatus.ongoing": "Prebieha",
   "virtualLiveType.normal": "Bežné",

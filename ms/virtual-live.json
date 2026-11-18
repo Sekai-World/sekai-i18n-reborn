@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Sedang memuatkan Virtual Live...",
   "virtualLiveUnavailableInCurrentRegion": "Virtual Live ini tidak tersedia di rantau semasa. Tukar rantau menggunakan lencana.",
   "failedToLoadVirtualLiveData": "Data Virtual Live gagal dimuatkan.",
-  "invalidVirtualLiveId": "ID Virtual Live tidak sah.",
   "virtualLiveBannerAltSuffix": "sepanduk Virtual Live",
   "virtualLiveStatus.ongoing": "Sedang berlangsung",
   "virtualLiveType.normal": "Biasa",

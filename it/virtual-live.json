@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Caricamento del live virtuale…",
   "virtualLiveUnavailableInCurrentRegion": "Questo live virtuale non è disponibile nella regione attuale. Cambia regione usando i badge.",
   "failedToLoadVirtualLiveData": "Impossibile caricare i dati del live virtuale.",
-  "invalidVirtualLiveId": "ID del live virtuale non valido.",
   "virtualLiveBannerAltSuffix": "banner del live virtuale",
   "virtualLiveStatus.ongoing": "In corso",
   "virtualLiveType.normal": "Normale",

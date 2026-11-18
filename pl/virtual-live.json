@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Wczytywanie wirtualnego koncertu...",
   "virtualLiveUnavailableInCurrentRegion": "Ten wirtualny koncert nie jest dostępny w bieżącym regionie. Zmień region za pomocą plakietek.",
   "failedToLoadVirtualLiveData": "Nie udało się wczytać danych wirtualnego koncertu.",
-  "invalidVirtualLiveId": "Nieprawidłowy identyfikator wirtualnego koncertu.",
   "virtualLiveBannerAltSuffix": "baner wirtualnego koncertu",
   "virtualLiveStatus.ongoing": "Trwa",
   "virtualLiveType.normal": "Standardowy",

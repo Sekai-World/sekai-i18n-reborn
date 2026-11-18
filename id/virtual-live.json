@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Memuat Virtual Live...",
   "virtualLiveUnavailableInCurrentRegion": "Virtual Live ini tidak tersedia di region saat ini. Ganti region melalui lencana.",
   "failedToLoadVirtualLiveData": "Data Virtual Live gagal dimuat.",
-  "invalidVirtualLiveId": "ID Virtual Live tidak valid.",
   "virtualLiveBannerAltSuffix": "banner Virtual Live",
   "virtualLiveStatus.ongoing": "Sedang berlangsung",
   "virtualLiveType.normal": "Normal",

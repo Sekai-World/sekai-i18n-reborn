@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Se încarcă spectacolul virtual în direct...",
   "virtualLiveUnavailableInCurrentRegion": "Acest spectacol virtual în direct nu este disponibil în regiunea curentă. Schimbă regiunea folosind insignele.",
   "failedToLoadVirtualLiveData": "Datele spectacolului virtual în direct nu au putut fi încărcate.",
-  "invalidVirtualLiveId": "ID-ul spectacolului virtual în direct nu este valid.",
   "virtualLiveBannerAltSuffix": "bannerul spectacolului virtual în direct",
   "virtualLiveStatus.ongoing": "În desfășurare",
   "virtualLiveType.normal": "Normal",

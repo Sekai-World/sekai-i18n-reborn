@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Virtuele liveshow laden…",
   "virtualLiveUnavailableInCurrentRegion": "Deze virtuele liveshow is niet beschikbaar in de huidige regio. Wissel van regio met de regioknoppen.",
   "failedToLoadVirtualLiveData": "De gegevens van de virtuele liveshow konden niet worden geladen.",
-  "invalidVirtualLiveId": "De ID van de virtuele liveshow is ongeldig.",
   "virtualLiveBannerAltSuffix": "banner van de virtuele liveshow",
   "virtualLiveStatus.ongoing": "Bezig",
   "virtualLiveType.normal": "Normaal",

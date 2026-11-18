@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Cargando concierto virtual...",
   "virtualLiveUnavailableInCurrentRegion": "Este concierto virtual no está disponible en la región actual. Cambia de región con los distintivos.",
   "failedToLoadVirtualLiveData": "No se pudieron cargar los datos del concierto virtual.",
-  "invalidVirtualLiveId": "El ID del concierto virtual no es válido.",
   "virtualLiveBannerAltSuffix": "banner del concierto virtual",
   "virtualLiveStatus.ongoing": "En curso",
   "virtualLiveType.normal": "Normal",

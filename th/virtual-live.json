@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "กำลังโหลด Virtual Live...",
   "virtualLiveUnavailableInCurrentRegion": "Virtual Live นี้ไม่มีให้บริการในภูมิภาคปัจจุบัน เปลี่ยนภูมิภาคได้จากป้ายเลือกภูมิภาค",
   "failedToLoadVirtualLiveData": "โหลดข้อมูล Virtual Live ไม่สำเร็จ",
-  "invalidVirtualLiveId": "ID Virtual Live ไม่ถูกต้อง",
   "virtualLiveBannerAltSuffix": "แบนเนอร์ Virtual Live",
   "virtualLiveStatus.ongoing": "กำลังดำเนินอยู่",
   "virtualLiveType.normal": "ปกติ",

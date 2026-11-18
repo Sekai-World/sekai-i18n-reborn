@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "Cargando directo virtual...",
   "virtualLiveUnavailableInCurrentRegion": "Este directo virtual no está disponible en la región actual. Cambia de región con los distintivos.",
   "failedToLoadVirtualLiveData": "No se han podido cargar los datos del directo virtual.",
-  "invalidVirtualLiveId": "El ID del directo virtual no es válido.",
   "virtualLiveBannerAltSuffix": "banner del directo virtual",
   "virtualLiveStatus.ongoing": "En curso",
   "virtualLiveType.normal": "Normal",

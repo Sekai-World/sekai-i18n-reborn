@@ -8,7 +8,6 @@
   "virtualLiveDetailLoading": "جارٍ تحميل العرض الافتراضي المباشر...",
   "virtualLiveUnavailableInCurrentRegion": "هذا العرض الافتراضي المباشر غير متاح في المنطقة الحالية. بدّل المنطقة باستخدام الشارات.",
   "failedToLoadVirtualLiveData": "تعذّر تحميل بيانات العرض الافتراضي المباشر.",
-  "invalidVirtualLiveId": "معرّف العرض الافتراضي المباشر غير صالح.",
   "virtualLiveBannerAltSuffix": "لافتة العرض الافتراضي المباشر",
   "virtualLiveStatus.ongoing": "جارٍ الآن",
   "virtualLiveType.normal": "عادي",
